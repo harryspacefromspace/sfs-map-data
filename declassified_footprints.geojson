@@ -22144,12 +22144,12 @@
         ]
       },
       "properties": {
-        "title": "Heathrow Airport, England",
-        "url": "https://spacefromspace.com/declassified-satellite-images/heathrow-airport-england-19730815",
-        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb260490d84f183a3ff763_heathrow-airport-london-declassified-kh9-satellite-19730815%20(Thumb).jpg",
+        "title": "Fairford, England",
+        "url": "https://spacefromspace.com/declassified-satellite-images/fairford-england-19730815",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb3a832d1b01e097da19d3_fairford-england-declassified-satellite-concorde-vulcan-19730815%20(Thumb).jpg",
         "entity_id": "D3C1206-300341A012",
         "dataset": "DECLASSIII",
-        "slug": "heathrow-airport-england-19730815",
+        "slug": "fairford-england-19730815",
         "date": "1973-08-15"
       }
     },
@@ -24773,6 +24773,45 @@
         "coordinates": [
           [
             [
+              -83.067,
+              28.785
+            ],
+            [
+              -80.217,
+              28.557
+            ],
+            [
+              -80.197,
+              28.701
+            ],
+            [
+              -83.148,
+              29.098
+            ],
+            [
+              -83.067,
+              28.785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Cape Canaveral",
+        "url": "https://spacefromspace.com/declassified-satellite-images/launch-complex-39a-lc39a-kh9-19720602",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb1af457845eeb8bef6bf3_1400x1400_D3C1202-200202A040_b_20copy%20(Thumb).jpg",
+        "entity_id": "D3C1202-200202A040",
+        "dataset": "DECLASSIII",
+        "slug": "launch-complex-39a-lc39a-kh9-19720602",
+        "date": "1972-02-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -82.578,
               30.422
             ],
@@ -26356,12 +26395,12 @@
         ]
       },
       "properties": {
-        "title": "Heathrow Airport, England",
-        "url": "https://spacefromspace.com/declassified-satellite-images/heathrow-airport-england-19730815",
-        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb260490d84f183a3ff763_heathrow-airport-london-declassified-kh9-satellite-19730815%20(Thumb).jpg",
+        "title": "Fairford, England",
+        "url": "https://spacefromspace.com/declassified-satellite-images/fairford-england-19730815",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb3a832d1b01e097da19d3_fairford-england-declassified-satellite-concorde-vulcan-19730815%20(Thumb).jpg",
         "entity_id": "D3C1206-300341A012",
         "dataset": "DECLASSIII",
-        "slug": "heathrow-airport-england-19730815",
+        "slug": "fairford-england-19730815",
         "date": "1973-08-15"
       }
     },
@@ -26987,45 +27026,6 @@
         "dataset": "DECLASSIII",
         "slug": "cape-canaveral-19831029",
         "date": "1983-10-29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -83.067,
-              28.785
-            ],
-            [
-              -80.217,
-              28.557
-            ],
-            [
-              -80.197,
-              28.701
-            ],
-            [
-              -83.148,
-              29.098
-            ],
-            [
-              -83.067,
-              28.785
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Cape Canaveral",
-        "url": "https://spacefromspace.com/declassified-satellite-images/launch-complex-39a-lc39a-kh9-19720602",
-        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb1af457845eeb8bef6bf3_1400x1400_D3C1202-200202A040_b_20copy%20(Thumb).jpg",
-        "entity_id": "D3C1202-200202A040",
-        "dataset": "DECLASSIII",
-        "slug": "launch-complex-39a-lc39a-kh9-19720602",
-        "date": "1972-02-06"
       }
     },
     {
