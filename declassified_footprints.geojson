@@ -18962,6 +18962,45 @@
         "coordinates": [
           [
             [
+              45.272,
+              24.742
+            ],
+            [
+              47.607,
+              24.511
+            ],
+            [
+              47.66,
+              24.727
+            ],
+            [
+              45.27,
+              24.965
+            ],
+            [
+              45.272,
+              24.742
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Riyadh Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/riyadh-saudi-arabia-19840717-d3c1219-100126a038",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/693f55d47e29955b1bccbd92_riyadh-saudi-arabia-1984-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1219-100126A038",
+        "dataset": "DECLASSIII",
+        "slug": "riyadh-saudi-arabia-19840717-d3c1219-100126a038",
+        "date": "1984-07-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               106.03,
               10.742
             ],
