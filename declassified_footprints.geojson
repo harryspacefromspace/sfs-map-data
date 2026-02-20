@@ -26457,6 +26457,45 @@
         "coordinates": [
           [
             [
+              3.265,
+              6.215
+            ],
+            [
+              3.45,
+              6.182
+            ],
+            [
+              3.532,
+              6.615
+            ],
+            [
+              3.35,
+              6.65
+            ],
+            [
+              3.265,
+              6.215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lagos Nigeria",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lagos-nigeria-19660219-dzb00402500059h026001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/6997dd67d4fcc1a31f72b90c_lagos-nigeria-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00402500059H026001",
+        "dataset": "DECLASSII",
+        "slug": "lagos-nigeria-19660219-dzb00402500059h026001",
+        "date": "1966-02-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               12.25,
               -6.265
             ],
