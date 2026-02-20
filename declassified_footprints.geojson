@@ -26566,6 +26566,45 @@
         "slug": "benghazi-libya-19660121-dzb00402400026h021001",
         "date": "1966-01-21"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.138,
+              9.19
+            ],
+            [
+              16.921,
+              9.475
+            ],
+            [
+              16.613,
+              15.35
+            ],
+            [
+              11.723,
+              15.058
+            ],
+            [
+              12.138,
+              9.19
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lake Chad",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lake-chad-19631031-ds09059a073mc034",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/6997e8cc8f2ca77346094d7f_lake-chad-africa-1963-declassified-spy-satellite-kh5-argon-thumb.jpg",
+        "entity_id": "DS09059A073MC034",
+        "dataset": "corona2",
+        "slug": "lake-chad-19631031-ds09059a073mc034",
+        "date": "1963-10-31"
+      }
     }
   ]
 }
