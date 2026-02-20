@@ -12550,12 +12550,12 @@
         ]
       },
       "properties": {
-        "title": "Benghazi, Libya",
-        "url": "https://spacefromspace.com/declassified-satellite-images/benghazi-libya-19660121",
-        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb201562a4c3189694e13b_benghazi-libya-1966-declassified-spy-satellite-image-kh7-gambit%20(Thumb).jpeg",
+        "title": "Mosul, Iraq",
+        "url": "https://spacefromspace.com/declassified-satellite-images/mosul-iraq-19670608",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb131d83fe9067313ceeea_mosul-iraq-1967-declassified-spy-satellite-image-kh7-gambit%20(Thumb).jpeg",
         "entity_id": "DZB00403800057H012001",
         "dataset": "DECLASSII",
-        "slug": "benghazi-libya-19660121",
+        "slug": "mosul-iraq-19670608",
         "date": "1967-06-08"
       }
     },
@@ -13298,6 +13298,45 @@
         "dataset": "DECLASSII",
         "slug": "ufa-russia-19670611",
         "date": "1967-06-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.882,
+              31.965
+            ],
+            [
+              20.165,
+              31.932
+            ],
+            [
+              20.232,
+              32.4
+            ],
+            [
+              19.95,
+              32.432
+            ],
+            [
+              19.882,
+              31.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Benghazi Libya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/benghazi-libya-19660121-dzb00402400026h021001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/67fb201562a4c3189694e13b_benghazi-libya-1966-declassified-spy-satellite-image-kh7-gambit%20(Thumb).jpeg",
+        "entity_id": "DZB00402400026H021001",
+        "dataset": "DECLASSII",
+        "slug": "benghazi-libya-19660121-dzb00402400026h021001",
+        "date": "1966-01-21"
       }
     },
     {
