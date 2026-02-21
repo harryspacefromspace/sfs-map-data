@@ -27378,6 +27378,45 @@
         "slug": "abidjan-ivory-coast-19670304-ds1039-2154df047",
         "date": "1967-03-04"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.491,
+              2.641
+            ],
+            [
+              36.711,
+              2.509
+            ],
+            [
+              36.978,
+              4.941
+            ],
+            [
+              35.759,
+              5.076
+            ],
+            [
+              35.491,
+              2.641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lake Turkana, Kenya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lake-turkana-kenya-19780601-dzb1214-500302l001001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/6999281d20b6521b71bd85b3_lake-turkana-kenya-1978-declassified-spy-satellite-kh9-hexagon-mapping-thumb.jpg",
+        "entity_id": "DZB1214-500302L001001",
+        "dataset": "DECLASSII",
+        "slug": "lake-turkana-kenya-19780601-dzb1214-500302l001001",
+        "date": "1978-06-01"
+      }
     }
   ]
 }
