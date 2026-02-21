@@ -27339,6 +27339,45 @@
         "slug": "d3c1216-100080a006",
         "date": "1980-06-27"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.483,
+              4.916
+            ],
+            [
+              -2.8,
+              5.266
+            ],
+            [
+              -2.85,
+              5.45
+            ],
+            [
+              -5.483,
+              5.1
+            ],
+            [
+              -5.483,
+              4.916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Abidjan, Ivory Coast",
+        "url": "https://spacefromspace.com/declassified-satellite-images/abidjan-ivory-coast-19670304-ds1039-2154df047",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/6998fd4334a72c0888875f32_abidjan-ivory-coast-1967-declassified-spy-satellite-kh4a-corona-thumb.jpg",
+        "entity_id": "DS1039-2154DF047",
+        "dataset": "corona2",
+        "slug": "abidjan-ivory-coast-19670304-ds1039-2154df047",
+        "date": "1967-03-04"
+      }
     }
   ]
 }
