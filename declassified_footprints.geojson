@@ -28160,6 +28160,46 @@
         "date": "1979-06-17",
         "country": "ZA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.891,
+              -7.448
+            ],
+            [
+              107.137,
+              -7.6
+            ],
+            [
+              107.441,
+              -5.133
+            ],
+            [
+              106.204,
+              -4.979
+            ],
+            [
+              105.891,
+              -7.448
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "West Java, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/west-java-indonesia-19771005-dzb1213-500233l005001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699b8ee5e78e09b2c36fc884_west-java-indonesia-1977-declassified-spy-satellite-kh9-hexagon-mapping-thumb.jpg",
+        "entity_id": "DZB1213-500233L005001",
+        "dataset": "DECLASSII",
+        "slug": "west-java-indonesia-19771005-dzb1213-500233l005001",
+        "date": "1977-10-05",
+        "country": "ID"
+      }
     }
   ]
 }
