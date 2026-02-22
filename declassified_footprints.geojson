@@ -38,7 +38,7 @@
         "dataset": "DECLASSII",
         "slug": "decatur-illinois-usa-19670526-dzb00403700063h003001",
         "date": "1967-05-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -78,7 +78,7 @@
         "dataset": "DECLASSII",
         "slug": "kolkata-india-19790519-dzb1215-500298l007001",
         "date": "1979-05-19",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -118,7 +118,7 @@
         "dataset": "DECLASSII",
         "slug": "soyo-angola-kitombe-dr-congo-19660819-dzb00403100042h017001",
         "date": "1966-08-19",
-        "country": ""
+        "country": "AO"
       }
     },
     {
@@ -158,7 +158,7 @@
         "dataset": "DECLASSII",
         "slug": "matochkin-shar-novaya-zemlya-russia-1965104-dzb00402200058h001001",
         "date": "1965-10-04",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -198,7 +198,7 @@
         "dataset": "DECLASSII",
         "slug": "matochkin-shar-novaya-zemlya-russia-19670607-dzb00403800043h002001",
         "date": "1967-06-07",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -238,7 +238,7 @@
         "dataset": "DECLASSII",
         "slug": "yanji-china-19670523-dzb00403700005h008001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -278,7 +278,7 @@
         "dataset": "DECLASSII",
         "slug": "pyongyang-north-korea-19650316-dzb00401600054h007001",
         "date": "1965-03-16",
-        "country": ""
+        "country": "KP"
       }
     },
     {
@@ -318,7 +318,7 @@
         "dataset": "DECLASSII",
         "slug": "suez-egypt-19670529-dzb00403700106h015001",
         "date": "1967-05-29",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -358,7 +358,7 @@
         "dataset": "DECLASSII",
         "slug": "baikal-1-kazakhstan-19670528-dzb00403700104h003001",
         "date": "1967-05-28",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -398,7 +398,7 @@
         "dataset": "DECLASSII",
         "slug": "misrata-libya-19670523-dzb00403700010h012001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "LY"
       }
     },
     {
@@ -438,7 +438,7 @@
         "dataset": "DECLASSII",
         "slug": "lake-turkana-kenya-19780601-dzb1214-500302l001001",
         "date": "1978-06-01",
-        "country": ""
+        "country": "KE"
       }
     },
     {
@@ -478,7 +478,7 @@
         "dataset": "DECLASSII",
         "slug": "weihai-china-19650503-dzb00401700070h017001",
         "date": "1965-05-03",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -518,7 +518,7 @@
         "dataset": "DECLASSII",
         "slug": "arzyou-algeria-19670526-dzb00403700059h007001",
         "date": "1967-05-26",
-        "country": ""
+        "country": "DZ"
       }
     },
     {
@@ -558,7 +558,7 @@
         "dataset": "DECLASSII",
         "slug": "chengdu-china-19670523-dzb00403700006h008001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -598,7 +598,7 @@
         "dataset": "DECLASSII",
         "slug": "lagos-nigeria-19660219-dzb00402500059h026001",
         "date": "1966-02-19",
-        "country": ""
+        "country": "NG"
       }
     },
     {
@@ -638,7 +638,7 @@
         "dataset": "DECLASSII",
         "slug": "lop-nur-china-19660515-dzb00402800007h010001",
         "date": "1966-05-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -678,7 +678,7 @@
         "dataset": "DECLASSII",
         "slug": "matochkin-shar-novaya-zemlya-russia-19670526-dzb00403700057h001001",
         "date": "1967-05-26",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -718,7 +718,7 @@
         "dataset": "DECLASSII",
         "slug": "moscow-russia-19790525-dzb1215-500318l004001",
         "date": "1979-05-25",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -758,7 +758,7 @@
         "dataset": "DECLASSII",
         "slug": "chengdu-china-19670523-dzb00403700006h009001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -798,7 +798,7 @@
         "dataset": "DECLASSII",
         "slug": "kartaly-russia-19670523-dzb00403700008h011001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -838,7 +838,7 @@
         "dataset": "DECLASSII",
         "slug": "ulaanbaatar-mongolia-19670524-dzb00403700022h004001",
         "date": "1967-05-24",
-        "country": ""
+        "country": "MN"
       }
     },
     {
@@ -878,7 +878,7 @@
         "dataset": "DECLASSII",
         "slug": "lop-nur-china-19660420-dzb00402700007h007001",
         "date": "1966-04-20",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -918,7 +918,7 @@
         "dataset": "DECLASSII",
         "slug": "ningbo-china-19650503-dzb00401700070h020001",
         "date": "1965-05-03",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -958,7 +958,7 @@
         "dataset": "DECLASSII",
         "slug": "yogyakarta-indonesia-19660719-dzb00403000103h021001",
         "date": "1966-07-19",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -998,7 +998,7 @@
         "dataset": "DECLASSII",
         "slug": "bechar-algeria-19670611-dzb00403800107h016001",
         "date": "1967-06-11",
-        "country": ""
+        "country": "DZ"
       }
     },
     {
@@ -1038,7 +1038,7 @@
         "dataset": "DECLASSII",
         "slug": "vozdvizhenka-russia-19670203-dzb00403600005h009001",
         "date": "1967-02-03",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -1078,7 +1078,7 @@
         "dataset": "DECLASSII",
         "slug": "las-vegas-usa-19780706-dzb1214-500380l002001",
         "date": "1978-07-06",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -1118,7 +1118,7 @@
         "dataset": "DECLASSII",
         "slug": "zaporizhia-ukraine-19650531-dzb00401800058h025001",
         "date": "1965-05-31",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -1158,7 +1158,7 @@
         "dataset": "DECLASSII",
         "slug": "patna-india-19670525-dzb00403700039h011001",
         "date": "1967-05-25",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -1198,7 +1198,7 @@
         "dataset": "DECLASSII",
         "slug": "kara-strait-russia-19760709-dzb1212-500002l002001",
         "date": "1976-07-09",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -1238,7 +1238,7 @@
         "dataset": "DECLASSII",
         "slug": "taiyuan-china-19670526-dzb00403700054h011001",
         "date": "1967-05-26",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1278,7 +1278,7 @@
         "dataset": "DECLASSII",
         "slug": "aspidnoye-air-base-russia-19670524-dzb00403700036h001001",
         "date": "1967-05-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -1318,7 +1318,7 @@
         "dataset": "DECLASSII",
         "slug": "karbala-iraq-19750712-dzb1210-500128l013001",
         "date": "1975-07-12",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -1358,7 +1358,7 @@
         "dataset": "DECLASSII",
         "slug": "jinxi-china-19670528-dzb00403700086h002001",
         "date": "1967-05-28",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1398,7 +1398,7 @@
         "dataset": "DECLASSII",
         "slug": "cumana-venezuela-19660823-dzb00403100110h002001",
         "date": "1966-08-23",
-        "country": ""
+        "country": "VE"
       }
     },
     {
@@ -1438,7 +1438,7 @@
         "dataset": "DECLASSII",
         "slug": "berdiansk-ukraine-19661018-dzb00403300090h012001",
         "date": "1966-10-18",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -1478,7 +1478,7 @@
         "dataset": "DECLASSII",
         "slug": "jiajiang-china-19670523-dzb00403700006h010001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1518,7 +1518,7 @@
         "dataset": "DECLASSII",
         "slug": "santa-clara-cuba-19650127-dzb00401500063h001001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "CU"
       }
     },
     {
@@ -1558,7 +1558,7 @@
         "dataset": "DECLASSII",
         "slug": "wenzhou-china-19650503-dzb00401700070h021001",
         "date": "1965-05-03",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1598,7 +1598,7 @@
         "dataset": "DECLASSII",
         "slug": "khyagt-russia-altanbulag-mongolia-19670524-dzb00403700022h003001",
         "date": "1967-05-24",
-        "country": ""
+        "country": "MN"
       }
     },
     {
@@ -1638,7 +1638,7 @@
         "dataset": "DECLASSII",
         "slug": "kangerlussuaq-sondrestrom-greenland-19660324-dzb00402600095h001001",
         "date": "1966-03-24",
-        "country": ""
+        "country": "GL"
       }
     },
     {
@@ -1678,7 +1678,7 @@
         "dataset": "DECLASSII",
         "slug": "hamun-lake-iran-afghanistan-19790605-dzb1215-500376l002001",
         "date": "1979-06-05",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -1718,7 +1718,7 @@
         "dataset": "DECLASSII",
         "slug": "kazan-russia-19670527-dzb00403700073h009001",
         "date": "1967-05-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -1758,7 +1758,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00403700007h008001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1798,7 +1798,7 @@
         "dataset": "DECLASSII",
         "slug": "kunming-china-19670523-dzb00403700006h012001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1838,7 +1838,7 @@
         "dataset": "DECLASSII",
         "slug": "mudanjiang-china-19670523-dzb00403700005h007001",
         "date": "1967-05-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1878,7 +1878,7 @@
         "dataset": "DECLASSII",
         "slug": "la-paz-bolivia-19670527-dzb00403700078h001001",
         "date": "1967-05-27",
-        "country": ""
+        "country": "BO"
       }
     },
     {
@@ -1918,7 +1918,7 @@
         "dataset": "DECLASSII",
         "slug": "diyarbakir-turkey-19670203-dzb00403600009h012001",
         "date": "1967-02-03",
-        "country": ""
+        "country": "TR"
       }
     },
     {
@@ -1958,7 +1958,7 @@
         "dataset": "DECLASSII",
         "slug": "lop-nur-china-19660515-dzb00402800007h009001",
         "date": "1966-05-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -1998,7 +1998,7 @@
         "dataset": "DECLASSII",
         "slug": "yarkant-county-china-19670528-dzb00403700104h007001",
         "date": "1967-05-28",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -2038,7 +2038,7 @@
         "dataset": "DECLASSII",
         "slug": "lingcheng-china-19650501-dzb00401700038h023001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -2078,7 +2078,7 @@
         "dataset": "DECLASSII",
         "slug": "haikou-china-19650315-dzb00401600038h020001",
         "date": "1965-03-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -2118,7 +2118,7 @@
         "dataset": "DECLASSII",
         "slug": "bushehr-iran-19650502-dzb00401700057h022001",
         "date": "1965-05-02",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -2158,7 +2158,7 @@
         "dataset": "DECLASSII",
         "slug": "harbin-china-19650503-dzb00401700070h010001",
         "date": "1965-05-03",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -2198,7 +2198,7 @@
         "dataset": "DECLASSII",
         "slug": "chennai-india-19650429-dzb00401700007h017001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -2238,7 +2238,7 @@
         "dataset": "DECLASSII",
         "slug": "harju-county-estonia-19650429-dzb00401700010h008002",
         "date": "1965-04-29",
-        "country": ""
+        "country": "EE"
       }
     },
     {
@@ -2278,7 +2278,7 @@
         "dataset": "DECLASSII",
         "slug": "mosul-iraq-19670608-dzb00403800057h011001",
         "date": "1967-06-08",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -2318,7 +2318,7 @@
         "dataset": "DECLASSII",
         "slug": "kazan-russia-19740531-dzb1208-500154l003001",
         "date": "1974-05-31",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -2358,7 +2358,7 @@
         "dataset": "DECLASSII",
         "slug": "providensky-district-russia-19650430-dzb00401700019h002001",
         "date": "1965-04-30",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -2398,7 +2398,7 @@
         "dataset": "DECLASSII",
         "slug": "malmo-sweden-19660719-dzc00403000108h001001",
         "date": "1966-07-19",
-        "country": ""
+        "country": "SE"
       }
     },
     {
@@ -2438,7 +2438,7 @@
         "dataset": "DECLASSII",
         "slug": "new-orleans-usa-19650430-dzb00401700031h006002",
         "date": "1965-04-30",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -2478,7 +2478,7 @@
         "dataset": "DECLASSII",
         "slug": "springfield-missouri-19650429-dzb00401700015h007001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -2518,7 +2518,7 @@
         "dataset": "DECLASSII",
         "slug": "samara-russia-19650316-dzb00401600058h007001",
         "date": "1965-03-16",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -2558,7 +2558,7 @@
         "dataset": "DECLASSII",
         "slug": "guangzhou-china-19650315-dzb00401600038h018002",
         "date": "1965-03-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -2598,7 +2598,7 @@
         "dataset": "DECLASSII",
         "slug": "port-said-egypt-19661212-dzb00403500106h009001",
         "date": "1966-12-12",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -2638,7 +2638,7 @@
         "dataset": "DECLASSII",
         "slug": "jeddah-saudi-arabia-19660517-dzb00402800041h011001",
         "date": "1966-05-17",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -2678,7 +2678,7 @@
         "dataset": "DECLASSII",
         "slug": "riesa-germany-19650502-dzb00401700059h007002",
         "date": "1965-05-02",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -2718,7 +2718,7 @@
         "dataset": "DECLASSII",
         "slug": "yumen-city-china-19650315-dzb00401600039h005001",
         "date": "1965-03-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -2758,7 +2758,7 @@
         "dataset": "DECLASSII",
         "slug": "seattle-usa-19650502-dzb00401700065h002001",
         "date": "1965-05-02",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -2798,7 +2798,7 @@
         "dataset": "DECLASSII",
         "slug": "doha-qatar-19650502-dzb00401700057h025001",
         "date": "1965-05-02",
-        "country": ""
+        "country": "QA"
       }
     },
     {
@@ -2838,7 +2838,7 @@
         "dataset": "DECLASSII",
         "slug": "springfield-missouri-19650429-dzb00401700015h006001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -2878,7 +2878,7 @@
         "dataset": "DECLASSII",
         "slug": "salalah-oman-19650503-dzb00401700073h020001",
         "date": "1965-05-03",
-        "country": ""
+        "country": "OM"
       }
     },
     {
@@ -2918,7 +2918,7 @@
         "dataset": "DECLASSII",
         "slug": "toledo-usa-19650501-dzb00401700047h004001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -2958,7 +2958,7 @@
         "dataset": "DECLASSII",
         "slug": "santiago-de-cuba-19650429-dzb00401700014h010001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "CU"
       }
     },
     {
@@ -2998,7 +2998,7 @@
         "dataset": "DECLASSII",
         "slug": "muscat-oman-19650429-dzb00401700008h017001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "OM"
       }
     },
     {
@@ -3038,7 +3038,7 @@
         "dataset": "DECLASSII",
         "slug": "luanda-angola-19650430-dzb00401700026h031001",
         "date": "1965-04-30",
-        "country": ""
+        "country": "AO"
       }
     },
     {
@@ -3078,7 +3078,7 @@
         "dataset": "DECLASSII",
         "slug": "kandahar-afghanistan-19650430-dzb00401700024h017001",
         "date": "1965-04-30",
-        "country": ""
+        "country": "AF"
       }
     },
     {
@@ -3118,7 +3118,7 @@
         "dataset": "DECLASSII",
         "slug": "furstenwalde-germany-19650502-dzb00401700059h006001",
         "date": "1965-05-02",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -3158,7 +3158,7 @@
         "dataset": "DECLASSII",
         "slug": "kolkata-india-19650501-dzb00401700039h018001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -3198,7 +3198,7 @@
         "dataset": "DECLASSII",
         "slug": "manama-bahrain-19670208-dzb00403600089h016001",
         "date": "1967-02-08",
-        "country": ""
+        "country": "BH"
       }
     },
     {
@@ -3238,7 +3238,7 @@
         "dataset": "DECLASSII",
         "slug": "weihai-china-19650503-dzb00401700070h016001",
         "date": "1965-05-03",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -3278,7 +3278,7 @@
         "dataset": "DECLASSII",
         "slug": "jeddah-saudi-arabia-19660320-dzb00402600025h009001",
         "date": "1966-03-20",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -3318,7 +3318,7 @@
         "dataset": "DECLASSII",
         "slug": "dayton-usa-19650501-dzb00401700047h006002",
         "date": "1965-05-01",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -3358,7 +3358,7 @@
         "dataset": "DECLASSII",
         "slug": "jiaojiang-china-19650316-dzb00401600054h010002",
         "date": "1965-03-16",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -3398,7 +3398,7 @@
         "dataset": "DECLASSII",
         "slug": "rajshahi-bangladesh-19650501-dzb00401700039h015001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "BD"
       }
     },
     {
@@ -3438,7 +3438,7 @@
         "dataset": "DECLASSII",
         "slug": "aleysk-icbm-complex-russia-19730814-dzb1206-500115l012001",
         "date": "1973-08-14",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -3478,7 +3478,7 @@
         "dataset": "DECLASSII",
         "slug": "furstenwalde-germany-19650502-dzb00401700059h005001",
         "date": "1965-05-02",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -3518,7 +3518,7 @@
         "dataset": "DECLASSII",
         "slug": "chengdu-china-19650429-dzb00401700006h006001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -3558,7 +3558,7 @@
         "dataset": "DECLASSII",
         "slug": "strait-of-gibraltar-19660319-dzb00402600011h008001",
         "date": "1966-03-19",
-        "country": ""
+        "country": "ES"
       }
     },
     {
@@ -3598,7 +3598,7 @@
         "dataset": "DECLASSII",
         "slug": "mombasa-kenya-19650501-dzb00401700041h034001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "KE"
       }
     },
     {
@@ -3638,7 +3638,7 @@
         "dataset": "DECLASSII",
         "slug": "doha-qatar-19650502-dzb00401700057h024001",
         "date": "1965-05-02",
-        "country": ""
+        "country": "QA"
       }
     },
     {
@@ -3678,7 +3678,7 @@
         "dataset": "DECLASSII",
         "slug": "mosul-iraq-19650430-dzb00401700025h028001",
         "date": "1965-04-30",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -3718,7 +3718,7 @@
         "dataset": "DECLASSII",
         "slug": "chennai-india-19650429-dzb00401700007h016001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -3758,7 +3758,7 @@
         "dataset": "DECLASSII",
         "slug": "tomsk-russia-19750617-dzb1210-500035l007001",
         "date": "1975-06-17",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -3798,7 +3798,7 @@
         "dataset": "DECLASSII",
         "slug": "abadan-iran-19660715-dzb00403000041h018001",
         "date": "1966-07-15",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -3838,7 +3838,7 @@
         "dataset": "DECLASSII",
         "slug": "mombasa-kenya-19650501-dzb00401700041h035001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "KE"
       }
     },
     {
@@ -3878,7 +3878,7 @@
         "dataset": "DECLASSII",
         "slug": "rajshahi-bangladesh-19650501-dzb00401700039h016001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "BD"
       }
     },
     {
@@ -3918,7 +3918,7 @@
         "dataset": "DECLASSII",
         "slug": "amahai-indonesia-19650501-dzb00401700037h008001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -3958,7 +3958,7 @@
         "dataset": "DECLASSII",
         "slug": "wuhan-china-19650315-dzb00401600038h015001",
         "date": "1965-03-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -3998,7 +3998,7 @@
         "dataset": "DECLASSII",
         "slug": "najran-saudi-arabia-19650501-dzb00401700041h027001",
         "date": "1965-05-01",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -4038,7 +4038,7 @@
         "dataset": "DECLASSII",
         "slug": "yichang-china-19650314-dzb00401600022h007001",
         "date": "1965-03-14",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4078,7 +4078,7 @@
         "dataset": "DECLASSII",
         "slug": "schwerin-germany-19650313-dzb00401600011h011001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -4118,7 +4118,7 @@
         "dataset": "DECLASSII",
         "slug": "siem-reap-cambodia-19670606-dzb00403800022h023001",
         "date": "1967-06-06",
-        "country": ""
+        "country": "KH"
       }
     },
     {
@@ -4158,7 +4158,7 @@
         "dataset": "DECLASSII",
         "slug": "nizhnyaya-russia-19650313-dzb00401600009h005001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -4198,7 +4198,7 @@
         "dataset": "DECLASSII",
         "slug": "cairo-egypt-19660720-dzc00403000123h031001",
         "date": "1966-07-20",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -4238,7 +4238,7 @@
         "dataset": "DECLASSII",
         "slug": "kolguyev-island-russia-19750728-dzb1210-500198l002001",
         "date": "1975-07-28",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -4278,7 +4278,7 @@
         "dataset": "DECLASSII",
         "slug": "shanghai-china-19661017-dzb00403300070h013001",
         "date": "1966-10-17",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4318,7 +4318,7 @@
         "dataset": "DECLASSII",
         "slug": "gdansk-poland-19650314-dzb00401600027h014001",
         "date": "1965-03-14",
-        "country": ""
+        "country": "PL"
       }
     },
     {
@@ -4358,7 +4358,7 @@
         "dataset": "DECLASSII",
         "slug": "yumen-city-china-19650126-dzb00401500039h005001",
         "date": "1965-01-26",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4398,7 +4398,7 @@
         "dataset": "DECLASSII",
         "slug": "nizhnyaya-russia-19650313-dzb00401600009h004001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -4438,7 +4438,7 @@
         "dataset": "DECLASSII",
         "slug": "haibei-china-19650127-dzb00401500055h009001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4478,7 +4478,7 @@
         "dataset": "DECLASSII",
         "slug": "tianjin-china-19650126-dzb00401500038h010002",
         "date": "1965-01-26",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4518,7 +4518,7 @@
         "dataset": "DECLASSII",
         "slug": "dnipro-ukraine-19650126-dzb00401500042h014002",
         "date": "1965-01-26",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -4558,7 +4558,7 @@
         "dataset": "DECLASSII",
         "slug": "tartu-estonia-19651002-dzb00402200026h013001",
         "date": "1965-10-02",
-        "country": ""
+        "country": "EE"
       }
     },
     {
@@ -4598,7 +4598,7 @@
         "dataset": "DECLASSII",
         "slug": "xiamen-china-19650127-dzb00401500054h019001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4638,7 +4638,7 @@
         "dataset": "DECLASSII",
         "slug": "aguadilla-puerto-rico-19650126-dzb00401500046h001001",
         "date": "1965-01-26",
-        "country": ""
+        "country": "PR"
       }
     },
     {
@@ -4678,7 +4678,7 @@
         "dataset": "DECLASSII",
         "slug": "phnom-penh-cambodia-19670524-dzb00403700022h021001",
         "date": "1967-05-24",
-        "country": ""
+        "country": "KH"
       }
     },
     {
@@ -4718,7 +4718,7 @@
         "dataset": "DECLASSII",
         "slug": "aksu-prefecture-china-19650127-dzb00401500056h008001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4758,7 +4758,7 @@
         "dataset": "DECLASSII",
         "slug": "samara-russia-19650124-dzb00401500009h006001",
         "date": "1965-01-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -4798,7 +4798,7 @@
         "dataset": "DECLASSII",
         "slug": "dongsheng-district-china-19650124-dzb00401500006h006001",
         "date": "1965-01-24",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -4838,7 +4838,7 @@
         "dataset": "DECLASSII",
         "slug": "siem-reap-cambodia-19670524-dzb00403700022h020001",
         "date": "1967-05-24",
-        "country": ""
+        "country": "KH"
       }
     },
     {
@@ -4878,7 +4878,7 @@
         "dataset": "DECLASSII",
         "slug": "yarya-russia-19650127-dzb00401500058h005001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -4918,7 +4918,7 @@
         "dataset": "DECLASSII",
         "slug": "arkhangelsk-russia-19670203-dzb00403600010h001001",
         "date": "1967-02-03",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -4958,7 +4958,7 @@
         "dataset": "DECLASSII",
         "slug": "arkhangelsk-russia-19670524-dzb00403700025h001001",
         "date": "1967-05-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -4998,7 +4998,7 @@
         "dataset": "DECLASSII",
         "slug": "gustrow-germany-19650313-dzb00401600011h010001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -5038,7 +5038,7 @@
         "dataset": "DECLASSII",
         "slug": "wheeling-west-virginia-19640926-dzb00401100047h001001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -5078,7 +5078,7 @@
         "dataset": "DECLASSII",
         "slug": "qiqihar-china-19650126-dzb00401500038h006001",
         "date": "1965-01-26",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5118,7 +5118,7 @@
         "dataset": "DECLASSII",
         "slug": "semarang-indonesia-19660122-dzb00402400038h025001",
         "date": "1966-01-22",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -5158,7 +5158,7 @@
         "dataset": "DECLASSII",
         "slug": "colombo-sri-lanka-19650429-dzb00401700007h018001",
         "date": "1965-04-29",
-        "country": ""
+        "country": "LK"
       }
     },
     {
@@ -5198,7 +5198,7 @@
         "dataset": "DECLASSII",
         "slug": "jinzhou-china-19650126-dzb00401500038h009002",
         "date": "1965-01-26",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5238,7 +5238,7 @@
         "dataset": "DECLASSII",
         "slug": "malan-china-19650124-dzb00401500007h006001",
         "date": "1965-01-24",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5278,7 +5278,7 @@
         "dataset": "DECLASSII",
         "slug": "luliang-county-china-19650124-dzb00401500006h011001",
         "date": "1965-01-24",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5318,7 +5318,7 @@
         "dataset": "DECLASSII",
         "slug": "tengchong-china-19650127-dzb00401500055h014001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5358,7 +5358,7 @@
         "dataset": "DECLASSII",
         "slug": "providensky-district-russia-19650127-dzb00401500052h001001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -5398,7 +5398,7 @@
         "dataset": "DECLASSII",
         "slug": "clarksville-tennessee-19650125-dzb00401500031h009001",
         "date": "1965-01-25",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -5438,7 +5438,7 @@
         "dataset": "DECLASSII",
         "slug": "kartaly-russia-19650126-dzb00401500041h005001",
         "date": "1965-01-26",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -5478,7 +5478,7 @@
         "dataset": "DECLASSII",
         "slug": "kunming-china-19650313-dzb00401600006h015001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5518,7 +5518,7 @@
         "dataset": "DECLASSII",
         "slug": "aswan-egypt-19670605-dzb00403800009h023001",
         "date": "1967-06-05",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -5558,7 +5558,7 @@
         "dataset": "DECLASSII",
         "slug": "jakarta-indonesia-19660515-dzb00402800005h011001",
         "date": "1966-05-15",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -5598,7 +5598,7 @@
         "dataset": "DECLASSII",
         "slug": "ningbo-zhoushan-china-19650127-dzb00401500054h014001",
         "date": "1965-01-27",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5638,7 +5638,7 @@
         "dataset": "DECLASSII",
         "slug": "jinan-china-19650126-dzb00401500038h012001",
         "date": "1965-01-26",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5678,7 +5678,7 @@
         "dataset": "DECLASSII",
         "slug": "bayramaly-turkmenistan-19641205-dzb00401400008h010001",
         "date": "1964-12-05",
-        "country": ""
+        "country": "TM"
       }
     },
     {
@@ -5718,7 +5718,7 @@
         "dataset": "DECLASSII",
         "slug": "tashkent-uzbekistan-19650125-dzb00401500024h009001",
         "date": "1965-01-25",
-        "country": ""
+        "country": "UZ"
       }
     },
     {
@@ -5758,7 +5758,7 @@
         "dataset": "DECLASSII",
         "slug": "chengdu-china-19650313-dzb00401600006h011001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5798,7 +5798,7 @@
         "dataset": "DECLASSII",
         "slug": "medyn-russia-19650313-dzb00401600010h013001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -5838,7 +5838,7 @@
         "dataset": "DECLASSII",
         "slug": "havana-cuba-19661212-dzb00403500111h007001",
         "date": "1966-12-12",
-        "country": ""
+        "country": "CU"
       }
     },
     {
@@ -5878,7 +5878,7 @@
         "dataset": "DECLASSII",
         "slug": "liangshan-yi-prefecture-china--19650313-dzb00401600006h013001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -5918,7 +5918,7 @@
         "dataset": "DECLASSII",
         "slug": "ozersk-russia-19650126-dzb00401500041h002001",
         "date": "1965-01-26",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -5958,7 +5958,7 @@
         "dataset": "DECLASSII",
         "slug": "west-union-west-virginia-19640926-dzb00401100047h002001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -5998,7 +5998,7 @@
         "dataset": "DECLASSII",
         "slug": "fagaras-romania-19650313-dzb00401600010h023001",
         "date": "1965-03-13",
-        "country": ""
+        "country": "RO"
       }
     },
     {
@@ -6038,7 +6038,7 @@
         "dataset": "DECLASSII",
         "slug": "severo-kurilsk-russia-19640816-dzb00401000020h010001",
         "date": "1964-08-16",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -6078,7 +6078,7 @@
         "dataset": "DECLASSII",
         "slug": "shantou-china-19640926-dzb00401100038h018001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -6118,7 +6118,7 @@
         "dataset": "DECLASSII",
         "slug": "yinchuan-china-19640815-dzb00401000006h009001",
         "date": "1964-08-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -6158,7 +6158,7 @@
         "dataset": "DECLASSII",
         "slug": "yalu-river-china-north-korea-19640927-dzb00401100054h014001",
         "date": "1964-09-27",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -6198,7 +6198,7 @@
         "dataset": "DECLASSII",
         "slug": "tokyo-japan-19640926-dzb00401100037h011001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "JP"
       }
     },
     {
@@ -6238,7 +6238,7 @@
         "dataset": "DECLASSII",
         "slug": "lop-nur-china-19640925-dzb00401100023h004001",
         "date": "1964-09-25",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -6278,7 +6278,7 @@
         "dataset": "DECLASSII",
         "slug": "usti-nad-labem-region-czech-republic-19640427-dzb00400700059h016001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "CZ"
       }
     },
     {
@@ -6318,7 +6318,7 @@
         "dataset": "DECLASSII",
         "slug": "luzhou-china-19640815-dzb00401000006h015001",
         "date": "1964-08-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -6358,7 +6358,7 @@
         "dataset": "DECLASSII",
         "slug": "severo-kurilsk-russia-19640816-dzb00401000020h009001",
         "date": "1964-08-16",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -6398,7 +6398,7 @@
         "dataset": "DECLASSII",
         "slug": "kunming-china-19640815-dzb00401000006h016001",
         "date": "1964-08-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -6438,7 +6438,7 @@
         "dataset": "DECLASSII",
         "slug": "kirkuk-iraq-19640925-dzb00401100025h029001",
         "date": "1964-09-25",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -6478,7 +6478,7 @@
         "dataset": "DECLASSII",
         "slug": "khabarovsk-russia-19640520-dzb00400800005h006001",
         "date": "1964-05-20",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -6518,7 +6518,7 @@
         "dataset": "DECLASSII",
         "slug": "saxony-brandenburg-germany-19640427-dzb00400700059h015002",
         "date": "1964-04-27",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -6558,7 +6558,7 @@
         "dataset": "DECLASSII",
         "slug": "chojna-poland-19640427-dzb00400700059h013001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "PL"
       }
     },
     {
@@ -6598,7 +6598,7 @@
         "dataset": "DECLASSII",
         "slug": "ozersk-russia-19640314-dzb00400600041h008001",
         "date": "1964-03-14",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -6638,7 +6638,7 @@
         "dataset": "DECLASSII",
         "slug": "seattle-washington-19640926-dzb00401100049h001001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -6678,7 +6678,7 @@
         "dataset": "DECLASSII",
         "slug": "bitung-indonesia-19640924-dzb00401100005h016001",
         "date": "1964-09-24",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -6718,7 +6718,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19640520-dzb00400800008h008001",
         "date": "1964-05-20",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -6758,7 +6758,7 @@
         "dataset": "DECLASSII",
         "slug": "mandalay-myanmar-19660219-dzb00402500055h010001",
         "date": "1966-02-19",
-        "country": ""
+        "country": "MM"
       }
     },
     {
@@ -6798,7 +6798,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00400700007h006001",
         "date": "1964-04-24",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -6838,7 +6838,7 @@
         "dataset": "DECLASSII",
         "slug": "oryol-russia-19640427-dzb00400700058h013001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -6878,7 +6878,7 @@
         "dataset": "DECLASSII",
         "slug": "kirkuk-iraq-19640925-dzb00401100025h030001",
         "date": "1964-09-25",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -6918,7 +6918,7 @@
         "dataset": "DECLASSII",
         "slug": "budapest-hungary-19640924-dzb00401100010h011001",
         "date": "1964-09-24",
-        "country": ""
+        "country": "HU"
       }
     },
     {
@@ -6958,7 +6958,7 @@
         "dataset": "DECLASSII",
         "slug": "parnu-estonia-19640815-dzb00401000010h010001",
         "date": "1964-08-15",
-        "country": ""
+        "country": "EE"
       }
     },
     {
@@ -6998,7 +6998,7 @@
         "dataset": "DECLASSII",
         "slug": "nakhchivan-azerbaijan-19640925-dzb00401100025h027001",
         "date": "1964-09-25",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -7038,7 +7038,7 @@
         "dataset": "DECLASSII",
         "slug": "moreno-valley-california-19640927-dzb00401100065h005001",
         "date": "1964-09-27",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -7078,7 +7078,7 @@
         "dataset": "DECLASSII",
         "slug": "surabaya-indonesia-19640926-dzb00401100038h021001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -7118,7 +7118,7 @@
         "dataset": "DECLASSII",
         "slug": "peshawar-pakistan-19640427-dzb00400700056h010001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "PK"
       }
     },
     {
@@ -7158,7 +7158,7 @@
         "dataset": "DECLASSII",
         "slug": "qiqihar-china-19640314-dzb00400600038h007001",
         "date": "1964-03-14",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -7198,7 +7198,7 @@
         "dataset": "DECLASSII",
         "slug": "nakhchivan-azerbaijan-19640925-dzb00401100025h028001",
         "date": "1964-09-25",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -7238,7 +7238,7 @@
         "dataset": "DECLASSII",
         "slug": "guilin-china-19640925-dzb00401100022h018001",
         "date": "1964-09-25",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -7278,7 +7278,7 @@
         "dataset": "DECLASSII",
         "slug": "bayramaly-turkmenistan-19640815-dzb00401000008h012001",
         "date": "1964-08-15",
-        "country": ""
+        "country": "TM"
       }
     },
     {
@@ -7318,7 +7318,7 @@
         "dataset": "DECLASSII",
         "slug": "mandalay-myanmar-19640314-dzb00400600039h015001",
         "date": "1964-03-14",
-        "country": ""
+        "country": "MM"
       }
     },
     {
@@ -7358,7 +7358,7 @@
         "dataset": "DECLASSII",
         "slug": "medan-indonesia-19641205-dzb00401400006h014001",
         "date": "1964-12-05",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -7398,7 +7398,7 @@
         "dataset": "DECLASSII",
         "slug": "ajka-hungary-19640927-dzb00401100059h007001",
         "date": "1964-09-27",
-        "country": ""
+        "country": "HU"
       }
     },
     {
@@ -7438,7 +7438,7 @@
         "dataset": "DECLASSII",
         "slug": "timisoara-romania-19640520-dzb00400800010h024001",
         "date": "1964-05-20",
-        "country": ""
+        "country": "RO"
       }
     },
     {
@@ -7478,7 +7478,7 @@
         "dataset": "DECLASSII",
         "slug": "tokyo-japan-19640926-dzb00401100037h010001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "JP"
       }
     },
     {
@@ -7518,7 +7518,7 @@
         "dataset": "DECLASSII",
         "slug": "lingshui-bay-china-19640427-dzb00400700054h023001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -7558,7 +7558,7 @@
         "dataset": "DECLASSII",
         "slug": "seattle-washington-19640926-dzb00401100049h002001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -7598,7 +7598,7 @@
         "dataset": "DECLASSII",
         "slug": "bishkek-kyrgyzstan-19640926-dzb00401100040h011001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "KG"
       }
     },
     {
@@ -7638,7 +7638,7 @@
         "dataset": "DECLASSII",
         "slug": "tucson-arizona-19640925-dzb00401100032h005002",
         "date": "1964-09-25",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -7678,7 +7678,7 @@
         "dataset": "DECLASSII",
         "slug": "debrecen-hungary-19640520-dzb00400800010h022001",
         "date": "1964-05-20",
-        "country": ""
+        "country": "HU"
       }
     },
     {
@@ -7718,7 +7718,7 @@
         "dataset": "DECLASSII",
         "slug": "kolobrzeg-poland-19640427-dzb00400700059h011001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "PL"
       }
     },
     {
@@ -7758,7 +7758,7 @@
         "dataset": "DECLASSII",
         "slug": "poti-georgia-19641205-dzb00401400009h015002",
         "date": "1964-12-05",
-        "country": ""
+        "country": "TR"
       }
     },
     {
@@ -7798,7 +7798,7 @@
         "dataset": "DECLASSII",
         "slug": "bayramaly-turkmenistan-19640924-dzb00401100008h012001",
         "date": "1964-09-24",
-        "country": ""
+        "country": "TM"
       }
     },
     {
@@ -7838,7 +7838,7 @@
         "dataset": "DECLASSII",
         "slug": "orenburg-russia-19640926-dzb00401100041h017001",
         "date": "1964-09-26",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -7878,7 +7878,7 @@
         "dataset": "DECLASSII",
         "slug": "almaty-kazakhstan-19640427-dzb00400700056h009001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -7918,7 +7918,7 @@
         "dataset": "DECLASSII",
         "slug": "neuhardenberg-germany-19640427-dzb00400700059h014001",
         "date": "1964-04-27",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -7958,7 +7958,7 @@
         "dataset": "DECLASSII",
         "slug": "warsaw-poland-19640924-dzb00401100010h007001",
         "date": "1964-09-24",
-        "country": ""
+        "country": "PL"
       }
     },
     {
@@ -7998,7 +7998,7 @@
         "dataset": "DECLASSII",
         "slug": "kemerovo-russia-19640924-dzb00401100007h005001",
         "date": "1964-09-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -8038,7 +8038,7 @@
         "dataset": "DECLASSII",
         "slug": "madison-wisconsin-19640312-5",
         "date": "1964-03-12",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -8078,7 +8078,7 @@
         "dataset": "DECLASSII",
         "slug": "madison-wisconsin-19640312-4",
         "date": "1964-03-12",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -8118,7 +8118,7 @@
         "dataset": "DECLASSII",
         "slug": "kubinka-russia-19660515",
         "date": "1966-05-15",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -8158,7 +8158,7 @@
         "dataset": "DECLASSII",
         "slug": "yoshkar-ola-russia-19650312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -8198,7 +8198,7 @@
         "dataset": "DECLASSII",
         "slug": "zhanjiang-china-19660920",
         "date": "1966-09-20",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -8238,7 +8238,7 @@
         "dataset": "DECLASSII",
         "slug": "kolkata-india-19640313-dzb00400600023h017001",
         "date": "1964-03-13",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -8278,7 +8278,7 @@
         "dataset": "DECLASSII",
         "slug": "western-azerbaijan-19640426-dzb00400700041h013001",
         "date": "1964-04-26",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -8318,7 +8318,7 @@
         "dataset": "DECLASSII",
         "slug": "baotou-china-19630908",
         "date": "1963-09-08",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -8358,7 +8358,7 @@
         "dataset": "DECLASSII",
         "slug": "yerevan-armenia-19640425-dzb00400700025h016001",
         "date": "1964-04-25",
-        "country": ""
+        "country": "AM"
       }
     },
     {
@@ -8398,7 +8398,7 @@
         "dataset": "DECLASSII",
         "slug": "beijing-china-19640313-dzb00400600022h011001",
         "date": "1964-03-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -8438,7 +8438,7 @@
         "dataset": "DECLASSII",
         "slug": "santa-cruz-county-usa-19640314-dzb00400600049h002002",
         "date": "1964-03-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -8478,7 +8478,7 @@
         "dataset": "DECLASSII",
         "slug": "bali-indonesia-19650531",
         "date": "1965-05-31",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -8518,7 +8518,7 @@
         "dataset": "DECLASSII",
         "slug": "naryan-mar-russia-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -8558,7 +8558,7 @@
         "dataset": "DECLASSII",
         "slug": "nakhchivan-azerbaijan-19640426-dzb00400700041h015001",
         "date": "1964-04-26",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -8598,7 +8598,7 @@
         "dataset": "DECLASSII",
         "slug": "dalian-china-19660518",
         "date": "1966-05-18",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -8638,7 +8638,7 @@
         "dataset": "DECLASSII",
         "slug": "mineralnye-vody-russia-19640424-dzb00400700009h013001",
         "date": "1964-04-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -8678,7 +8678,7 @@
         "dataset": "DECLASSII",
         "slug": "thanh-hoa-vietnam-19660423-dzb00402700054h023001",
         "date": "1966-04-23",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -8718,7 +8718,7 @@
         "dataset": "DECLASSII",
         "slug": "gomel-belarus-19640426-dzb00400700042h014001",
         "date": "1964-04-26",
-        "country": ""
+        "country": "BY"
       }
     },
     {
@@ -8758,7 +8758,7 @@
         "dataset": "DECLASSII",
         "slug": "yinchuan-china-19640424-dzb00400700006h010001",
         "date": "1964-04-24",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -8798,7 +8798,7 @@
         "dataset": "DECLASSII",
         "slug": "olenegorsk-russia-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -8838,7 +8838,7 @@
         "dataset": "DECLASSII",
         "slug": "dalian-china-19660123",
         "date": "1966-01-23",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -8878,7 +8878,7 @@
         "dataset": "DECLASSII",
         "slug": "taiyuan-china-19640313-dzb00400600022h012001",
         "date": "1964-03-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -8918,7 +8918,7 @@
         "dataset": "DECLASSII",
         "slug": "omsk-russia-19660921",
         "date": "1966-09-21",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -8958,7 +8958,7 @@
         "dataset": "DECLASSII",
         "slug": "galveston-bay-area-texas-19631026-1",
         "date": "1963-10-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -8998,7 +8998,7 @@
         "dataset": "DECLASSII",
         "slug": "haiphong-vietnam-19660918-dzb00403200022h019001",
         "date": "1966-09-18",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -9038,7 +9038,7 @@
         "dataset": "DECLASSII",
         "slug": "hungary-ukraine-border-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "HU"
       }
     },
     {
@@ -9078,7 +9078,7 @@
         "dataset": "DECLASSII",
         "slug": "baotou-china-19640425-dzb00400700022h008001",
         "date": "1964-04-25",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -9118,7 +9118,7 @@
         "dataset": "DECLASSII",
         "slug": "urumqi-china-19640424-dzb00400700007h005001",
         "date": "1964-04-24",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -9158,7 +9158,7 @@
         "dataset": "DECLASSII",
         "slug": "beijing-china-19640313",
         "date": "1964-03-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -9198,7 +9198,7 @@
         "dataset": "DECLASSII",
         "slug": "marshall-county-texas-1963",
         "date": "1963-10-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9238,7 +9238,7 @@
         "dataset": "DECLASSII",
         "slug": "northern-arkansas-19630908",
         "date": "1963-09-08",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9278,7 +9278,7 @@
         "dataset": "DECLASSII",
         "slug": "madison-wisconsin-19640312-6",
         "date": "1964-03-12",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9318,7 +9318,7 @@
         "dataset": "DECLASSII",
         "slug": "tallinn-estonia-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "EE"
       }
     },
     {
@@ -9358,7 +9358,7 @@
         "dataset": "DECLASSII",
         "slug": "bryant-arkansas-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9398,7 +9398,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00400700041h014001",
         "date": "1964-04-26",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -9438,7 +9438,7 @@
         "dataset": "DECLASSII",
         "slug": "kolkata-india-19640313-dzb00400600023h018001",
         "date": "1964-03-13",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -9478,7 +9478,7 @@
         "dataset": "DECLASSII",
         "slug": "galveston-bay-area-texas-19631026-2",
         "date": "1963-10-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9518,7 +9518,7 @@
         "dataset": "DECLASSII",
         "slug": "shannon-county-missouri-19630908",
         "date": "1963-09-08",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9558,7 +9558,7 @@
         "dataset": "DECLASSII",
         "slug": "st-louis-missouri-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9598,7 +9598,7 @@
         "dataset": "DECLASSII",
         "slug": "rome-italy-19640314-dzb00400600043h007001",
         "date": "1964-03-14",
-        "country": ""
+        "country": "IT"
       }
     },
     {
@@ -9638,7 +9638,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-kazakhstan-19660421-12",
         "date": "1966-04-21",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -9678,7 +9678,7 @@
         "dataset": "DECLASSII",
         "slug": "germany-19640314-dzb00400600043h004002",
         "date": "1964-03-14",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -9718,7 +9718,7 @@
         "dataset": "DECLASSII",
         "slug": "tbilisi-georgia-19650430",
         "date": "1965-04-30",
-        "country": ""
+        "country": "GE"
       }
     },
     {
@@ -9758,7 +9758,7 @@
         "dataset": "DECLASSII",
         "slug": "dingbian-county-china-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -9798,7 +9798,7 @@
         "dataset": "DECLASSII",
         "slug": "kubinka-russia-19670611-dzb00403800106h017001",
         "date": "1967-06-11",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -9838,7 +9838,7 @@
         "dataset": "DECLASSII",
         "slug": "dublin-ireland-19660219",
         "date": "1966-02-19",
-        "country": ""
+        "country": "IE"
       }
     },
     {
@@ -9878,7 +9878,7 @@
         "dataset": "DECLASSII",
         "slug": "western-azerbaijan-19631027",
         "date": "1963-10-27",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -9918,7 +9918,7 @@
         "dataset": "DECLASSII",
         "slug": "zhengzhou-china-19640313-dzb00400600022h013001",
         "date": "1964-03-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -9958,7 +9958,7 @@
         "dataset": "DECLASSII",
         "slug": "rosebud-county-montana-19631027",
         "date": "1963-10-27",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -9998,7 +9998,7 @@
         "dataset": "DECLASSII",
         "slug": "mishelevka-radar-station-russia-19660922",
         "date": "1966-09-22",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10038,7 +10038,7 @@
         "dataset": "DECLASSII",
         "slug": "ventspils-latvia-19650314",
         "date": "1965-03-14",
-        "country": ""
+        "country": "LV"
       }
     },
     {
@@ -10078,7 +10078,7 @@
         "dataset": "DECLASSII",
         "slug": "eskisehir-turkey-19670528",
         "date": "1967-05-28",
-        "country": ""
+        "country": "TR"
       }
     },
     {
@@ -10118,7 +10118,7 @@
         "dataset": "DECLASSII",
         "slug": "bengbu-china-19650530",
         "date": "1965-05-30",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -10158,7 +10158,7 @@
         "dataset": "DECLASSII",
         "slug": "palembang-indonesia-19670524",
         "date": "1967-05-24",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -10198,7 +10198,7 @@
         "dataset": "DECLASSII",
         "slug": "albuquerque-new-mexico-19660122",
         "date": "1966-01-22",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -10238,7 +10238,7 @@
         "dataset": "DECLASSII",
         "slug": "nizhny-novgorod-oblast-russia-19630713",
         "date": "1963-07-13",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10278,7 +10278,7 @@
         "dataset": "DECLASSII",
         "slug": "mariel-cuba-19660922",
         "date": "1966-09-22",
-        "country": ""
+        "country": "CU"
       }
     },
     {
@@ -10318,7 +10318,7 @@
         "dataset": "DECLASSII",
         "slug": "mozdok-russia-19660919",
         "date": "1966-09-19",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10358,7 +10358,7 @@
         "dataset": "DECLASSII",
         "slug": "arys-kazakhstan-19650529",
         "date": "1965-05-29",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -10398,7 +10398,7 @@
         "dataset": "DECLASSII",
         "slug": "kaliningrad-russia-19640924",
         "date": "1964-09-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10438,7 +10438,7 @@
         "dataset": "DECLASSII",
         "slug": "priobskoye-field-russia-19630713",
         "date": "1963-07-13",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10478,7 +10478,7 @@
         "dataset": "DECLASSII",
         "slug": "novosibirsk-russia-19651004",
         "date": "1965-10-04",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10518,7 +10518,7 @@
         "dataset": "DECLASSII",
         "slug": "tyumen-russia-19640815",
         "date": "1964-08-15",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10558,7 +10558,7 @@
         "dataset": "DECLASSII",
         "slug": "central-cuba-19800718",
         "date": "1980-07-18",
-        "country": ""
+        "country": "CU"
       }
     },
     {
@@ -10598,7 +10598,7 @@
         "dataset": "DECLASSII",
         "slug": "mary-region-turkmenistan-19630907",
         "date": "1963-09-07",
-        "country": ""
+        "country": "TM"
       }
     },
     {
@@ -10638,7 +10638,7 @@
         "dataset": "DECLASSII",
         "slug": "dikson-russia-19640815",
         "date": "1964-08-15",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10678,7 +10678,7 @@
         "dataset": "DECLASSII",
         "slug": "new-orleans-19650314",
         "date": "1965-03-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -10718,7 +10718,7 @@
         "dataset": "DECLASSII",
         "slug": "lahore-pakistan-19651004",
         "date": "1965-10-04",
-        "country": ""
+        "country": "PK"
       }
     },
     {
@@ -10758,7 +10758,7 @@
         "dataset": "DECLASSII",
         "slug": "bayramaly-turkmenistan-19650601",
         "date": "1965-06-01",
-        "country": ""
+        "country": "TM"
       }
     },
     {
@@ -10798,7 +10798,7 @@
         "dataset": "DECLASSII",
         "slug": "chelyabinsk-russia-19670523",
         "date": "1967-05-23",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10838,7 +10838,7 @@
         "dataset": "DECLASSII",
         "slug": "fort-bend-wharton-counties-texas-19630907",
         "date": "1963-09-07",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -10878,7 +10878,7 @@
         "dataset": "DECLASSII",
         "slug": "accra-ghana-19670208",
         "date": "1967-02-08",
-        "country": ""
+        "country": "GH"
       }
     },
     {
@@ -10918,7 +10918,7 @@
         "dataset": "DECLASSII",
         "slug": "santiago-de-cuba-19650124",
         "date": "1965-01-24",
-        "country": ""
+        "country": "CU"
       }
     },
     {
@@ -10958,7 +10958,7 @@
         "dataset": "DECLASSII",
         "slug": "orsk-russia-19660516",
         "date": "1966-05-16",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -10998,7 +10998,7 @@
         "dataset": "DECLASSII",
         "slug": "kabul-afghanistan-19650501",
         "date": "1965-05-01",
-        "country": ""
+        "country": "AF"
       }
     },
     {
@@ -11038,7 +11038,7 @@
         "dataset": "DECLASSII",
         "slug": "chersky-russia-19650528",
         "date": "1965-05-28",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11078,7 +11078,7 @@
         "dataset": "DECLASSII",
         "slug": "memphis-tennessee-19670526",
         "date": "1967-05-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -11118,7 +11118,7 @@
         "dataset": "DECLASSII",
         "slug": "mozdok-russia-19651002",
         "date": "1965-10-02",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11158,7 +11158,7 @@
         "dataset": "DECLASSII",
         "slug": "alexandria-egypt-19640926",
         "date": "1964-09-26",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -11198,7 +11198,7 @@
         "dataset": "DECLASSII",
         "slug": "korla-china-19630713",
         "date": "1963-07-13",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -11238,7 +11238,7 @@
         "dataset": "DECLASSII",
         "slug": "riyadh-saudi-arabia-19660518",
         "date": "1966-05-18",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -11278,7 +11278,7 @@
         "dataset": "DECLASSII",
         "slug": "ust-yansky-district-russia-19630713",
         "date": "1963-07-13",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11318,7 +11318,7 @@
         "dataset": "DECLASSII",
         "slug": "kirov-russia-19670203",
         "date": "1967-02-03",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11358,7 +11358,7 @@
         "dataset": "DECLASSII",
         "slug": "volgograd-russia-19651001",
         "date": "1965-10-01",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11398,7 +11398,7 @@
         "dataset": "DECLASSII",
         "slug": "nizhny-novgorod-russia-19660606",
         "date": "1966-06-06",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11438,7 +11438,7 @@
         "dataset": "DECLASSII",
         "slug": "makassar-indonesia-19661208",
         "date": "1966-12-08",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -11478,7 +11478,7 @@
         "dataset": "DECLASSII",
         "slug": "nasiriyah-iraq-19660218",
         "date": "1966-02-18",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -11518,7 +11518,7 @@
         "dataset": "DECLASSII",
         "slug": "new-orleans-19650529",
         "date": "1965-05-29",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -11558,7 +11558,7 @@
         "dataset": "DECLASSII",
         "slug": "zhigansk-russia-19660609",
         "date": "1966-06-09",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11598,7 +11598,7 @@
         "dataset": "DECLASSII",
         "slug": "tallinn-estonia-19650528",
         "date": "1965-05-28",
-        "country": ""
+        "country": "EE"
       }
     },
     {
@@ -11638,7 +11638,7 @@
         "dataset": "DECLASSII",
         "slug": "san-diego-california-19670204",
         "date": "1967-02-04",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -11678,7 +11678,7 @@
         "dataset": "DECLASSII",
         "slug": "mariupol-ukraine-19660604",
         "date": "1966-06-04",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -11718,7 +11718,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-launch-complex-b-kazakhstan-19660425",
         "date": "1966-04-25",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -11758,7 +11758,7 @@
         "dataset": "DECLASSII",
         "slug": "sfax-tunisia-19660219",
         "date": "1966-02-19",
-        "country": ""
+        "country": "TN"
       }
     },
     {
@@ -11798,7 +11798,7 @@
         "dataset": "DECLASSII",
         "slug": "sargodha-pakistan-19660518",
         "date": "1966-05-18",
-        "country": ""
+        "country": "PK"
       }
     },
     {
@@ -11838,7 +11838,7 @@
         "dataset": "DECLASSII",
         "slug": "bengbu-china-19650315",
         "date": "1965-03-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -11878,7 +11878,7 @@
         "dataset": "DECLASSII",
         "slug": "volsk-russia-19660822",
         "date": "1966-08-22",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -11918,7 +11918,7 @@
         "dataset": "DECLASSII",
         "slug": "belize-city-19660218",
         "date": "1966-02-18",
-        "country": ""
+        "country": "BZ"
       }
     },
     {
@@ -11958,7 +11958,7 @@
         "dataset": "DECLASSII",
         "slug": "harju-county-estonia-19650429",
         "date": "1965-04-29",
-        "country": ""
+        "country": "EE"
       }
     },
     {
@@ -11998,7 +11998,7 @@
         "dataset": "DECLASSII",
         "slug": "kaliningrad-russia-19661014",
         "date": "1966-10-14",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -12038,7 +12038,7 @@
         "dataset": "DECLASSII",
         "slug": "tanga-tanzania-19661211",
         "date": "1966-12-11",
-        "country": ""
+        "country": "TZ"
       }
     },
     {
@@ -12078,7 +12078,7 @@
         "dataset": "DECLASSII",
         "slug": "harju-county-estonia-19660917",
         "date": "1966-09-17",
-        "country": ""
+        "country": "EE"
       }
     },
     {
@@ -12118,7 +12118,7 @@
         "dataset": "DECLASSII",
         "slug": "crimea-19651004",
         "date": "1965-10-04",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -12158,7 +12158,7 @@
         "dataset": "DECLASSII",
         "slug": "hanoi-vietnam-19670611",
         "date": "1967-06-11",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -12198,7 +12198,7 @@
         "dataset": "DECLASSII",
         "slug": "biscarrosse-france-19660919",
         "date": "1966-09-19",
-        "country": ""
+        "country": "FR"
       }
     },
     {
@@ -12238,7 +12238,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-kazakhstan-19660421",
         "date": "1966-04-21",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -12278,7 +12278,7 @@
         "dataset": "DECLASSII",
         "slug": "severodvinsk-russia-19650530",
         "date": "1965-05-30",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -12318,7 +12318,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19661013-2",
         "date": "1966-10-13",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -12358,7 +12358,7 @@
         "dataset": "DECLASSII",
         "slug": "lake-balkhash-19800902",
         "date": "1980-09-02",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -12398,7 +12398,7 @@
         "dataset": "DECLASSII",
         "slug": "mangalia-romania-19660421",
         "date": "1966-04-21",
-        "country": ""
+        "country": "RO"
       }
     },
     {
@@ -12438,7 +12438,7 @@
         "dataset": "DECLASSII",
         "slug": "vozrozhdeniya-island-19660923",
         "date": "1966-09-23",
-        "country": ""
+        "country": "UZ"
       }
     },
     {
@@ -12478,7 +12478,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19650601",
         "date": "1965-06-01",
-        "country": ""
+        "country": "UZ"
       }
     },
     {
@@ -12518,7 +12518,7 @@
         "dataset": "DECLASSII",
         "slug": "biscarrosse-france-19660919-2",
         "date": "1966-09-19",
-        "country": ""
+        "country": "FR"
       }
     },
     {
@@ -12558,7 +12558,7 @@
         "dataset": "DECLASSII",
         "slug": "moruroa-atoll-french-polynesia-19670526",
         "date": "1967-05-26",
-        "country": ""
+        "country": "PF"
       }
     },
     {
@@ -12598,7 +12598,7 @@
         "dataset": "DECLASSII",
         "slug": "balchik-bulgaria-19660715",
         "date": "1966-07-15",
-        "country": ""
+        "country": "BG"
       }
     },
     {
@@ -12638,7 +12638,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-complex-b-kazakhstan-19670612",
         "date": "1967-06-12",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -12678,7 +12678,7 @@
         "dataset": "DECLASSII",
         "slug": "dakar-senegal-19660219",
         "date": "1966-02-19",
-        "country": ""
+        "country": "SN"
       }
     },
     {
@@ -12718,7 +12718,7 @@
         "dataset": "DECLASSII",
         "slug": "samara-russia-19670527",
         "date": "1967-05-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -12758,7 +12758,7 @@
         "dataset": "DECLASSII",
         "slug": "severodvinsk-russia-19670523",
         "date": "1967-05-23",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -12798,7 +12798,7 @@
         "dataset": "DECLASSII",
         "slug": "semipalatinsk-test-site-19650530",
         "date": "1965-05-30",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -12838,7 +12838,7 @@
         "dataset": "DECLASSII",
         "slug": "mosul-iraq-19670608",
         "date": "1967-06-08",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -12878,7 +12878,7 @@
         "dataset": "DECLASSII",
         "slug": "makat-kazakhstan-19640426",
         "date": "1964-04-26",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -12918,7 +12918,7 @@
         "dataset": "DECLASSII",
         "slug": "anaa-atoll-french-polynesia-19660519",
         "date": "1966-05-19",
-        "country": ""
+        "country": "PF"
       }
     },
     {
@@ -12958,7 +12958,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-balkhash-9-radar-station-19650530",
         "date": "1965-05-30",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -12998,7 +12998,7 @@
         "dataset": "DECLASSII",
         "slug": "plesetsk-cosmodrome-19660424",
         "date": "1966-04-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -13038,7 +13038,7 @@
         "dataset": "DECLASSII",
         "slug": "kerman-iran-19670530",
         "date": "1967-05-30",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -13078,7 +13078,7 @@
         "dataset": "DECLASSII",
         "slug": "odisha-india-19780409",
         "date": "1978-04-09",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -13118,7 +13118,7 @@
         "dataset": "DECLASSII",
         "slug": "biscarrosse-france-19660820",
         "date": "1966-08-20",
-        "country": ""
+        "country": "FR"
       }
     },
     {
@@ -13158,7 +13158,7 @@
         "dataset": "DECLASSII",
         "slug": "baku-azerbaijan-19660607",
         "date": "1966-06-07",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -13198,7 +13198,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-balkhash-9-radar-station-19650530-2",
         "date": "1965-05-30",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -13238,7 +13238,7 @@
         "dataset": "DECLASSII",
         "slug": "pierrelatte-france-19670611",
         "date": "1967-06-11",
-        "country": ""
+        "country": "FR"
       }
     },
     {
@@ -13278,7 +13278,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-kazakhstan-19661016",
         "date": "1966-10-16",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -13318,7 +13318,7 @@
         "dataset": "DECLASSII",
         "slug": "severodvinsk-russia-19660516",
         "date": "1966-05-16",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -13358,7 +13358,7 @@
         "dataset": "DECLASSII",
         "slug": "jakarta-indonesia-19670526",
         "date": "1967-05-26",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -13398,7 +13398,7 @@
         "dataset": "DECLASSII",
         "slug": "sabha-libya-19670203",
         "date": "1967-02-03",
-        "country": ""
+        "country": "LY"
       }
     },
     {
@@ -13438,7 +13438,7 @@
         "dataset": "DECLASSII",
         "slug": "san-diego-19661207",
         "date": "1966-12-07",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -13478,7 +13478,7 @@
         "dataset": "DECLASSII",
         "slug": "aktau-kazakhstan-19650530",
         "date": "1965-05-30",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -13518,7 +13518,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-tracking-site-6-kazakhstan-19660920",
         "date": "1966-09-20",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -13558,7 +13558,7 @@
         "dataset": "DECLASSII",
         "slug": "tongatapu-tonga-19670528",
         "date": "1967-05-28",
-        "country": ""
+        "country": "TO"
       }
     },
     {
@@ -13598,7 +13598,7 @@
         "dataset": "DECLASSII",
         "slug": "ufa-russia-19670611",
         "date": "1967-06-11",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -13638,7 +13638,7 @@
         "dataset": "DECLASSII",
         "slug": "benghazi-libya-19660121-dzb00402400026h021001",
         "date": "1966-01-21",
-        "country": ""
+        "country": "LY"
       }
     },
     {
@@ -13678,7 +13678,7 @@
         "dataset": "DECLASSII",
         "slug": "dudinka-russia-19660715",
         "date": "1966-07-15",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -13718,7 +13718,7 @@
         "dataset": "DECLASSII",
         "slug": "biscarrosse-france-196506001",
         "date": "1965-06-01",
-        "country": ""
+        "country": "FR"
       }
     },
     {
@@ -13758,7 +13758,7 @@
         "dataset": "DECLASSII",
         "slug": "mykolaiv-ukraine-19661017",
         "date": "1966-10-17",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -13798,7 +13798,7 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-balkhash-9-radar-station-19640926",
         "date": "1964-09-26",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -13838,7 +13838,7 @@
         "dataset": "DECLASSII",
         "slug": "saint-petersburg-russia-19660518",
         "date": "1966-05-18",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -13878,7 +13878,7 @@
         "dataset": "DECLASSII",
         "slug": "ramenskoye-airport-moscow-19640927",
         "date": "1964-09-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -13918,7 +13918,7 @@
         "dataset": "DECLASSII",
         "slug": "bangkok-thailand-19760102",
         "date": "1976-01-02",
-        "country": ""
+        "country": "TH"
       }
     },
     {
@@ -13958,7 +13958,7 @@
         "dataset": "DECLASSII",
         "slug": "vladivostok-russia-19650528",
         "date": "1965-05-28",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -13998,7 +13998,7 @@
         "dataset": "DECLASSII",
         "slug": "eastern-azerbaijan-19800625",
         "date": "1980-06-25",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -14038,7 +14038,7 @@
         "dataset": "DECLASSII",
         "slug": "perm-russia-19650124",
         "date": "1966-01-22",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -14078,7 +14078,7 @@
         "dataset": "DECLASSII",
         "slug": "paris-france-19660320",
         "date": "1966-03-20",
-        "country": ""
+        "country": "FR"
       }
     },
     {
@@ -14118,7 +14118,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00401800073h011001",
         "date": "1965-06-01",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14158,7 +14158,7 @@
         "dataset": "DECLASSII",
         "slug": "voronezh-russia",
         "date": "1964-09-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -14198,7 +14198,7 @@
         "dataset": "DECLASSII",
         "slug": "morzhovets-island-russia-1967",
         "date": "1967-06-12",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -14238,7 +14238,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19640815",
         "date": "1964-08-15",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14278,7 +14278,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00402700057h015001",
         "date": "1966-04-23",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14318,7 +14318,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19670523",
         "date": "1967-05-23",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14358,7 +14358,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19660423",
         "date": "1966-04-23",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14398,7 +14398,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19661013",
         "date": "1966-10-13",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14438,7 +14438,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00400200008h014001",
         "date": "1963-09-07",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14478,7 +14478,7 @@
         "dataset": "DECLASSII",
         "slug": "plesetsk-cosmodrome-19660425",
         "date": "1966-04-25",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -14518,7 +14518,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00403500105h006001",
         "date": "1966-12-12",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14558,7 +14558,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19660518",
         "date": "1966-05-18",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14598,7 +14598,7 @@
         "dataset": "DECLASSII",
         "slug": "balkhash-radar-station-kazakhstan-19670528",
         "date": "1967-05-28",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14638,7 +14638,7 @@
         "dataset": "DECLASSII",
         "slug": "jiuquan-satellite-launch-center-china-1967",
         "date": "1967-05-29",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -14678,7 +14678,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19660819",
         "date": "1966-08-19",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14718,7 +14718,7 @@
         "dataset": "DECLASSII",
         "slug": "kapustin-yar-russia-19640424",
         "date": "1964-04-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -14758,7 +14758,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00402800079h007001",
         "date": "1966-05-19",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -14798,7 +14798,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00401100008h009001",
         "date": "1964-09-24",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14838,7 +14838,7 @@
         "dataset": "DECLASSII",
         "slug": "norfolk-virginia-1965",
         "date": "1965-05-31",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -14878,7 +14878,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-kazakhstan-19750627",
         "date": "1975-06-27",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14918,7 +14918,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00401800008h008001",
         "date": "1965-05-28",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -14958,7 +14958,7 @@
         "dataset": "DECLASSII",
         "slug": "sevastopol-crimea-19660422",
         "date": "1966-04-22",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -14998,7 +14998,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19640312",
         "date": "1964-03-12",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -15038,7 +15038,7 @@
         "dataset": "DECLASSII",
         "slug": "omsk-rocket-engine-test-facility-russia-1967",
         "date": "1967-06-05",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -15078,7 +15078,7 @@
         "dataset": "DECLASSII",
         "slug": "shipu-bay-china-1966",
         "date": "1966-12-12",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -15118,7 +15118,7 @@
         "dataset": "DECLASSII",
         "slug": "kyiv-ukraine-19660715",
         "date": "1966-07-15",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -15158,7 +15158,7 @@
         "dataset": "DECLASSII",
         "slug": "santa-clara-county-usa-19640314-dzb00400600049h001002",
         "date": "1964-03-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -15198,7 +15198,7 @@
         "dataset": "DECLASSII",
         "slug": "dolon-air-base-kazakhstan-1965",
         "date": "1965-10-04",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -15238,7 +15238,7 @@
         "dataset": "DECLASSII",
         "slug": "kapustin-yar-russia-19790430",
         "date": "1979-04-30",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -15278,7 +15278,7 @@
         "dataset": "DECLASSII",
         "slug": "lop-nur-nuclear-test-range-china-19661208",
         "date": "1966-12-08",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -15318,7 +15318,7 @@
         "dataset": "DECLASSII",
         "slug": "dzb00403600113h001001",
         "date": "1967-02-09",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -15358,7 +15358,7 @@
         "dataset": "DECLASSII",
         "slug": "baikonur-cosmodrome-19660616",
         "date": "1966-02-16",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -15398,7 +15398,7 @@
         "dataset": "corona2",
         "slug": "mopani-district-south-africa-19720527-ds1117-1025df314",
         "date": "1972-05-27",
-        "country": ""
+        "country": "ZA"
       }
     },
     {
@@ -15438,7 +15438,7 @@
         "dataset": "corona2",
         "slug": "yaroslavl-russia-19680705-ds1047-2231da017",
         "date": "1968-07-05",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -15478,7 +15478,7 @@
         "dataset": "corona2",
         "slug": "semipalatinsk-test-site-kazakhstan-19640915-ds1010-1007df060",
         "date": "1964-09-15",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -15518,7 +15518,7 @@
         "dataset": "corona2",
         "slug": "madinah-saudi-arabia-19720527-a",
         "date": "1972-05-27",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -15558,7 +15558,7 @@
         "dataset": "corona2",
         "slug": "aktobe-region-kazakhstan-19680926-ds1048-1119df006",
         "date": "1968-09-26",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -15598,7 +15598,7 @@
         "dataset": "corona2",
         "slug": "st-petersburg-russia-19630801-ds008003019av024",
         "date": "1963-08-01",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -15638,7 +15638,7 @@
         "dataset": "corona2",
         "slug": "sary-shagan-kazakhstan-19720529-f",
         "date": "1972-05-29",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -15678,7 +15678,7 @@
         "dataset": "corona2",
         "slug": "mozhga-russia-19620227-ds009031008df075",
         "date": "1962-02-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -15718,7 +15718,7 @@
         "dataset": "corona2",
         "slug": "hamun-lake-iran-afghanistan-19620518-ds09034a038mc050",
         "date": "1962-05-18",
-        "country": ""
+        "country": "AF"
       }
     },
     {
@@ -15758,7 +15758,7 @@
         "dataset": "corona2",
         "slug": "jeddah-saudi-arabia-19720527-ds1117-1025df227",
         "date": "1972-05-27",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -15798,7 +15798,7 @@
         "dataset": "corona2",
         "slug": "lop-nur-china-19611212-ds009029022dv094",
         "date": "1961-12-12",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -15838,7 +15838,7 @@
         "dataset": "corona2",
         "slug": "udon-thani-thailand-19670116-ds1038-1022da112",
         "date": "1967-01-16",
-        "country": ""
+        "country": "TH"
       }
     },
     {
@@ -15878,7 +15878,7 @@
         "dataset": "corona2",
         "slug": "chelyabinsk-oblast-russia-19620930-ds009045007df092",
         "date": "1962-09-30",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -15918,7 +15918,7 @@
         "dataset": "corona2",
         "slug": "ar-raqqah-syria-19680808-ds1104-1009df014",
         "date": "1968-08-08",
-        "country": ""
+        "country": "SY"
       }
     },
     {
@@ -15958,7 +15958,7 @@
         "dataset": "corona2",
         "slug": "orenburg-russia-19680530-ds1103-2202df035",
         "date": "1968-05-30",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -15998,7 +15998,7 @@
         "dataset": "corona2",
         "slug": "abidjan-ivory-coast-19670304-ds1039-2154df047",
         "date": "1967-03-04",
-        "country": ""
+        "country": "CI"
       }
     },
     {
@@ -16038,7 +16038,7 @@
         "dataset": "corona2",
         "slug": "an-numaniyah-iraq-19680504-ds1103-1041da049",
         "date": "1968-05-04",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -16078,7 +16078,7 @@
         "dataset": "corona2",
         "slug": "lake-chad-19631031-ds09059a073mc034",
         "date": "1963-10-31",
-        "country": ""
+        "country": "NG"
       }
     },
     {
@@ -16118,7 +16118,7 @@
         "dataset": "corona2",
         "slug": "semipalatinsk-test-site-kazakhstan-19680628-ds1047-1118df050",
         "date": "1968-06-28",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -16158,7 +16158,7 @@
         "dataset": "corona2",
         "slug": "saint-petersburg-russia-19660205",
         "date": "1966-02-05",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16198,7 +16198,7 @@
         "dataset": "corona2",
         "slug": "toronto-canada-19670916-ds1101-1014da014",
         "date": "1967-09-16",
-        "country": ""
+        "country": "CA"
       }
     },
     {
@@ -16238,7 +16238,7 @@
         "dataset": "corona2",
         "slug": "jeddah-saudi-arabia-19650305-ds1017-2120da121",
         "date": "1965-03-05",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -16278,7 +16278,7 @@
         "dataset": "corona2",
         "slug": "ozersk-russia-19720531-ds1117-2089da034",
         "date": "1972-05-31",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16318,7 +16318,7 @@
         "dataset": "corona2",
         "slug": "kirovohrad-oblast-ukraine-19611212-ds009029040dv107",
         "date": "1961-12-12",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -16358,7 +16358,7 @@
         "dataset": "corona2",
         "slug": "akmola-region-kazakhstan-19610617-ds009017023dv108",
         "date": "1961-06-17",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -16398,7 +16398,7 @@
         "dataset": "corona2",
         "slug": "kordon-russia-19670403-ds1040-1056df106",
         "date": "1967-04-03",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16438,7 +16438,7 @@
         "dataset": "corona2",
         "slug": "mariupol-ukraine-19620418-ds009032024df073",
         "date": "1962-04-18",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -16478,7 +16478,7 @@
         "dataset": "corona2",
         "slug": "ds1024-2104da108",
         "date": "1965-09-29",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16518,7 +16518,7 @@
         "dataset": "corona2",
         "slug": "beijing-china-19670920",
         "date": "1967-09-20",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -16558,7 +16558,7 @@
         "dataset": "corona2",
         "slug": "serbia-romania-19600818-ds009009009dv054",
         "date": "1960-08-18",
-        "country": ""
+        "country": "RO"
       }
     },
     {
@@ -16598,7 +16598,7 @@
         "dataset": "corona2",
         "slug": "moscow-russia-19621105",
         "date": "1962-11-05",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16638,7 +16638,7 @@
         "dataset": "corona2",
         "slug": "strait-of-hormuz-19640617-ds09065a071mc051",
         "date": "1964-06-17",
-        "country": ""
+        "country": "OM"
       }
     },
     {
@@ -16678,7 +16678,7 @@
         "dataset": "corona2",
         "slug": "petropavlovsk-kamchatsky-russia-19620418-ds009032003df038",
         "date": "1962-04-18",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16718,7 +16718,7 @@
         "dataset": "corona2",
         "slug": "zeya-russia-19720531-ds1117-2086da004",
         "date": "1972-05-31",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16758,7 +16758,7 @@
         "dataset": "corona2",
         "slug": "amur-oblast-russia-heilongjiang-china-19621105-ds009047036df021",
         "date": "1962-11-05",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -16798,7 +16798,7 @@
         "dataset": "corona2",
         "slug": "perm-russia-19620530-ds009035002aa049",
         "date": "1962-05-30",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16838,7 +16838,7 @@
         "dataset": "corona2",
         "slug": "brasilia-brazil-19720530-ds1117-2077df023-24",
         "date": "1972-05-30",
-        "country": ""
+        "country": "BR"
       }
     },
     {
@@ -16878,7 +16878,7 @@
         "dataset": "corona2",
         "slug": "severodvinsk-russia-19680704-ds1047-2215df004",
         "date": "1968-07-04",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -16918,7 +16918,7 @@
         "dataset": "corona2",
         "slug": "lop-nur-china-19641020-ds1012-1038df135",
         "date": "1964-10-20",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -16958,7 +16958,7 @@
         "dataset": "corona2",
         "slug": "lake-urmia-iran-19630901-ds09058a040mc043",
         "date": "1963-09-01",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -16998,7 +16998,7 @@
         "dataset": "corona2",
         "slug": "la-plata-argentina-19720429-ds1116-2159da094",
         "date": "1972-04-29",
-        "country": ""
+        "country": "AR"
       }
     },
     {
@@ -17038,7 +17038,7 @@
         "dataset": "corona2",
         "slug": "tomsk-oblast-russia-19640812",
         "date": "1964-08-12",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -17078,7 +17078,7 @@
         "dataset": "corona2",
         "slug": "quang-tri-vietnam-19680129-ds1045-1069df078",
         "date": "1968-01-29",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -17118,7 +17118,7 @@
         "dataset": "corona2",
         "slug": "murmansk-russia-19720506-ds1116-2267da020",
         "date": "1972-05-06",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -17158,7 +17158,7 @@
         "dataset": "corona2",
         "slug": "pituffik-thule-greenland-19690321-ds1050-1029da012",
         "date": "1969-03-21",
-        "country": ""
+        "country": "CA"
       }
     },
     {
@@ -17198,7 +17198,7 @@
         "dataset": "corona2",
         "slug": "zhangiztobe-kazakhstan-19680628-ds1047-1118df055",
         "date": "1968-06-28",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -17238,7 +17238,7 @@
         "dataset": "corona2",
         "slug": "sevastopol-crimea-19700310-ds1109-1090da077",
         "date": "1970-03-10",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -17278,7 +17278,7 @@
         "dataset": "corona2",
         "slug": "euphrates-river-iraq-19671211-ds1102-1025df024",
         "date": "1967-12-11",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -17318,7 +17318,7 @@
         "dataset": "corona2",
         "slug": "petropavlovsk-kamchatsky-russia-19670919-ds1101-1051da030-31",
         "date": "1967-09-19",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -17358,7 +17358,7 @@
         "dataset": "corona2",
         "slug": "wisconsin-michigan-19610616-ds009017030dv013",
         "date": "1961-06-16",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -17398,7 +17398,7 @@
         "dataset": "corona2",
         "slug": "edwards-air-force-base-19701119",
         "date": "1970-11-19",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -17438,7 +17438,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19660209",
         "date": "1966-02-09",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -17478,7 +17478,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19690924-f",
         "date": "1968-09-24",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -17518,7 +17518,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19720526",
         "date": "1972-05-26",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -17558,7 +17558,7 @@
         "dataset": "corona2",
         "slug": "ds1105-2183df060",
         "date": "1968-11-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -17598,7 +17598,7 @@
         "dataset": "corona2",
         "slug": "plesetsk-cosmodrome-19670928",
         "date": "1967-09-28",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -17638,7 +17638,7 @@
         "dataset": "corona2",
         "slug": "vozrozhdeniya-island-19640609",
         "date": "1964-06-09",
-        "country": ""
+        "country": "UZ"
       }
     },
     {
@@ -17678,7 +17678,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19700319",
         "date": "1970-03-19",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -17718,7 +17718,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-kazakhstan-19640922",
         "date": "1964-09-22",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -17758,7 +17758,7 @@
         "dataset": "corona2",
         "slug": "florida-united-states-19640619",
         "date": "1964-06-19",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -17798,7 +17798,7 @@
         "dataset": "corona2",
         "slug": "mexico-city-mexico-1968",
         "date": "1968-03-15",
-        "country": ""
+        "country": "MX"
       }
     },
     {
@@ -17838,7 +17838,7 @@
         "dataset": "corona2",
         "slug": "al-ain-uae-19650504-a",
         "date": "1965-05-04",
-        "country": ""
+        "country": "AE"
       }
     },
     {
@@ -17878,7 +17878,7 @@
         "dataset": "corona2",
         "slug": "thule-air-base-greenland-19660627",
         "date": "1966-06-27",
-        "country": ""
+        "country": "CA"
       }
     },
     {
@@ -17918,7 +17918,7 @@
         "dataset": "corona2",
         "slug": "ds1102-1016df005",
         "date": "1967-12-10",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -17958,7 +17958,7 @@
         "dataset": "corona2",
         "slug": "cape-canaveral-19681218-aft",
         "date": "1968-12-18",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -17998,7 +17998,7 @@
         "dataset": "corona2",
         "slug": "norfolk-virginia-1963",
         "date": "1963-12-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18038,7 +18038,7 @@
         "dataset": "corona2",
         "slug": "franz-josef-land-arctic-19620918",
         "date": "1962-09-18",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -18078,7 +18078,7 @@
         "dataset": "corona2",
         "slug": "kurumoch-rocket-engine-test-facility-russia-1968",
         "date": "1968-08-12",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -18118,7 +18118,7 @@
         "dataset": "corona2",
         "slug": "abu-dhabi-uae-19650522-a",
         "date": "1965-05-22",
-        "country": ""
+        "country": "AE"
       }
     },
     {
@@ -18158,7 +18158,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19640918",
         "date": "1964-09-18",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -18198,7 +18198,7 @@
         "dataset": "corona2",
         "slug": "new-york-19700311",
         "date": "1970-03-11",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18238,7 +18238,7 @@
         "dataset": "corona2",
         "slug": "wallops-island-mid-atlantic-regional-spaceport-kh4a-19670817",
         "date": "1967-08-17",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18278,7 +18278,7 @@
         "dataset": "corona2",
         "slug": "western-iowa-usa-19600818",
         "date": "1960-08-18",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18318,7 +18318,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19650122",
         "date": "1965-01-22",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -18358,7 +18358,7 @@
         "dataset": "corona2",
         "slug": "long-beach-california-19660810",
         "date": "1966-08-10",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18398,7 +18398,7 @@
         "dataset": "corona2",
         "slug": "sriharikota-india-satish-dhawan-space-center-19651009",
         "date": "1965-10-09",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -18438,7 +18438,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19650326",
         "date": "1965-03-26",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -18478,7 +18478,7 @@
         "dataset": "corona2",
         "slug": "hong-kong-shenzen-macao-19641125",
         "date": "1964-11-25",
-        "country": ""
+        "country": "HK"
       }
     },
     {
@@ -18518,7 +18518,7 @@
         "dataset": "corona2",
         "slug": "long-beach-california-1964",
         "date": "1964-02-18",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18558,7 +18558,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19681215",
         "date": "1968-12-15",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -18598,7 +18598,7 @@
         "dataset": "corona2",
         "slug": "cape-canaveral-19671214-forward",
         "date": "1967-12-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18638,7 +18638,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19690924-a",
         "date": "1968-09-24",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -18678,7 +18678,7 @@
         "dataset": "corona2",
         "slug": "cape-canaveral-kennedy-space-center-19671214-aft",
         "date": "1967-12-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18718,7 +18718,7 @@
         "dataset": "corona2",
         "slug": "kurumoch-rocket-engine-test-facility-russia-19710911",
         "date": "1971-09-11",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -18758,7 +18758,7 @@
         "dataset": "corona2",
         "slug": "ds1046-2108da005",
         "date": "1968-03-21",
-        "country": ""
+        "country": "GF"
       }
     },
     {
@@ -18798,7 +18798,7 @@
         "dataset": "corona2",
         "slug": "cape-canaveral-kennedy-space-center-19651210",
         "date": "1965-12-10",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -18838,7 +18838,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19700604",
         "date": "1970-06-04",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -18878,7 +18878,7 @@
         "dataset": "corona2",
         "slug": "ds1048-1103df023",
         "date": "1968-09-25",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -18918,7 +18918,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19681002",
         "date": "1968-10-02",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -18958,7 +18958,7 @@
         "dataset": "corona2",
         "slug": "abu-dhabi-uae-19720501-f",
         "date": "1972-05-01",
-        "country": ""
+        "country": "AE"
       }
     },
     {
@@ -18998,7 +18998,7 @@
         "dataset": "corona2",
         "slug": "northern-sakha-region-russia-19600818",
         "date": "1960-08-18",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -19038,7 +19038,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19671211",
         "date": "1967-12-11",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -19078,7 +19078,7 @@
         "dataset": "corona2",
         "slug": "nioghalvfjerdsfjorden-greenland-19660622",
         "date": "1966-06-22",
-        "country": ""
+        "country": "IS"
       }
     },
     {
@@ -19118,7 +19118,7 @@
         "dataset": "corona2",
         "slug": "cape-canaveral-19681218-forward",
         "date": "1968-12-18",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -19158,7 +19158,7 @@
         "dataset": "corona2",
         "slug": "ds1102-2210df014",
         "date": "1967-12-22",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -19198,7 +19198,7 @@
         "dataset": "corona2",
         "slug": "ds1021-2143df028",
         "date": "1965-05-27",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -19238,7 +19238,7 @@
         "dataset": "corona2",
         "slug": "siberia-russia-19600818",
         "date": "1960-08-18",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -19278,7 +19278,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-19670923",
         "date": "1967-09-23",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -19318,7 +19318,7 @@
         "dataset": "corona2",
         "slug": "baikonur-cosmodrome-kh2-19600712",
         "date": "1960-12-07",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -19358,7 +19358,7 @@
         "dataset": "corona2",
         "slug": "ds1105-2240da011",
         "date": "1968-11-18",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -19398,7 +19398,7 @@
         "dataset": "corona2",
         "slug": "ds009035033aa014",
         "date": "1962-05-30",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -19438,7 +19438,7 @@
         "dataset": "corona2",
         "slug": "ds1039-1030da002",
         "date": "1967-02-24",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -19478,7 +19478,7 @@
         "dataset": "corona2",
         "slug": "cape-canaveral-19651225",
         "date": "1965-12-25",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -19518,7 +19518,7 @@
         "dataset": "corona2",
         "slug": "ds009022023dv149",
         "date": "1961-09-12",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -19558,7 +19558,7 @@
         "dataset": "DECLASSIII",
         "slug": "omsk-russia-19790505-d3c1215-200435f004",
         "date": "1979-05-05",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -19598,7 +19598,7 @@
         "dataset": "DECLASSIII",
         "slug": "yekaterinburg-pervouralsk-russia-19840217-d3c1218-401647a011",
         "date": "1984-02-17",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -19638,7 +19638,7 @@
         "dataset": "DECLASSIII",
         "slug": "birmingham-england-19730815-d3c1206-300341f006",
         "date": "1973-08-15",
-        "country": ""
+        "country": "GB"
       }
     },
     {
@@ -19678,7 +19678,7 @@
         "dataset": "DECLASSIII",
         "slug": "hyderabad-india-19790508-d3c1215-200469f019",
         "date": "1979-05-08",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -19718,7 +19718,7 @@
         "dataset": "DECLASSIII",
         "slug": "riyadh-saudi-arabia-19840717-d3c1219-100126a038",
         "date": "1984-07-17",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -19758,7 +19758,7 @@
         "dataset": "DECLASSIII",
         "slug": "ho-chi-minh-vietnam-19760224-d3c1211-400527a004",
         "date": "1976-02-24",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -19798,7 +19798,7 @@
         "dataset": "DECLASSIII",
         "slug": "omaha-nebraska-19840930-d3c1219-300909a037",
         "date": "1984-09-30",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -19838,7 +19838,7 @@
         "dataset": "DECLASSIII",
         "slug": "an-numaniyah-iraq-19820612-d3c1217-100352f033",
         "date": "1982-06-12",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -19878,7 +19878,7 @@
         "dataset": "DECLASSIII",
         "slug": "cam-ranh-vietnam-19821014-d3c1217-401644a011",
         "date": "1982-10-14",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -19918,7 +19918,7 @@
         "dataset": "DECLASSIII",
         "slug": "great-bitter-lake-egypt-19730805-d3c1206-200231a008",
         "date": "1973-08-05",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -19958,7 +19958,7 @@
         "dataset": "DECLASSIII",
         "slug": "kut-iraq-19760926-d3c1212-300642f005",
         "date": "1976-09-26",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -19998,7 +19998,7 @@
         "dataset": "DECLASSIII",
         "slug": "vietnam-cambodia-laos-19721104-d3c1204-200292f081",
         "date": "1972-11-04",
-        "country": ""
+        "country": "LA"
       }
     },
     {
@@ -20038,7 +20038,7 @@
         "dataset": "DECLASSIII",
         "slug": "havana-cuba-19840126-d3c1218-401461a003",
         "date": "1984-01-26",
-        "country": ""
+        "country": "CU"
       }
     },
     {
@@ -20078,7 +20078,7 @@
         "dataset": "DECLASSIII",
         "slug": "cairo-egypt-19800722-d3c1216-100260a013",
         "date": "1980-07-22",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -20118,7 +20118,7 @@
         "dataset": "DECLASSIII",
         "slug": "limerick-ireland-19750625-d3c1210-200149f019",
         "date": "1975-06-25",
-        "country": ""
+        "country": "IE"
       }
     },
     {
@@ -20158,7 +20158,7 @@
         "dataset": "DECLASSIII",
         "slug": "malang-indonesia-19790802-d3c1215-401124f008",
         "date": "1979-08-02",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -20198,7 +20198,7 @@
         "dataset": "DECLASSIII",
         "slug": "kut-iraq-19840827-d3c1219-200588a035",
         "date": "1984-08-27",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -20238,7 +20238,7 @@
         "dataset": "DECLASSIII",
         "slug": "samara-russia-19790827-d3c1215-401305a007",
         "date": "1979-08-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -20278,7 +20278,7 @@
         "dataset": "DECLASSIII",
         "slug": "zhumadian-china-19751217-d3c1211-100084a042",
         "date": "1975-12-17",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -20318,7 +20318,7 @@
         "dataset": "DECLASSIII",
         "slug": "ho-chi-minh-city-vietnam-19721104-d3c1204-200292f106",
         "date": "1972-11-04",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -20358,7 +20358,7 @@
         "dataset": "DECLASSIII",
         "slug": "simferopol-crimea-19830913-d3c1218-200522a005",
         "date": "1983-09-13",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -20398,7 +20398,7 @@
         "dataset": "DECLASSIII",
         "slug": "houston-texas-19830831-d3c1218-200447f003",
         "date": "1983-08-31",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -20438,7 +20438,7 @@
         "dataset": "DECLASSIII",
         "slug": "santiago-chile-19721212-d3c1204-400696a004",
         "date": "1972-12-12",
-        "country": ""
+        "country": "CL"
       }
     },
     {
@@ -20478,7 +20478,7 @@
         "dataset": "DECLASSIII",
         "slug": "novosibirsk-russia-19790811-d3c1215-401196a015",
         "date": "1979-08-11",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -20518,7 +20518,7 @@
         "dataset": "DECLASSIII",
         "slug": "vietnam-laos-19730320-d3c1205-100113a009-10",
         "date": "1973-03-20",
-        "country": ""
+        "country": "VN"
       }
     },
     {
@@ -20558,7 +20558,7 @@
         "dataset": "DECLASSIII",
         "slug": "cyprus-invasion-19740724-d3c1208-400773f009-11",
         "date": "1974-07-24",
-        "country": ""
+        "country": "CY"
       }
     },
     {
@@ -20598,7 +20598,7 @@
         "dataset": "DECLASSIII",
         "slug": "babylon-iraq-19720202-d3c1202-200148f011",
         "date": "1972-02-02",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -20638,7 +20638,7 @@
         "dataset": "DECLASSIII",
         "slug": "udon-thani-thailand-19790416-d3c1215-100256f028",
         "date": "1979-04-16",
-        "country": ""
+        "country": "TH"
       }
     },
     {
@@ -20678,7 +20678,7 @@
         "dataset": "DECLASSIII",
         "slug": "kut-iraq-19721013-d3c1204-100041a009",
         "date": "1972-10-13",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -20718,7 +20718,7 @@
         "dataset": "DECLASSIII",
         "slug": "kandahar-afghanistan-19841005-d3c1219-300971a040",
         "date": "1984-10-05",
-        "country": ""
+        "country": "AF"
       }
     },
     {
@@ -20758,7 +20758,7 @@
         "dataset": "DECLASSIII",
         "slug": "simferopol-crimea-19721028-d3c1204-200218a005",
         "date": "1972-10-28",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -20798,7 +20798,7 @@
         "dataset": "DECLASSIII",
         "slug": "jeddah-saudi-arabia-19790712-d3c1215-300978a006-007",
         "date": "1979-07-12",
-        "country": ""
+        "country": "SA"
       }
     },
     {
@@ -20838,7 +20838,7 @@
         "dataset": "DECLASSIII",
         "slug": "sovetskaya-gavan-russia-19780905-d3c1214-401420f006",
         "date": "1978-09-05",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -20878,7 +20878,7 @@
         "dataset": "DECLASSIII",
         "slug": "vozdvizhenka-russia-19770818-d3c1213-200289f012",
         "date": "1977-08-18",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -20918,7 +20918,7 @@
         "dataset": "DECLASSIII",
         "slug": "cyprus-invasion-19740720-d3c1208-400755f015-16",
         "date": "1974-07-20",
-        "country": ""
+        "country": "CY"
       }
     },
     {
@@ -20958,7 +20958,7 @@
         "dataset": "DECLASSIII",
         "slug": "h3-air-base-iraq-19780705-d3c1214-300853f032",
         "date": "1978-07-05",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -20998,7 +20998,7 @@
         "dataset": "DECLASSIII",
         "slug": "southern-moscow-oblast-russia-19820922-d3c1217-301442a008",
         "date": "1982-09-22",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -21038,7 +21038,7 @@
         "dataset": "DECLASSIII",
         "slug": "kuala-lumpur-malaysia-19790518-d3c1215-200567a003",
         "date": "1979-05-18",
-        "country": ""
+        "country": "MY"
       }
     },
     {
@@ -21078,7 +21078,7 @@
         "dataset": "DECLASSIII",
         "slug": "kyiv-ukraine-19840811-d3c1219-200435f023",
         "date": "1984-08-11",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -21118,7 +21118,7 @@
         "dataset": "DECLASSIII",
         "slug": "kuwait-city-kuwait-19720731-d3c1203-300328a002",
         "date": "1972-07-31",
-        "country": ""
+        "country": "KW"
       }
     },
     {
@@ -21158,7 +21158,7 @@
         "dataset": "DECLASSIII",
         "slug": "yevpatoria-crimea-19840910-d3c1219-200712f006",
         "date": "1984-09-10",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -21198,7 +21198,7 @@
         "dataset": "DECLASSIII",
         "slug": "pavlohrad-ukraine-19761018-d3c1212-300746f004",
         "date": "1976-10-18",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -21238,7 +21238,7 @@
         "dataset": "DECLASSIII",
         "slug": "ismailia-egypt-19800813-d3c1216-200459f008",
         "date": "1980-08-13",
-        "country": ""
+        "country": "EG"
       }
     },
     {
@@ -21278,7 +21278,7 @@
         "dataset": "DECLASSIII",
         "slug": "severodvinsk-russia-19800709-d3c1216-100184f005",
         "date": "1980-07-09",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -21318,7 +21318,7 @@
         "dataset": "DECLASSIII",
         "slug": "surakarta-city-indonesia-19790820-d3c1215-401256a008",
         "date": "1979-08-20",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -21358,7 +21358,7 @@
         "dataset": "DECLASSIII",
         "slug": "kolkata-india-19740504-d3c1208-200198f004",
         "date": "1974-05-04",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -21398,7 +21398,7 @@
         "dataset": "DECLASSIII",
         "slug": "kazan-russia-19730420-d3c1205-400449f011",
         "date": "1973-04-20",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -21438,7 +21438,7 @@
         "dataset": "DECLASSIII",
         "slug": "h3-air-base-iraq-19840916-d3c1219-200781f002",
         "date": "1984-09-16",
-        "country": ""
+        "country": "SY"
       }
     },
     {
@@ -21478,7 +21478,7 @@
         "dataset": "DECLASSIII",
         "slug": "singapore-19790514-d3c1215-200532a002",
         "date": "1979-05-14",
-        "country": ""
+        "country": "ID"
       }
     },
     {
@@ -21518,7 +21518,7 @@
         "dataset": "DECLASSIII",
         "slug": "pituffik-thule-air-base-greenland-19760817-d3c1212-200353a002",
         "date": "1976-08-17",
-        "country": ""
+        "country": "CA"
       }
     },
     {
@@ -21558,7 +21558,7 @@
         "dataset": "DECLASSIII",
         "slug": "chernobyl-ukraine-19810227",
         "date": "1981-02-27",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -21598,7 +21598,7 @@
         "dataset": "DECLASSIII",
         "slug": "tehran-iran-19800704",
         "date": "1980-07-04",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -21638,7 +21638,7 @@
         "dataset": "DECLASSIII",
         "slug": "tehran-iran-19720711",
         "date": "1972-07-11",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -21678,7 +21678,7 @@
         "dataset": "DECLASSIII",
         "slug": "sanliurfa-mardin-provinces-turkey-19841008",
         "date": "1984-10-08",
-        "country": ""
+        "country": "TR"
       }
     },
     {
@@ -21718,7 +21718,7 @@
         "dataset": "DECLASSIII",
         "slug": "los-angeles-19790429",
         "date": "1979-04-29",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -21758,7 +21758,7 @@
         "dataset": "DECLASSIII",
         "slug": "groom-lake-area-51-1971",
         "date": "1971-06-17",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -21798,7 +21798,7 @@
         "dataset": "DECLASSIII",
         "slug": "berlin-germany-19790410",
         "date": "1979-04-10",
-        "country": ""
+        "country": "DE"
       }
     },
     {
@@ -21838,7 +21838,7 @@
         "dataset": "DECLASSIII",
         "slug": "sunshine-coast-australia-19741218",
         "date": "1974-12-18",
-        "country": ""
+        "country": "AU"
       }
     },
     {
@@ -21878,7 +21878,7 @@
         "dataset": "DECLASSIII",
         "slug": "mykolaiv-ukraine-19840925",
         "date": "1984-09-25",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -21918,7 +21918,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19740220",
         "date": "1974-02-20",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -21958,7 +21958,7 @@
         "dataset": "DECLASSIII",
         "slug": "asipovichy-belarus-19841002",
         "date": "1984-10-02",
-        "country": ""
+        "country": "BY"
       }
     },
     {
@@ -21998,7 +21998,7 @@
         "dataset": "DECLASSIII",
         "slug": "chernobyl-ukraine-19790515",
         "date": "1979-05-15",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -22038,7 +22038,7 @@
         "dataset": "DECLASSIII",
         "slug": "abadan-khorramshahr-iran-iraq-19801011",
         "date": "1980-10-11",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -22078,7 +22078,7 @@
         "dataset": "DECLASSIII",
         "slug": "new-york-city-19710616-f",
         "date": "1971-06-16",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -22118,7 +22118,7 @@
         "dataset": "DECLASSIII",
         "slug": "saint-petersburg-russia-19750703",
         "date": "1975-07-03",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -22158,7 +22158,7 @@
         "dataset": "DECLASSIII",
         "slug": "mount-st-helens-19750723",
         "date": "1975-07-23",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -22198,7 +22198,7 @@
         "dataset": "DECLASSIII",
         "slug": "new-delhi-india-19800912",
         "date": "1980-09-12",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -22238,7 +22238,7 @@
         "dataset": "DECLASSIII",
         "slug": "saint-petersburg-russia-1974",
         "date": "1974-04-29",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -22278,7 +22278,7 @@
         "dataset": "DECLASSIII",
         "slug": "izmir-turkey-19740623",
         "date": "1974-06-23",
-        "country": ""
+        "country": "TR"
       }
     },
     {
@@ -22318,7 +22318,7 @@
         "dataset": "DECLASSIII",
         "slug": "iraq-iran-border-19840225-d3c1218-401721a032",
         "date": "1984-02-25",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -22358,7 +22358,7 @@
         "dataset": "DECLASSIII",
         "slug": "groom-lake-area-51-19790909",
         "date": "1979-09-09",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -22398,7 +22398,7 @@
         "dataset": "DECLASSIII",
         "slug": "salyan-azerbaijan-19731210",
         "date": "1973-12-10",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -22438,7 +22438,7 @@
         "dataset": "DECLASSIII",
         "slug": "chicago-illinois-19830929",
         "date": "1983-09-29",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -22478,7 +22478,7 @@
         "dataset": "DECLASSIII",
         "slug": "chernobyl-ukraine-19820518",
         "date": "1982-05-18",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -22518,7 +22518,7 @@
         "dataset": "DECLASSIII",
         "slug": "istanbul-turkey-19770801",
         "date": "1977-08-01",
-        "country": ""
+        "country": "TR"
       }
     },
     {
@@ -22558,7 +22558,7 @@
         "dataset": "DECLASSIII",
         "slug": "falkland-islands-19820613",
         "date": "1982-06-13",
-        "country": ""
+        "country": "FK"
       }
     },
     {
@@ -22598,7 +22598,7 @@
         "dataset": "DECLASSIII",
         "slug": "falkland-islands-19820531",
         "date": "1982-05-31",
-        "country": ""
+        "country": "FK"
       }
     },
     {
@@ -22638,7 +22638,7 @@
         "dataset": "DECLASSIII",
         "slug": "sary-shagan-kazakhstan-1980",
         "date": "1980-06-29",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -22678,7 +22678,7 @@
         "dataset": "DECLASSIII",
         "slug": "xichang-satellite-launch-center-china-19840902",
         "date": "1984-09-02",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -22718,7 +22718,7 @@
         "dataset": "DECLASSIII",
         "slug": "dhaka-bangladesh-19720125",
         "date": "1972-01-25",
-        "country": ""
+        "country": "BD"
       }
     },
     {
@@ -22758,7 +22758,7 @@
         "dataset": "DECLASSIII",
         "slug": "united-arab-emirates-19820524",
         "date": "1982-05-24",
-        "country": ""
+        "country": "AE"
       }
     },
     {
@@ -22798,7 +22798,7 @@
         "dataset": "DECLASSIII",
         "slug": "ningbo-zhoushan-china-19741121",
         "date": "1974-11-21",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -22838,7 +22838,7 @@
         "dataset": "DECLASSIII",
         "slug": "saint-petersburg-russia-19840711",
         "date": "1984-07-11",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -22878,7 +22878,7 @@
         "dataset": "DECLASSIII",
         "slug": "busan-south-korea-19780527",
         "date": "1978-05-27",
-        "country": ""
+        "country": "KR"
       }
     },
     {
@@ -22918,7 +22918,7 @@
         "dataset": "DECLASSIII",
         "slug": "dakar-senegal-19810223-aft",
         "date": "1981-02-23",
-        "country": ""
+        "country": "SN"
       }
     },
     {
@@ -22958,7 +22958,7 @@
         "dataset": "DECLASSIII",
         "slug": "hong-kong-19731229",
         "date": "1973-12-29",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -22998,7 +22998,7 @@
         "dataset": "DECLASSIII",
         "slug": "ramenskoye-airport-moscow-19820714",
         "date": "1982-07-14",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -23038,7 +23038,7 @@
         "dataset": "DECLASSIII",
         "slug": "fairford-england-19730815",
         "date": "1973-08-15",
-        "country": ""
+        "country": "GB"
       }
     },
     {
@@ -23078,7 +23078,7 @@
         "dataset": "DECLASSIII",
         "slug": "ramenskoye-airport-moscow-oblast-19820605",
         "date": "1982-06-05",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -23118,7 +23118,7 @@
         "dataset": "DECLASSIII",
         "slug": "dakar-senegal-19810223-fwd",
         "date": "1981-02-23",
-        "country": ""
+        "country": "SN"
       }
     },
     {
@@ -23158,7 +23158,7 @@
         "dataset": "DECLASSIII",
         "slug": "lebanon-israel-syria-19740625",
         "date": "1974-06-25",
-        "country": ""
+        "country": "SY"
       }
     },
     {
@@ -23198,7 +23198,7 @@
         "dataset": "DECLASSIII",
         "slug": "adana-turkey-19750207",
         "date": "1975-02-07",
-        "country": ""
+        "country": "TR"
       }
     },
     {
@@ -23238,7 +23238,7 @@
         "dataset": "DECLASSIII",
         "slug": "tehran-iran-197800704-a",
         "date": "1980-07-04",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -23278,7 +23278,7 @@
         "dataset": "DECLASSIII",
         "slug": "los-angeles-19830806",
         "date": "1983-08-06",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23318,7 +23318,7 @@
         "dataset": "DECLASSIII",
         "slug": "baku-azerbaijan-19780728",
         "date": "1978-07-28",
-        "country": ""
+        "country": "AZ"
       }
     },
     {
@@ -23358,7 +23358,7 @@
         "dataset": "DECLASSIII",
         "slug": "edmonton-canada-19801017",
         "date": "1980-10-17",
-        "country": ""
+        "country": "CA"
       }
     },
     {
@@ -23398,7 +23398,7 @@
         "dataset": "DECLASSIII",
         "slug": "wallops-island-mid-atlantic-regional-spaceport-19730414",
         "date": "1973-04-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23438,7 +23438,7 @@
         "dataset": "DECLASSIII",
         "slug": "mount-st-helens-19800630",
         "date": "1980-06-30",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23478,7 +23478,7 @@
         "dataset": "DECLASSIII",
         "slug": "new-london-connecticut-19790913",
         "date": "1979-09-13",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23518,7 +23518,7 @@
         "dataset": "DECLASSIII",
         "slug": "tehran-iran-19780624",
         "date": "1978-06-24",
-        "country": ""
+        "country": "IR"
       }
     },
     {
@@ -23558,7 +23558,7 @@
         "dataset": "DECLASSIII",
         "slug": "saint-petersburg-russia-19800724",
         "date": "1980-07-24",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -23598,7 +23598,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19730815",
         "date": "1973-08-15",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -23638,7 +23638,7 @@
         "dataset": "DECLASSIII",
         "slug": "fort-myers-florida-19840301",
         "date": "1984-03-01",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23678,7 +23678,7 @@
         "dataset": "DECLASSIII",
         "slug": "indianapolis-indiana-1979",
         "date": "1979-05-28",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23718,7 +23718,7 @@
         "dataset": "DECLASSIII",
         "slug": "baghdad-iraq-19840224",
         "date": "1984-02-24",
-        "country": ""
+        "country": "IQ"
       }
     },
     {
@@ -23758,7 +23758,7 @@
         "dataset": "DECLASSIII",
         "slug": "mayport-florida-19720206",
         "date": "1972-02-06",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23798,7 +23798,7 @@
         "dataset": "DECLASSIII",
         "slug": "mykolaiv-shipyard-ukraine-19800717",
         "date": "1980-07-17",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -23838,7 +23838,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19740615",
         "date": "1974-06-15",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -23878,7 +23878,7 @@
         "dataset": "DECLASSIII",
         "slug": "kurumoch-rocket-engine-test-facility-russia-19720722",
         "date": "1972-07-22",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -23918,7 +23918,7 @@
         "dataset": "DECLASSIII",
         "slug": "san-francisco-california-1971",
         "date": "1971-07-15",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23958,7 +23958,7 @@
         "dataset": "DECLASSIII",
         "slug": "fresno-california-19700616",
         "date": "1971-06-16",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -23998,7 +23998,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19730911",
         "date": "1973-09-11",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24038,7 +24038,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19830820",
         "date": "1983-08-20",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24078,7 +24078,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19721107",
         "date": "1972-11-07",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24118,7 +24118,7 @@
         "dataset": "DECLASSIII",
         "slug": "minneapolis-saint-paul-minnesota-1983",
         "date": "1983-08-06",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -24158,7 +24158,7 @@
         "dataset": "DECLASSIII",
         "slug": "ramenskoye-airport-moscow-19800709",
         "date": "1980-07-09",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -24198,7 +24198,7 @@
         "dataset": "DECLASSIII",
         "slug": "washington-dc-maryland-1976",
         "date": "1976-09-13",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -24238,7 +24238,7 @@
         "dataset": "DECLASSIII",
         "slug": "mykolaiv-ukraine-1972",
         "date": "1972-07-15",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -24278,7 +24278,7 @@
         "dataset": "DECLASSIII",
         "slug": "new-york-city-19790627",
         "date": "1979-06-27",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -24318,7 +24318,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19750618",
         "date": "1975-06-18",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24358,7 +24358,7 @@
         "dataset": "DECLASSIII",
         "slug": "cape-canaveral-space-coast-florida-19780721",
         "date": "1978-07-21",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -24398,7 +24398,7 @@
         "dataset": "DECLASSIII",
         "slug": "montreal-canada-19710616",
         "date": "1971-06-16",
-        "country": ""
+        "country": "CA"
       }
     },
     {
@@ -24438,7 +24438,7 @@
         "dataset": "DECLASSIII",
         "slug": "jacksonville-mayport-florida-1975",
         "date": "1975-12-21",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -24478,7 +24478,7 @@
         "dataset": "DECLASSIII",
         "slug": "zagorsk-rocket-test-site-russia-1975",
         "date": "1975-02-16",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -24518,7 +24518,7 @@
         "dataset": "DECLASSIII",
         "slug": "tripoli-libya-1972",
         "date": "1972-11-07",
-        "country": ""
+        "country": "LY"
       }
     },
     {
@@ -24558,7 +24558,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19721107-a",
         "date": "1972-11-07",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24598,7 +24598,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-kazakhstan-19721121",
         "date": "1972-11-21",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24638,7 +24638,7 @@
         "dataset": "DECLASSIII",
         "slug": "moscow-russia-19800709",
         "date": "1980-07-09",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -24678,7 +24678,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19721112",
         "date": "1972-11-12",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24718,7 +24718,7 @@
         "dataset": "DECLASSIII",
         "slug": "seattle-washington-19820609",
         "date": "1982-06-09",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -24758,7 +24758,7 @@
         "dataset": "DECLASSIII",
         "slug": "saint-petersburg-russia-1978",
         "date": "1978-04-20",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -24798,7 +24798,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19790425",
         "date": "1979-04-25",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24838,7 +24838,7 @@
         "dataset": "DECLASSIII",
         "slug": "khabarovsk-russia-19790318",
         "date": "1979-03-18",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -24878,7 +24878,7 @@
         "dataset": "DECLASSIII",
         "slug": "beijing-china-19730312",
         "date": "1973-03-12",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -24918,7 +24918,7 @@
         "dataset": "DECLASSIII",
         "slug": "detroit-michigan-19830930",
         "date": "1983-09-30",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -24958,7 +24958,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-kazakhstan-19790325",
         "date": "1979-03-25",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -24998,7 +24998,7 @@
         "dataset": "DECLASSIII",
         "slug": "miami-florida-1979",
         "date": "1979-03-20",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25038,7 +25038,7 @@
         "dataset": "DECLASSIII",
         "slug": "mykolaiv-ukraine-1977",
         "date": "1977-09-03",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -25078,7 +25078,7 @@
         "dataset": "DECLASSIII",
         "slug": "liepaja-latvia-19840907",
         "date": "1984-09-07",
-        "country": ""
+        "country": "LV"
       }
     },
     {
@@ -25118,7 +25118,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19760903",
         "date": "1976-09-03",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -25158,7 +25158,7 @@
         "dataset": "DECLASSIII",
         "slug": "sacramento-california-19751218",
         "date": "1975-12-18",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25198,7 +25198,7 @@
         "dataset": "DECLASSIII",
         "slug": "chernobyl-ukraine-1974",
         "date": "1974-01-06",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -25238,7 +25238,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19720717",
         "date": "1972-07-17",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -25278,7 +25278,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19720121",
         "date": "1972-01-21",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -25318,7 +25318,7 @@
         "dataset": "DECLASSIII",
         "slug": "st-louis-missouri-19841001",
         "date": "1984-10-01",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25358,7 +25358,7 @@
         "dataset": "DECLASSIII",
         "slug": "kurumoch-rocket-engine-test-facility-russia-19790827",
         "date": "1979-08-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -25398,7 +25398,7 @@
         "dataset": "DECLASSIII",
         "slug": "norfolk-virginia-1973",
         "date": "1973-04-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25438,7 +25438,7 @@
         "dataset": "DECLASSIII",
         "slug": "saint-petersburg-russia-19720201",
         "date": "1972-02-01",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -25478,7 +25478,7 @@
         "dataset": "DECLASSIII",
         "slug": "chernobyl-ukraine-19840129",
         "date": "1984-01-29",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -25518,7 +25518,7 @@
         "dataset": "DECLASSIII",
         "slug": "chengdu-china-1982",
         "date": "1982-08-19",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -25558,7 +25558,7 @@
         "dataset": "DECLASSIII",
         "slug": "wallops-island-mid-atlantic-regional-spaceport-19730414",
         "date": "1973-04-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25598,7 +25598,7 @@
         "dataset": "DECLASSIII",
         "slug": "san-diego-california-1974",
         "date": "1974-04-11",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25638,7 +25638,7 @@
         "dataset": "DECLASSIII",
         "slug": "taiyuan-satellite-launch-center-19820920",
         "date": "1982-09-20",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -25678,7 +25678,7 @@
         "dataset": "DECLASSIII",
         "slug": "yekaterinburg-russia-19721106",
         "date": "1972-11-06",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -25718,7 +25718,7 @@
         "dataset": "DECLASSIII",
         "slug": "new-orleans-louisiana-1972",
         "date": "1972-08-20",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25758,7 +25758,7 @@
         "dataset": "DECLASSIII",
         "slug": "launch-complex-39a-lc39a-kh9-19720602",
         "date": "1972-02-06",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25798,7 +25798,7 @@
         "dataset": "DECLASSIII",
         "slug": "mayport-florida-1982",
         "date": "1982-10-20",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25838,7 +25838,7 @@
         "dataset": "DECLASSIII",
         "slug": "san-jose-california-color-1979",
         "date": "1979-04-28",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25878,7 +25878,7 @@
         "dataset": "DECLASSIII",
         "slug": "norfolk-virginia-1976",
         "date": "1976-11-18",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25918,7 +25918,7 @@
         "dataset": "DECLASSIII",
         "slug": "san-diego-1977",
         "date": "1977-10-25",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -25958,7 +25958,7 @@
         "dataset": "DECLASSIII",
         "slug": "plesetsk-cosmodrome-19840910",
         "date": "1984-09-10",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -25998,7 +25998,7 @@
         "dataset": "DECLASSIII",
         "slug": "davis-monthan-air-force-base-tuscon-arizona-19840917",
         "date": "1984-09-17",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26038,7 +26038,7 @@
         "dataset": "DECLASSIII",
         "slug": "samara-russia-1984",
         "date": "1984-09-28",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -26078,7 +26078,7 @@
         "dataset": "DECLASSIII",
         "slug": "boston-massachusetts-1982",
         "date": "1982-09-19",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26118,7 +26118,7 @@
         "dataset": "DECLASSIII",
         "slug": "satish-dhawan-space-center-india-1978",
         "date": "1978-03-17",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -26158,7 +26158,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19370728",
         "date": "1973-07-28",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -26198,7 +26198,7 @@
         "dataset": "DECLASSIII",
         "slug": "cape-canaveral-19750202",
         "date": "1975-02-02",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26238,7 +26238,7 @@
         "dataset": "DECLASSIII",
         "slug": "houston-texas-1972",
         "date": "1972-11-26",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26278,7 +26278,7 @@
         "dataset": "DECLASSIII",
         "slug": "wallops-spaceport-virginia-19720810",
         "date": "1972-08-10",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26318,7 +26318,7 @@
         "dataset": "DECLASSIII",
         "slug": "armavir-russia-1972",
         "date": "1972-01-21",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -26358,7 +26358,7 @@
         "dataset": "DECLASSIII",
         "slug": "baltimore-maryland-1976",
         "date": "1976-08-19",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26398,7 +26398,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19721011",
         "date": "1972-10-11",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -26438,7 +26438,7 @@
         "dataset": "DECLASSIII",
         "slug": "shanghai-china-19830802",
         "date": "1983-08-02",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -26478,7 +26478,7 @@
         "dataset": "DECLASSIII",
         "slug": "cape-canaveral-19820714",
         "date": "1982-07-14",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26518,7 +26518,7 @@
         "dataset": "DECLASSIII",
         "slug": "sialkot-pakistan-1982",
         "date": "1982-06-05",
-        "country": ""
+        "country": "IN"
       }
     },
     {
@@ -26558,7 +26558,7 @@
         "dataset": "DECLASSIII",
         "slug": "atwater-california-1982",
         "date": "1982-07-10",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26598,7 +26598,7 @@
         "dataset": "DECLASSIII",
         "slug": "hong-kong-19720817",
         "date": "1972-08-17",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -26638,7 +26638,7 @@
         "dataset": "DECLASSIII",
         "slug": "seattle-washington-1983",
         "date": "1983-10-11",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26678,7 +26678,7 @@
         "dataset": "DECLASSIII",
         "slug": "new-york-city-1980",
         "date": "1980-09-08",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26718,7 +26718,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19721011-f",
         "date": "1972-10-11",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -26758,7 +26758,7 @@
         "dataset": "DECLASSIII",
         "slug": "stennis-space-center-19720820",
         "date": "1972-08-20",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26798,7 +26798,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-kazakhstan-19820928",
         "date": "1982-09-28",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -26838,7 +26838,7 @@
         "dataset": "DECLASSIII",
         "slug": "marshall-spaceflight-center-huntsville-alabama",
         "date": "1979-06-11",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -26878,7 +26878,7 @@
         "dataset": "DECLASSIII",
         "slug": "kapustin-yar-russia-1982",
         "date": "1982-05-21",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -26918,7 +26918,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-kazakhstan-19770810",
         "date": "1977-08-10",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -26958,7 +26958,7 @@
         "dataset": "DECLASSIII",
         "slug": "nyonoksa-severodvinsk-russia-19821010",
         "date": "1982-10-10",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -26998,7 +26998,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19840902",
         "date": "1984-09-02",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -27038,7 +27038,7 @@
         "dataset": "DECLASSIII",
         "slug": "plesetsk-cosmodrome-19810228",
         "date": "1981-02-28",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -27078,7 +27078,7 @@
         "dataset": "DECLASSIII",
         "slug": "tokyo-japan-1979",
         "date": "1979-05-06",
-        "country": ""
+        "country": "JP"
       }
     },
     {
@@ -27118,7 +27118,7 @@
         "dataset": "DECLASSIII",
         "slug": "vandenberg-space-force-base-19750701",
         "date": "1975-07-01",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -27158,7 +27158,7 @@
         "dataset": "DECLASSIII",
         "slug": "ryazan-russia-19750216",
         "date": "1975-02-16",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -27198,7 +27198,7 @@
         "dataset": "DECLASSIII",
         "slug": "wallops-spaceport-virginia-19720129",
         "date": "1972-01-29",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -27238,7 +27238,7 @@
         "dataset": "DECLASSIII",
         "slug": "plesetsk-cosmodrome-russia-19720127",
         "date": "1972-01-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -27278,7 +27278,7 @@
         "dataset": "DECLASSIII",
         "slug": "odesa-ukraine-19800717",
         "date": "1980-07-17",
-        "country": ""
+        "country": "UA"
       }
     },
     {
@@ -27318,7 +27318,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-19820602",
         "date": "1982-06-02",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -27358,7 +27358,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-n1-19720708",
         "date": "1972-07-08",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -27398,7 +27398,7 @@
         "dataset": "DECLASSIII",
         "slug": "fairford-england-19730815",
         "date": "1973-08-15",
-        "country": ""
+        "country": "GB"
       }
     },
     {
@@ -27438,7 +27438,7 @@
         "dataset": "DECLASSIII",
         "slug": "tanegashima-space-center-japan-19840830",
         "date": "1984-08-30",
-        "country": ""
+        "country": "JP"
       }
     },
     {
@@ -27478,7 +27478,7 @@
         "dataset": "DECLASSIII",
         "slug": "vostochny-cosmodrome-russia-19840915",
         "date": "1984-09-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -27518,7 +27518,7 @@
         "dataset": "DECLASSIII",
         "slug": "nasa-ames-research-center-1984",
         "date": "1984-09-01",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -27558,7 +27558,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1216-401299f007",
         "date": "1981-02-20",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -27598,7 +27598,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1216-401228f003",
         "date": "1981-02-10",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -27638,7 +27638,7 @@
         "dataset": "DECLASSIII",
         "slug": "cape-canaveral-19780807",
         "date": "1978-08-07",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -27678,7 +27678,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1219-200501f003",
         "date": "1984-08-17",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -27718,7 +27718,7 @@
         "dataset": "DECLASSIII",
         "slug": "baikonur-cosmodrome-n1-19721116",
         "date": "1972-11-16",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -27758,7 +27758,7 @@
         "dataset": "DECLASSIII",
         "slug": "jiuquan-satellite-launch-center-19770715",
         "date": "1977-07-15",
-        "country": ""
+        "country": "CN"
       }
     },
     {
@@ -27798,7 +27798,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1210-100055a004",
         "date": "1975-06-13",
-        "country": ""
+        "country": "AU"
       }
     },
     {
@@ -27838,7 +27838,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1216-200301f014",
         "date": "1980-07-27",
-        "country": ""
+        "country": "RU"
       }
     },
     {
@@ -27878,7 +27878,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1205-300380a045",
         "date": "1973-04-13",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -27918,7 +27918,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1218-100355a021",
         "date": "1983-08-20",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -27958,7 +27958,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1215-401142f007",
         "date": "1979-08-03",
-        "country": ""
+        "country": "KZ"
       }
     },
     {
@@ -27998,7 +27998,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1209-100046a004",
         "date": "1974-11-03",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -28038,7 +28038,7 @@
         "dataset": "DECLASSIII",
         "slug": "cape-canaveral-19831029",
         "date": "1983-10-29",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -28078,7 +28078,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1210-100092a021",
         "date": "1975-06-17",
-        "country": ""
+        "country": "US"
       }
     },
     {
@@ -28118,7 +28118,7 @@
         "dataset": "DECLASSIII",
         "slug": "d3c1216-100080a006",
         "date": "1980-06-27",
-        "country": ""
+        "country": "KZ"
       }
     }
   ]
