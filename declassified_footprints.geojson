@@ -28120,6 +28120,46 @@
         "date": "1980-06-27",
         "country": "KZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.213,
+              -34.041
+            ],
+            [
+              19.479,
+              -34.167
+            ],
+            [
+              19.52,
+              -33.96
+            ],
+            [
+              18.233,
+              -33.831
+            ],
+            [
+              18.213,
+              -34.041
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Cape Town, South Africa",
+        "url": "https://spacefromspace.com/declassified-satellite-images/cape-town-south-africa-19790617-d3c1215-300765a016",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699b7abcedcafd9b8549ea13_cape-town-south-africa-1979-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1215-300765A016",
+        "dataset": "DECLASSIII",
+        "slug": "cape-town-south-africa-19790617-d3c1215-300765a016",
+        "date": "1979-06-17",
+        "country": "ZA"
+      }
     }
   ]
 }
