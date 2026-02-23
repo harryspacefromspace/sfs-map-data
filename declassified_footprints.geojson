@@ -28200,6 +28200,46 @@
         "date": "1977-10-05",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.3,
+              51.982
+            ],
+            [
+              5.763,
+              51.806
+            ],
+            [
+              5.851,
+              51.989
+            ],
+            [
+              4.344,
+              52.143
+            ],
+            [
+              4.3,
+              51.982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Amsterdam, Netherlands",
+        "url": "https://spacefromspace.com/declassified-satellite-images/amsterdam-netherlands-19820530-d3c1217-100203a010",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699bbdc5318eb57f65bd1498_amsterdam-netherlands-1982-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1217-100203A010",
+        "dataset": "DECLASSIII",
+        "slug": "amsterdam-netherlands-19820530-d3c1217-100203a010",
+        "date": "1982-05-30",
+        "country": "NL"
+      }
     }
   ]
 }
