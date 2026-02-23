@@ -37626,6 +37626,46 @@
         "date": "1961-09-12",
         "country": "KZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.312,
+              34.98
+            ],
+            [
+              51.684,
+              34.83
+            ],
+            [
+              52.083,
+              37.073
+            ],
+            [
+              50.675,
+              37.231
+            ],
+            [
+              50.312,
+              34.98
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tehran, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tehran-iran-19790621-dzb1215-500446l003001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699bf20ee5e5ca2f6b8037ad_tehran-iran-1979-declassified-spy-satellite-kh9-hexagon-mapping-thumb.jpg",
+        "entity_id": "DZB1215-500446L003001",
+        "dataset": "DECLASSII",
+        "slug": "tehran-iran-19790621-dzb1215-500446l003001",
+        "date": "1979-06-21",
+        "country": "IR"
+      }
     }
   ]
 }
