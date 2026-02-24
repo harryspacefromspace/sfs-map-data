@@ -37742,6 +37742,86 @@
         "date": "1979-06-21",
         "country": "IR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.765,
+              28.965
+            ],
+            [
+              47.965,
+              28.832
+            ],
+            [
+              48.25,
+              29.215
+            ],
+            [
+              48.05,
+              29.332
+            ],
+            [
+              47.765,
+              28.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Burgan Oil Field, Kuwait",
+        "url": "https://spacefromspace.com/declassified-satellite-images/burgan-oil-field-kuwait-19660424-dzb00402700073h021001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699e2e25d49a7f88c2ac31bd_burgan-oul-field-kuwait-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00402700073H021001",
+        "dataset": "DECLASSII",
+        "slug": "burgan-oil-field-kuwait-19660424-dzb00402700073h021001",
+        "date": "1966-04-24",
+        "country": "KW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.35,
+              62.715
+            ],
+            [
+              27.8,
+              62.665
+            ],
+            [
+              28.065,
+              63.1
+            ],
+            [
+              27.615,
+              63.165
+            ],
+            [
+              27.35,
+              62.715
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kuopio, Finland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kuopio-finland-19651001-dzb00402200010h007001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699e28297159c59457c12e78_kuopio-finland-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00402200010H007001",
+        "dataset": "DECLASSII",
+        "slug": "kuopio-finland-19651001-dzb00402200010h007001",
+        "date": "1965-10-01",
+        "country": "FI"
+      }
     }
   ]
 }
