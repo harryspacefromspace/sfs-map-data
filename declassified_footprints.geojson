@@ -38122,6 +38122,46 @@
         "date": "1967-02-07",
         "country": "BD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.8,
+              12.65
+            ],
+            [
+              45,
+              12.6
+            ],
+            [
+              45.132,
+              13.1
+            ],
+            [
+              44.932,
+              13.15
+            ],
+            [
+              44.8,
+              12.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Aden, Yemen",
+        "url": "https://spacefromspace.com/declassified-satellite-images/aden-yemen-19660322-dzb00402600057h019001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699e9974191585180524115d_aden-yemen-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00402600057H019001",
+        "dataset": "DECLASSII",
+        "slug": "aden-yemen-19660322-dzb00402600057h019001",
+        "date": "1966-03-22",
+        "country": "YE"
+      }
     }
   ]
 }
