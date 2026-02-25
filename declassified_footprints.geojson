@@ -37922,6 +37922,46 @@
         "date": "1965-10-01",
         "country": "FI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.85,
+              28.865
+            ],
+            [
+              48.032,
+              28.85
+            ],
+            [
+              48.082,
+              29.215
+            ],
+            [
+              47.9,
+              29.232
+            ],
+            [
+              47.85,
+              28.865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Burgan Oil Field, Kuwait",
+        "url": "https://spacefromspace.com/declassified-satellite-images/burgan-oil-field-kuwait-19660823-dzb00403100105h008001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699e3a4bd09418ed31c7821c_burgan-oil-field-kuwait-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00403100105H008001",
+        "dataset": "DECLASSII",
+        "slug": "burgan-oil-field-kuwait-19660823-dzb00403100105h008001",
+        "date": "1966-08-23",
+        "country": "KW"
+      }
     }
   ]
 }
