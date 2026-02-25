@@ -37962,6 +37962,86 @@
         "date": "1966-08-23",
         "country": "KW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.08,
+              59.16
+            ],
+            [
+              10.73,
+              59.14
+            ],
+            [
+              10.99,
+              59.65
+            ],
+            [
+              10.34,
+              59.67
+            ],
+            [
+              10.08,
+              59.16
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tonsberg, Norway",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tonsberg-norway-19650529-dzb00401800027h006001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699e5e0445a0dc4df0869e4f_tonsberg-norway-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00401800027H006001",
+        "dataset": "DECLASSII",
+        "slug": "tonsberg-norway-19650529-dzb00401800027h006001",
+        "date": "1965-05-29",
+        "country": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.082,
+              37.965
+            ],
+            [
+              46.365,
+              37.882
+            ],
+            [
+              46.482,
+              38.132
+            ],
+            [
+              46.2,
+              38.215
+            ],
+            [
+              46.082,
+              37.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tabriz, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tabriz-iran-19670205-dzb00403600041h010001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699e5a97f202ff33a0a89e05_tabriz-iran-1967-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00403600041H010001",
+        "dataset": "DECLASSII",
+        "slug": "tabriz-iran-19670205-dzb00403600041h010001",
+        "date": "1967-02-05",
+        "country": "IR"
+      }
     }
   ]
 }
