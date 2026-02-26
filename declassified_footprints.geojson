@@ -38162,6 +38162,46 @@
         "date": "1966-03-22",
         "country": "YE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.865,
+              32.915
+            ],
+            [
+              6.2,
+              32.865
+            ],
+            [
+              6.3,
+              33.282
+            ],
+            [
+              5.965,
+              33.35
+            ],
+            [
+              5.865,
+              32.915
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Touggourt, Algeria",
+        "url": "https://spacefromspace.com/declassified-satellite-images/touggourt-algeria-19651003-dzb00402200043h024001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/699f82225c00628eaf7c2c66_touggourt-algeria-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00402200043H024001",
+        "dataset": "DECLASSII",
+        "slug": "touggourt-algeria-19651003-dzb00402200043h024001",
+        "date": "1965-10-03",
+        "country": "DZ"
+      }
     }
   ]
 }
