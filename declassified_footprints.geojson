@@ -38202,6 +38202,46 @@
         "date": "1965-10-03",
         "country": "DZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.748,
+              13.607
+            ],
+            [
+              45.621,
+              13.323
+            ],
+            [
+              45.612,
+              13.535
+            ],
+            [
+              43.776,
+              13.756
+            ],
+            [
+              43.748,
+              13.607
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Al Habilayn, Yemen",
+        "url": "https://spacefromspace.com/declassified-satellite-images/al-habilayn-yemen-19741101-d3c1209-100027f013",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/69a0cf1d785d7d3408b8bbec_al-habilayn-yemen-1974-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1209-100027F013",
+        "dataset": "DECLASSIII",
+        "slug": "al-habilayn-yemen-19741101-d3c1209-100027f013",
+        "date": "1974-11-01",
+        "country": "YE"
+      }
     }
   ]
 }
