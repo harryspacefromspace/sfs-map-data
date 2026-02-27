@@ -38242,6 +38242,46 @@
         "date": "1974-11-01",
         "country": "YE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.958,
+              54.641
+            ],
+            [
+              24.274,
+              54.615
+            ],
+            [
+              24.349,
+              55
+            ],
+            [
+              24.032,
+              55.015
+            ],
+            [
+              23.958,
+              54.641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kaunas, Lithuania",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kaunas-lithuania-19660821-dzb00403100074h009002",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/69a1306e61e6210fe2f811ce_kaunas-lithuania-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00403100074H009002",
+        "dataset": "DECLASSII",
+        "slug": "kaunas-lithuania-19660821-dzb00403100074h009002",
+        "date": "1966-08-21",
+        "country": "LT"
+      }
     }
   ]
 }
