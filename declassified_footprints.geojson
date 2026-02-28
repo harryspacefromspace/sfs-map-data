@@ -38322,6 +38322,46 @@
         "date": "1979-09-02",
         "country": "SA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6,
+              46.3
+            ],
+            [
+              72.85,
+              46.215
+            ],
+            [
+              73.065,
+              46.55
+            ],
+            [
+              72.815,
+              46.615
+            ],
+            [
+              72.6,
+              46.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sary Shagan, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sary-shagan-kazakhstan-19670612-dzb00403800120h004001",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/69a23e781d7acfae72566146_sary-shagan-kazakhstan-1967-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00403800120H004001",
+        "dataset": "DECLASSII",
+        "slug": "sary-shagan-kazakhstan-19670612-dzb00403800120h004001",
+        "date": "1967-06-12",
+        "country": "KZ"
+      }
     }
   ]
 }
