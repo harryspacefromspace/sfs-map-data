@@ -38282,6 +38282,46 @@
         "date": "1966-08-21",
         "country": "LT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.916,
+              25.4
+            ],
+            [
+              50.219,
+              25.196
+            ],
+            [
+              50.21,
+              25.431
+            ],
+            [
+              48.933,
+              25.567
+            ],
+            [
+              48.916,
+              25.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Al Hofuf, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/al-hofuf-saudi-arabia-19790902-d3c1215-401358f006",
+        "thumbnail": "https://cdn.prod.website-files.com/64bde7f9e4373e7e7304a677/69a22f5cf285da95f5a81396_al-hofuf-saudi-arabia-1979-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1215-401358F006",
+        "dataset": "DECLASSIII",
+        "slug": "al-hofuf-saudi-arabia-19790902-d3c1215-401358f006",
+        "date": "1979-09-02",
+        "country": "SA"
+      }
     }
   ]
 }
