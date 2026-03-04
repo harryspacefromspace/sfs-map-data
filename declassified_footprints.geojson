@@ -46218,6 +46218,46 @@
         "date": "1960-08-18",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              66.257,
+              24.877
+            ],
+            [
+              67.172,
+              24.786
+            ],
+            [
+              67.201,
+              24.95
+            ],
+            [
+              66.268,
+              25.043
+            ],
+            [
+              66.257,
+              24.877
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Karachi, Pakistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/karachi-pakistan/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/karachi-pakistan-1978-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1214-200573A022",
+        "dataset": "DECLASSIII",
+        "slug": "karachi-pakistan",
+        "date": "1978-05-20",
+        "country": "PK"
+      }
     }
   ]
 }
