@@ -46258,6 +46258,46 @@
         "date": "1978-05-20",
         "country": "PK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              161.799,
+              11.541
+            ],
+            [
+              162.667,
+              11.432
+            ],
+            [
+              162.68,
+              11.599
+            ],
+            [
+              161.829,
+              11.707
+            ],
+            [
+              161.799,
+              11.541
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": " Enewetak Atoll, Marshall Islands",
+        "url": "https://spacefromspace.com/declassified-satellite-images/enewetak-atoll-marshall-islands/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/enewetak-atoll-runit-island-1984-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1218-401571F005",
+        "dataset": "DECLASSIII",
+        "slug": "enewetak-atoll-marshall-islands",
+        "date": "1984-02-05",
+        "country": "MH"
+      }
     }
   ]
 }
