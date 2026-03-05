@@ -46426,6 +46426,46 @@
         "date": "1967-02-08",
         "country": "EE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.168,
+              58.438
+            ],
+            [
+              27.358,
+              58.192
+            ],
+            [
+              28.438,
+              60.475
+            ],
+            [
+              26.109,
+              60.742
+            ],
+            [
+              25.168,
+              58.438
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Northeast Estonia & the Gulf of Finland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/northeast-estonia-the-gulf-of-finland/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/estonia-finland-gulf-1980-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
+        "entity_id": "DZB1216-500222L013001",
+        "dataset": "DECLASSII",
+        "slug": "northeast-estonia-the-gulf-of-finland",
+        "date": "1980-07-28",
+        "country": "EE"
+      }
     }
   ]
 }
