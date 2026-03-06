@@ -46466,6 +46466,46 @@
         "date": "1980-07-28",
         "country": "EE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.05,
+              33.832
+            ],
+            [
+              -6.9,
+              33.75
+            ],
+            [
+              -6.565,
+              34.132
+            ],
+            [
+              -6.715,
+              34.232
+            ],
+            [
+              -7.05,
+              33.832
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Rabat, Morocco",
+        "url": "https://spacefromspace.com/declassified-satellite-images/rabat-morocco/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/rabat-morocco-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402700011H022001",
+        "dataset": "DECLASSII",
+        "slug": "rabat-morocco",
+        "date": "1966-04-20",
+        "country": "MA"
+      }
     }
   ]
 }
