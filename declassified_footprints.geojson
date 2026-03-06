@@ -46506,6 +46506,46 @@
         "date": "1966-04-20",
         "country": "MA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              167.071,
+              -47.385
+            ],
+            [
+              174.04,
+              -47.158
+            ],
+            [
+              173.34,
+              -41.308
+            ],
+            [
+              167.032,
+              -41.513
+            ],
+            [
+              167.071,
+              -47.385
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "South Island, New Zealand",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds09059a066mc065/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/new-zealand-south-island-1963-declassified-spy-satellite-kh5-argon.jpg",
+        "entity_id": "DS09059A066MC065",
+        "dataset": "corona2",
+        "slug": "ds09059a066mc065",
+        "date": "1963-10-29",
+        "country": "NZ"
+      }
     }
   ]
 }
