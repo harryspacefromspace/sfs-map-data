@@ -8808,46 +8808,6 @@
         "coordinates": [
           [
             [
-              -92.09,
-              35.6
-            ],
-            [
-              -91.85,
-              35.57
-            ],
-            [
-              -91.71,
-              36.24
-            ],
-            [
-              -91.94,
-              36.27
-            ],
-            [
-              -92.09,
-              35.6
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Northern Arkansas, USA",
-        "url": "https://spacefromspace.com/declassified-satellite-images/northern-arkansas/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/northern-arkansas__thumb__67fb2d29462765a4de6a728c_north-arkansas-1963-declassified-spy-satellite--Thumb-.jpg",
-        "entity_id": "DZB00400200031H010002",
-        "dataset": "DECLASSII",
-        "slug": "northern-arkansas",
-        "date": "1963-09-08",
-        "country": "US"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               -139.05,
               -22.2
             ],
@@ -9848,6 +9808,46 @@
         "coordinates": [
           [
             [
+              25.168,
+              58.438
+            ],
+            [
+              27.358,
+              58.192
+            ],
+            [
+              28.438,
+              60.475
+            ],
+            [
+              26.109,
+              60.742
+            ],
+            [
+              25.168,
+              58.438
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Northeast Estonia & the Gulf of Finland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/northeast-estonia-the-gulf-of-finland/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/estonia-finland-gulf-1980-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
+        "entity_id": "DZB1216-500222L013001",
+        "dataset": "DECLASSII",
+        "slug": "northeast-estonia-the-gulf-of-finland",
+        "date": "1980-07-28",
+        "country": "EE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               14.015,
               52.5
             ],
@@ -10648,6 +10648,46 @@
         "coordinates": [
           [
             [
+              -92.09,
+              35.6
+            ],
+            [
+              -91.85,
+              35.57
+            ],
+            [
+              -91.71,
+              36.24
+            ],
+            [
+              -91.94,
+              36.27
+            ],
+            [
+              -92.09,
+              35.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Northern Arkansas, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/northern-arkansas/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/northern-arkansas__thumb__67fb2d29462765a4de6a728c_north-arkansas-1963-declassified-spy-satellite--Thumb-.jpg",
+        "entity_id": "DZB00400200031H010002",
+        "dataset": "DECLASSII",
+        "slug": "northern-arkansas",
+        "date": "1963-09-08",
+        "country": "US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -76,
               19.87
             ],
@@ -11208,46 +11248,6 @@
         "coordinates": [
           [
             [
-              74.35,
-              46.432
-            ],
-            [
-              74.632,
-              46.4
-            ],
-            [
-              74.732,
-              46.8
-            ],
-            [
-              74.45,
-              46.832
-            ],
-            [
-              74.35,
-              46.432
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Sary Shagan/Balkhash-9 Radar Station",
-        "url": "https://spacefromspace.com/declassified-satellite-images/sary-shagan-balkhash-9-radar-station-19650530-2/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/sary-shagan-balkhash-9-radar-station-19650530-2__thumb__67fb30404b3d53bc6b93d3e6_sary-shagan-balkhash-1965-declassified-spy-satellite-kh7-gambit--Thumb-.jpeg",
-        "entity_id": "DZB00401800040H009001",
-        "dataset": "DECLASSII",
-        "slug": "sary-shagan-balkhash-9-radar-station-19650530-2",
-        "date": "1965-05-30",
-        "country": "KZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               123.482,
               47.05
             ],
@@ -11519,6 +11519,46 @@
         "slug": "san-diego",
         "date": "1966-12-07",
         "country": "US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.05,
+              33.832
+            ],
+            [
+              -6.9,
+              33.75
+            ],
+            [
+              -6.565,
+              34.132
+            ],
+            [
+              -6.715,
+              34.232
+            ],
+            [
+              -7.05,
+              33.832
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Rabat, Morocco",
+        "url": "https://spacefromspace.com/declassified-satellite-images/rabat-morocco/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/rabat-morocco-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402700011H022001",
+        "dataset": "DECLASSII",
+        "slug": "rabat-morocco",
+        "date": "1966-04-20",
+        "country": "MA"
       }
     },
     {
@@ -11816,46 +11856,6 @@
         "coordinates": [
           [
             [
-              72.515,
-              31.965
-            ],
-            [
-              72.682,
-              31.9
-            ],
-            [
-              72.865,
-              32.215
-            ],
-            [
-              72.7,
-              32.282
-            ],
-            [
-              72.515,
-              31.965
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Sargodha, Pakistan",
-        "url": "https://spacefromspace.com/declassified-satellite-images/sargodha-pakistan/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/sargodha-pakistan__thumb__67fb2fe314dc5b7fe321bc99_sargodha-pakistan-1966-declassified-spy-satellite--Thumb-.jpg",
-        "entity_id": "DZB00402800056H010001",
-        "dataset": "DECLASSII",
-        "slug": "sargodha-pakistan",
-        "date": "1966-05-18",
-        "country": "PK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               30.3,
               59.49
             ],
@@ -12087,86 +12087,6 @@
         "slug": "pyongyang-north-korea-19650316-dzb00401600054h007001",
         "date": "1965-03-16",
         "country": "KP"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              32.315,
-              29.615
-            ],
-            [
-              32.55,
-              29.6
-            ],
-            [
-              32.6,
-              30.05
-            ],
-            [
-              32.35,
-              30.065
-            ],
-            [
-              32.315,
-              29.615
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Suez, Egypt",
-        "url": "https://spacefromspace.com/declassified-satellite-images/suez-egypt-19670529-dzb00403700106h015001/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/suez-egypt-19670529-dzb00403700106h015001__thumb__6940cbb7b8984cd27953bf4a_suez-egypt-1967-declassified-spy-satellite-kh7-gambit-thumb.jpg",
-        "entity_id": "DZB00403700106H015001",
-        "dataset": "DECLASSII",
-        "slug": "suez-egypt-19670529-dzb00403700106h015001",
-        "date": "1967-05-29",
-        "country": "EG"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              155.832,
-              50.515
-            ],
-            [
-              156.182,
-              50.482
-            ],
-            [
-              156.315,
-              50.982
-            ],
-            [
-              155.965,
-              51.015
-            ],
-            [
-              155.832,
-              50.515
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Severo-Kurilsk, Russia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/severo-kurilsk-russia-19640816-dzb00401000020h010001/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/severo-kurilsk-russia-19640816-dzb00401000020h010001__thumb__6853b5232dd0df094162f0cc_severo-kurilsk--russia-1964-declassified-spy-satellite-kh7-gambit-thumb.jpg",
-        "entity_id": "DZB00401000020H010001",
-        "dataset": "DECLASSII",
-        "slug": "severo-kurilsk-russia-19640816-dzb00401000020h010001",
-        "date": "1964-08-16",
-        "country": "RU"
       }
     },
     {
@@ -12616,46 +12536,6 @@
         "coordinates": [
           [
             [
-              105.615,
-              19.632
-            ],
-            [
-              105.782,
-              19.532
-            ],
-            [
-              106.05,
-              19.932
-            ],
-            [
-              105.882,
-              20.032
-            ],
-            [
-              105.615,
-              19.632
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Thanh Hóa, Vietnam",
-        "url": "https://spacefromspace.com/declassified-satellite-images/thanh-hoa-vietnam-19660423-dzb00402700054h023001/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/thanh-hoa-vietnam-19660423-dzb00402700054h023001__thumb__680b01b1d5795caffa047663_thanh-hoa-vietnam-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
-        "entity_id": "DZB00402700054H023001",
-        "dataset": "DECLASSII",
-        "slug": "thanh-hoa-vietnam-19660423-dzb00402700054h023001",
-        "date": "1966-04-23",
-        "country": "VN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               13.708,
               51.375
             ],
@@ -12806,46 +12686,6 @@
         "dataset": "DECLASSII",
         "slug": "taiyuan-china-19640313-dzb00400600022h012001",
         "date": "1964-03-13",
-        "country": "CN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              117.05,
-              38.765
-            ],
-            [
-              117.365,
-              38.682
-            ],
-            [
-              117.582,
-              39.215
-            ],
-            [
-              117.282,
-              39.3
-            ],
-            [
-              117.05,
-              38.765
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Tianjin, China",
-        "url": "https://spacefromspace.com/declassified-satellite-images/tianjin-china-19650126-dzb00401500038h010002/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/tianjin-china-19650126-dzb00401500038h010002__thumb__6896f77acd9e802e5386f4a9_tianjin-china-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
-        "entity_id": "DZB00401500038H010002",
-        "dataset": "DECLASSII",
-        "slug": "tianjin-china-19650126-dzb00401500038h010002",
-        "date": "1965-01-26",
         "country": "CN"
       }
     },
@@ -13136,6 +12976,46 @@
         "coordinates": [
           [
             [
+              24.582,
+              59.332
+            ],
+            [
+              24.832,
+              59.265
+            ],
+            [
+              25.132,
+              59.565
+            ],
+            [
+              24.882,
+              59.632
+            ],
+            [
+              24.582,
+              59.332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tallinn, Estonia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tallinn-estonia-1/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tallinn-estonia-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403600091H007001",
+        "dataset": "DECLASSII",
+        "slug": "tallinn-estonia-1",
+        "date": "1967-02-08",
+        "country": "EE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               77.582,
               50.215
             ],
@@ -13406,6 +13286,46 @@
         "dataset": "DECLASSII",
         "slug": "sary-shagan-kazakhstan-19660421-12",
         "date": "1966-04-21",
+        "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.35,
+              46.432
+            ],
+            [
+              74.632,
+              46.4
+            ],
+            [
+              74.732,
+              46.8
+            ],
+            [
+              74.45,
+              46.832
+            ],
+            [
+              74.35,
+              46.432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sary Shagan/Balkhash-9 Radar Station",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sary-shagan-balkhash-9-radar-station-19650530-2/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sary-shagan-balkhash-9-radar-station-19650530-2__thumb__67fb30404b3d53bc6b93d3e6_sary-shagan-balkhash-1965-declassified-spy-satellite-kh7-gambit--Thumb-.jpeg",
+        "entity_id": "DZB00401800040H009001",
+        "dataset": "DECLASSII",
+        "slug": "sary-shagan-balkhash-9-radar-station-19650530-2",
+        "date": "1965-05-30",
         "country": "KZ"
       }
     },
@@ -13687,46 +13607,6 @@
         "slug": "sary-shagan-tracking-site-6-kazakhstan",
         "date": "1966-09-20",
         "country": "KZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              21.082,
-              45.75
-            ],
-            [
-              21.332,
-              45.682
-            ],
-            [
-              21.565,
-              46.15
-            ],
-            [
-              21.3,
-              46.2
-            ],
-            [
-              21.082,
-              45.75
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Timișoara, Romania",
-        "url": "https://spacefromspace.com/declassified-satellite-images/timisoara-romania-19640520-dzb00400800010h024001/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/timisoara-romania-19640520-dzb00400800010h024001__thumb__6851513a25fa803500798044_timisoara-romania-1964-declassified-spy-satellite-kh7-gambit-thumb.jpg",
-        "entity_id": "DZB00400800010H024001",
-        "dataset": "DECLASSII",
-        "slug": "timisoara-romania-19640520-dzb00400800010h024001",
-        "date": "1964-05-20",
-        "country": "RO"
       }
     },
     {
@@ -14096,6 +13976,126 @@
         "coordinates": [
           [
             [
+              72.515,
+              31.965
+            ],
+            [
+              72.682,
+              31.9
+            ],
+            [
+              72.865,
+              32.215
+            ],
+            [
+              72.7,
+              32.282
+            ],
+            [
+              72.515,
+              31.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sargodha, Pakistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sargodha-pakistan/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sargodha-pakistan__thumb__67fb2fe314dc5b7fe321bc99_sargodha-pakistan-1966-declassified-spy-satellite--Thumb-.jpg",
+        "entity_id": "DZB00402800056H010001",
+        "dataset": "DECLASSII",
+        "slug": "sargodha-pakistan",
+        "date": "1966-05-18",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.315,
+              29.615
+            ],
+            [
+              32.55,
+              29.6
+            ],
+            [
+              32.6,
+              30.05
+            ],
+            [
+              32.35,
+              30.065
+            ],
+            [
+              32.315,
+              29.615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Suez, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/suez-egypt-19670529-dzb00403700106h015001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/suez-egypt-19670529-dzb00403700106h015001__thumb__6940cbb7b8984cd27953bf4a_suez-egypt-1967-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00403700106H015001",
+        "dataset": "DECLASSII",
+        "slug": "suez-egypt-19670529-dzb00403700106h015001",
+        "date": "1967-05-29",
+        "country": "EG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              155.832,
+              50.515
+            ],
+            [
+              156.182,
+              50.482
+            ],
+            [
+              156.315,
+              50.982
+            ],
+            [
+              155.965,
+              51.015
+            ],
+            [
+              155.832,
+              50.515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Severo-Kurilsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/severo-kurilsk-russia-19640816-dzb00401000020h010001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/severo-kurilsk-russia-19640816-dzb00401000020h010001__thumb__6853b5232dd0df094162f0cc_severo-kurilsk--russia-1964-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00401000020H010001",
+        "dataset": "DECLASSII",
+        "slug": "severo-kurilsk-russia-19640816-dzb00401000020h010001",
+        "date": "1964-08-16",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               105.891,
               -7.448
             ],
@@ -14376,6 +14376,46 @@
         "coordinates": [
           [
             [
+              21.082,
+              45.75
+            ],
+            [
+              21.332,
+              45.682
+            ],
+            [
+              21.565,
+              46.15
+            ],
+            [
+              21.3,
+              46.2
+            ],
+            [
+              21.082,
+              45.75
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Timișoara, Romania",
+        "url": "https://spacefromspace.com/declassified-satellite-images/timisoara-romania-19640520-dzb00400800010h024001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/timisoara-romania-19640520-dzb00400800010h024001__thumb__6851513a25fa803500798044_timisoara-romania-1964-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00400800010H024001",
+        "dataset": "DECLASSII",
+        "slug": "timisoara-romania-19640520-dzb00400800010h024001",
+        "date": "1964-05-20",
+        "country": "RO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               139.65,
               35.465
             ],
@@ -14407,46 +14447,6 @@
         "slug": "tokyo-japan-19640926-dzb00401100037h010001",
         "date": "1964-09-26",
         "country": "JP"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              123.1,
-              66.965
-            ],
-            [
-              123.2,
-              66.565
-            ],
-            [
-              123.632,
-              66.582
-            ],
-            [
-              123.55,
-              66.982
-            ],
-            [
-              123.1,
-              66.965
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Zhigansk, Russia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/zhigansk-russia/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/zhigansk-russia__thumb__67fb3512ee648dcac76865ef_zhigansk-russia-declassified-satellite-1966--Thumb-.jpg",
-        "entity_id": "DZB00402900086H002001",
-        "dataset": "DECLASSII",
-        "slug": "zhigansk-russia",
-        "date": "1966-06-09",
-        "country": "RU"
       }
     },
     {
@@ -15416,6 +15416,46 @@
         "coordinates": [
           [
             [
+              105.615,
+              19.632
+            ],
+            [
+              105.782,
+              19.532
+            ],
+            [
+              106.05,
+              19.932
+            ],
+            [
+              105.882,
+              20.032
+            ],
+            [
+              105.615,
+              19.632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Thanh Hóa, Vietnam",
+        "url": "https://spacefromspace.com/declassified-satellite-images/thanh-hoa-vietnam-19660423-dzb00402700054h023001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/thanh-hoa-vietnam-19660423-dzb00402700054h023001__thumb__680b01b1d5795caffa047663_thanh-hoa-vietnam-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00402700054H023001",
+        "dataset": "DECLASSII",
+        "slug": "thanh-hoa-vietnam-19660423-dzb00402700054h023001",
+        "date": "1966-04-23",
+        "country": "VN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -83.732,
               41.482
             ],
@@ -15565,6 +15605,46 @@
         "entity_id": "DZB00401500039H005001",
         "dataset": "DECLASSII",
         "slug": "yumen-city-china-19650126-dzb00401500039h005001",
+        "date": "1965-01-26",
+        "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.05,
+              38.765
+            ],
+            [
+              117.365,
+              38.682
+            ],
+            [
+              117.582,
+              39.215
+            ],
+            [
+              117.282,
+              39.3
+            ],
+            [
+              117.05,
+              38.765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tianjin, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tianjin-china-19650126-dzb00401500038h010002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tianjin-china-19650126-dzb00401500038h010002__thumb__6896f77acd9e802e5386f4a9_tianjin-china-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00401500038H010002",
+        "dataset": "DECLASSII",
+        "slug": "tianjin-china-19650126-dzb00401500038h010002",
         "date": "1965-01-26",
         "country": "CN"
       }
@@ -16007,6 +16087,46 @@
         "slug": "wenzhou-china-19650503-dzb00401700070h021001",
         "date": "1965-05-03",
         "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.1,
+              66.965
+            ],
+            [
+              123.2,
+              66.565
+            ],
+            [
+              123.632,
+              66.582
+            ],
+            [
+              123.55,
+              66.982
+            ],
+            [
+              123.1,
+              66.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Zhigansk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/zhigansk-russia/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/zhigansk-russia__thumb__67fb3512ee648dcac76865ef_zhigansk-russia-declassified-satellite-1966--Thumb-.jpg",
+        "entity_id": "DZB00402900086H002001",
+        "dataset": "DECLASSII",
+        "slug": "zhigansk-russia",
+        "date": "1966-06-09",
+        "country": "RU"
       }
     },
     {
@@ -36386,46 +36506,6 @@
         "coordinates": [
           [
             [
-              25.208,
-              38.409
-            ],
-            [
-              28.882,
-              38.159
-            ],
-            [
-              28.958,
-              38.365
-            ],
-            [
-              25.176,
-              38.624
-            ],
-            [
-              25.208,
-              38.409
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "İzmir, Turkey",
-        "url": "https://spacefromspace.com/declassified-satellite-images/izmir-turkey/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/izmir-turkey__thumb__67fb122c92acf6bde6194853_izmir-turkey-1974-historic-declassified-spy-satellite-kh9-hexagon--Thumb-.jpg",
-        "entity_id": "D3C1208-400629A066",
-        "dataset": "DECLASSIII",
-        "slug": "izmir-turkey",
-        "date": "1974-06-23",
-        "country": "TR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               45.118,
               31.579
             ],
@@ -37097,6 +37177,46 @@
         "slug": "dakar-senegal-19810223-fwd",
         "date": "1981-02-23",
         "country": "SN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              161.799,
+              11.541
+            ],
+            [
+              162.667,
+              11.432
+            ],
+            [
+              162.68,
+              11.599
+            ],
+            [
+              161.829,
+              11.707
+            ],
+            [
+              161.799,
+              11.541
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": " Enewetak Atoll, Marshall Islands",
+        "url": "https://spacefromspace.com/declassified-satellite-images/enewetak-atoll-marshall-islands/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/enewetak-atoll-runit-island-1984-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1218-401571F005",
+        "dataset": "DECLASSIII",
+        "slug": "enewetak-atoll-marshall-islands",
+        "date": "1984-02-05",
+        "country": "MH"
       }
     },
     {
@@ -37906,6 +38026,46 @@
         "coordinates": [
           [
             [
+              25.208,
+              38.409
+            ],
+            [
+              28.882,
+              38.159
+            ],
+            [
+              28.958,
+              38.365
+            ],
+            [
+              25.176,
+              38.624
+            ],
+            [
+              25.208,
+              38.409
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "İzmir, Turkey",
+        "url": "https://spacefromspace.com/declassified-satellite-images/izmir-turkey/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/izmir-turkey__thumb__67fb122c92acf6bde6194853_izmir-turkey-1974-historic-declassified-spy-satellite-kh9-hexagon--Thumb-.jpg",
+        "entity_id": "D3C1208-400629A066",
+        "dataset": "DECLASSIII",
+        "slug": "izmir-turkey",
+        "date": "1974-06-23",
+        "country": "TR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -93.805,
               44.948
             ],
@@ -38106,46 +38266,6 @@
         "coordinates": [
           [
             [
-              38.754,
-              64.596
-            ],
-            [
-              40.834,
-              64.344
-            ],
-            [
-              40.999,
-              64.523
-            ],
-            [
-              38.848,
-              64.756
-            ],
-            [
-              38.754,
-              64.596
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Severodvinsk, Russia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/nyonoksa-severodvinsk-russia/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/nyonoksa-severodvinsk-russia__thumb__67fb2d40a7124abc19521fb9_nyonoksa-severodvinsk-russia-typhoon-submarine-declassified-kh9-satellite-19821010--Thumb-.jpg",
-        "entity_id": "D3C1217-401613A003",
-        "dataset": "DECLASSIII",
-        "slug": "nyonoksa-severodvinsk-russia",
-        "date": "1982-10-10",
-        "country": "RU"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               -74.553,
               45.354
             ],
@@ -38297,46 +38417,6 @@
         "slug": "kazan-russia-19730420-d3c1205-400449f011",
         "date": "1973-04-20",
         "country": "RU"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              29.052,
-              46.578
-            ],
-            [
-              33.576,
-              46.098
-            ],
-            [
-              33.694,
-              46.317
-            ],
-            [
-              29.032,
-              46.813
-            ],
-            [
-              29.052,
-              46.578
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Odesa, Ukraine",
-        "url": "https://spacefromspace.com/declassified-satellite-images/odesa-ukraine/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/odesa-ukraine__thumb__67fb2d5957845eeb8bf6b092_odesa-ukraine-declassified-spy-satellite-1980--Thumb-.jpg",
-        "entity_id": "D3C1216-100240A023",
-        "dataset": "DECLASSIII",
-        "slug": "odesa-ukraine",
-        "date": "1980-07-17",
-        "country": "UA"
       }
     },
     {
@@ -39146,37 +39226,37 @@
         "coordinates": [
           [
             [
-              45.272,
-              24.742
+              66.257,
+              24.877
             ],
             [
-              47.607,
-              24.511
+              67.172,
+              24.786
             ],
             [
-              47.66,
-              24.727
+              67.201,
+              24.95
             ],
             [
-              45.27,
-              24.965
+              66.268,
+              25.043
             ],
             [
-              45.272,
-              24.742
+              66.257,
+              24.877
             ]
           ]
         ]
       },
       "properties": {
-        "title": "Riyadh, Saudi Arabia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/riyadh-saudi-arabia-19840717-d3c1219-100126a038/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/riyadh-saudi-arabia-19840717-d3c1219-100126a038__thumb__693f55d47e29955b1bccbd92_riyadh-saudi-arabia-1984-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
-        "entity_id": "D3C1219-100126A038",
+        "title": "Karachi, Pakistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/karachi-pakistan/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/karachi-pakistan-1978-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1214-200573A022",
         "dataset": "DECLASSIII",
-        "slug": "riyadh-saudi-arabia-19840717-d3c1219-100126a038",
-        "date": "1984-07-17",
-        "country": "SA"
+        "slug": "karachi-pakistan",
+        "date": "1978-05-20",
+        "country": "PK"
       }
     },
     {
@@ -39457,46 +39537,6 @@
         "slug": "san-jose-california-color-1979",
         "date": "1979-04-28",
         "country": "US"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              50.605,
-              35.742
-            ],
-            [
-              52.031,
-              35.517
-            ],
-            [
-              52.028,
-              35.749
-            ],
-            [
-              50.627,
-              35.906
-            ],
-            [
-              50.605,
-              35.742
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Tehran, Iran",
-        "url": "https://spacefromspace.com/declassified-satellite-images/tehran-iran-2/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/tehran-iran-2__thumb__67fb329b938248178220ec51_tehran-iran-1978-declassified-spy-satellite-kh9-hexagon--Thumb-.jpeg",
-        "entity_id": "D3C1214-300752F006",
-        "dataset": "DECLASSIII",
-        "slug": "tehran-iran-2",
-        "date": "1978-06-24",
-        "country": "IR"
       }
     },
     {
@@ -39817,46 +39857,6 @@
         "slug": "satish-dhawan-space-center-india-1978",
         "date": "1978-03-17",
         "country": "IN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              49.824,
-              35.824
-            ],
-            [
-              52.292,
-              35.464
-            ],
-            [
-              52.289,
-              35.698
-            ],
-            [
-              49.864,
-              35.988
-            ],
-            [
-              49.824,
-              35.824
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Tehran, Iran",
-        "url": "https://spacefromspace.com/declassified-satellite-images/tehran-iran-3/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/tehran-iran-3__thumb__67fb3f3d4b3d53bc6b995e87_tehran-iran-1980-declassified-spy-satellite-kh9-hexagon--Thumb-.jpeg",
-        "entity_id": "D3C1216-100156F008",
-        "dataset": "DECLASSIII",
-        "slug": "tehran-iran-3",
-        "date": "1980-07-04",
-        "country": "IR"
       }
     },
     {
@@ -40626,6 +40626,46 @@
         "coordinates": [
           [
             [
+              38.754,
+              64.596
+            ],
+            [
+              40.834,
+              64.344
+            ],
+            [
+              40.999,
+              64.523
+            ],
+            [
+              38.848,
+              64.756
+            ],
+            [
+              38.754,
+              64.596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Severodvinsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/nyonoksa-severodvinsk-russia/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/nyonoksa-severodvinsk-russia__thumb__67fb2d40a7124abc19521fb9_nyonoksa-severodvinsk-russia-typhoon-submarine-declassified-kh9-satellite-19821010--Thumb-.jpg",
+        "entity_id": "D3C1217-401613A003",
+        "dataset": "DECLASSIII",
+        "slug": "nyonoksa-severodvinsk-russia",
+        "date": "1982-10-10",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               39.418,
               63.007
             ],
@@ -40737,6 +40777,46 @@
         "slug": "plesetsk-cosmodrome-russia",
         "date": "1972-01-27",
         "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.052,
+              46.578
+            ],
+            [
+              33.576,
+              46.098
+            ],
+            [
+              33.694,
+              46.317
+            ],
+            [
+              29.032,
+              46.813
+            ],
+            [
+              29.052,
+              46.578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Odesa, Ukraine",
+        "url": "https://spacefromspace.com/declassified-satellite-images/odesa-ukraine/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/odesa-ukraine__thumb__67fb2d5957845eeb8bf6b092_odesa-ukraine-declassified-spy-satellite-1980--Thumb-.jpg",
+        "entity_id": "D3C1216-100240A023",
+        "dataset": "DECLASSIII",
+        "slug": "odesa-ukraine",
+        "date": "1980-07-17",
+        "country": "UA"
       }
     },
     {
@@ -41146,6 +41226,46 @@
         "coordinates": [
           [
             [
+              45.272,
+              24.742
+            ],
+            [
+              47.607,
+              24.511
+            ],
+            [
+              47.66,
+              24.727
+            ],
+            [
+              45.27,
+              24.965
+            ],
+            [
+              45.272,
+              24.742
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Riyadh, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/riyadh-saudi-arabia-19840717-d3c1219-100126a038/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/riyadh-saudi-arabia-19840717-d3c1219-100126a038__thumb__693f55d47e29955b1bccbd92_riyadh-saudi-arabia-1984-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1219-100126A038",
+        "dataset": "DECLASSIII",
+        "slug": "riyadh-saudi-arabia-19840717-d3c1219-100126a038",
+        "date": "1984-07-17",
+        "country": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -77.565,
               37.87
             ],
@@ -41337,6 +41457,46 @@
         "slug": "vietnam-cambodia-laos-19721104-d3c1204-200292f081",
         "date": "1972-11-04",
         "country": "LA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.605,
+              35.742
+            ],
+            [
+              52.031,
+              35.517
+            ],
+            [
+              52.028,
+              35.749
+            ],
+            [
+              50.627,
+              35.906
+            ],
+            [
+              50.605,
+              35.742
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tehran, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tehran-iran-2/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tehran-iran-2__thumb__67fb329b938248178220ec51_tehran-iran-1978-declassified-spy-satellite-kh9-hexagon--Thumb-.jpeg",
+        "entity_id": "D3C1214-300752F006",
+        "dataset": "DECLASSIII",
+        "slug": "tehran-iran-2",
+        "date": "1978-06-24",
+        "country": "IR"
       }
     },
     {
@@ -41697,6 +41857,46 @@
         "slug": "wallops-spaceport-virginia",
         "date": "1972-01-29",
         "country": "US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.824,
+              35.824
+            ],
+            [
+              52.292,
+              35.464
+            ],
+            [
+              52.289,
+              35.698
+            ],
+            [
+              49.864,
+              35.988
+            ],
+            [
+              49.824,
+              35.824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tehran, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tehran-iran-3/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tehran-iran-3__thumb__67fb3f3d4b3d53bc6b995e87_tehran-iran-1980-declassified-spy-satellite-kh9-hexagon--Thumb-.jpeg",
+        "entity_id": "D3C1216-100156F008",
+        "dataset": "DECLASSIII",
+        "slug": "tehran-iran-3",
+        "date": "1980-07-04",
+        "country": "IR"
       }
     },
     {
@@ -42466,6 +42666,46 @@
         "coordinates": [
           [
             [
+              167.071,
+              -47.385
+            ],
+            [
+              174.04,
+              -47.158
+            ],
+            [
+              173.34,
+              -41.308
+            ],
+            [
+              167.032,
+              -41.513
+            ],
+            [
+              167.071,
+              -47.385
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "South Island, New Zealand",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds09059a066mc065/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/new-zealand-south-island-1963-declassified-spy-satellite-kh5-argon.jpg",
+        "entity_id": "DS09059A066MC065",
+        "dataset": "corona2",
+        "slug": "ds09059a066mc065",
+        "date": "1963-10-29",
+        "country": "NZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -5.483,
               4.916
             ],
@@ -42617,46 +42857,6 @@
         "slug": "baikonur-cosmodrome-kazakhstan-5",
         "date": "1964-09-22",
         "country": "KZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -79.761,
-              26.29
-            ],
-            [
-              -76.523,
-              31.666
-            ],
-            [
-              -81.69,
-              33.934
-            ],
-            [
-              -84.72,
-              28.439
-            ],
-            [
-              -79.761,
-              26.29
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Florida",
-        "url": "https://spacefromspace.com/declassified-satellite-images/florida-united-states/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/florida-united-states__thumb__67fb259002d24122ba8b1726_florida-united-states-kh5-satellite-19640619--Thumb-.jpg",
-        "entity_id": "DS09065A093MC070",
-        "dataset": "corona2",
-        "slug": "florida-united-states",
-        "date": "1964-06-19",
-        "country": "US"
       }
     },
     {
@@ -42826,46 +43026,6 @@
         "coordinates": [
           [
             [
-              54.892,
-              83.22
-            ],
-            [
-              69.401,
-              78.543
-            ],
-            [
-              71.312,
-              78.78
-            ],
-            [
-              58.393,
-              83.358
-            ],
-            [
-              54.892,
-              83.22
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Franz Josef Land, Arctic",
-        "url": "https://spacefromspace.com/declassified-satellite-images/franz-josef-land-arctic/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/franz-josef-land-arctic__thumb__67fb11750b5d451d70374d81_graham-bell-eva-liv-islands-russian-arctic-1962-declassified-satellite--Thumb-.jpeg",
-        "entity_id": "DS009043003AA028",
-        "dataset": "corona2",
-        "slug": "franz-josef-land-arctic",
-        "date": "1962-09-18",
-        "country": "RU"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               51.933,
               23.833
             ],
@@ -43017,6 +43177,46 @@
         "slug": "baikonur-cosmodrome-18",
         "date": "1965-01-22",
         "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.75,
+              51.616
+            ],
+            [
+              50.033,
+              52.166
+            ],
+            [
+              49.983,
+              52.416
+            ],
+            [
+              44.666,
+              51.866
+            ],
+            [
+              44.75,
+              51.616
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Balakovo, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds009017024dv108/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/balakovo-russia-1961-declassified-spy-satellite-kh3-corona.jpg",
+        "entity_id": "DS009017024DV108",
+        "dataset": "corona2",
+        "slug": "ds009017024dv108",
+        "date": "1961-06-16",
+        "country": "RU"
       }
     },
     {
@@ -44226,46 +44426,6 @@
         "coordinates": [
           [
             [
-              101.65,
-              17.533
-            ],
-            [
-              104.066,
-              17.883
-            ],
-            [
-              104.083,
-              18.033
-            ],
-            [
-              101.6,
-              17.683
-            ],
-            [
-              101.65,
-              17.533
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Udon Thani, Thailand",
-        "url": "https://spacefromspace.com/declassified-satellite-images/udon-thani-thailand-19670116-ds1038-1022da112/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/udon-thani-thailand-19670116-ds1038-1022da112__thumb__6993b1df8d74b23d14587d32_udon-thani-thailand-1967-declassified-spy-satellite-kh4a-corona-thumb.jpg",
-        "entity_id": "DS1038-1022DA112",
-        "dataset": "corona2",
-        "slug": "udon-thani-thailand-19670116-ds1038-1022da112",
-        "date": "1967-01-16",
-        "country": "TH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               52.983,
               51.516
             ],
@@ -44337,46 +44497,6 @@
         "slug": "plesetsk-cosmodrome-3",
         "date": "1967-09-28",
         "country": "RU"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              57.666,
-              44.8
-            ],
-            [
-              60.8,
-              45.3
-            ],
-            [
-              60.716,
-              45.433
-            ],
-            [
-              57.666,
-              44.95
-            ],
-            [
-              57.666,
-              44.8
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Vozrozhdeniya Island",
-        "url": "https://spacefromspace.com/declassified-satellite-images/vozrozhdeniya-island/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/vozrozhdeniya-island__thumb__67fb335c8fc388fc158e47a9_vozrozhdeniya-island-1964-declassified-satellite--Thumb-.jpg",
-        "entity_id": "DS1006-2071DF096",
-        "dataset": "corona2",
-        "slug": "vozrozhdeniya-island",
-        "date": "1964-06-09",
-        "country": "UZ"
       }
     },
     {
@@ -44497,6 +44617,46 @@
         "slug": "saint-petersburg-russia-5",
         "date": "1966-02-05",
         "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.761,
+              26.29
+            ],
+            [
+              -76.523,
+              31.666
+            ],
+            [
+              -81.69,
+              33.934
+            ],
+            [
+              -84.72,
+              28.439
+            ],
+            [
+              -79.761,
+              26.29
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Florida",
+        "url": "https://spacefromspace.com/declassified-satellite-images/florida-united-states/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/florida-united-states__thumb__67fb259002d24122ba8b1726_florida-united-states-kh5-satellite-19640619--Thumb-.jpg",
+        "entity_id": "DS09065A093MC070",
+        "dataset": "corona2",
+        "slug": "florida-united-states",
+        "date": "1964-06-19",
+        "country": "US"
       }
     },
     {
@@ -44885,6 +45045,46 @@
         "slug": "norfolk-virginia-1963",
         "date": "1963-12-26",
         "country": "US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.892,
+              83.22
+            ],
+            [
+              69.401,
+              78.543
+            ],
+            [
+              71.312,
+              78.78
+            ],
+            [
+              58.393,
+              83.358
+            ],
+            [
+              54.892,
+              83.22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Franz Josef Land, Arctic",
+        "url": "https://spacefromspace.com/declassified-satellite-images/franz-josef-land-arctic/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/franz-josef-land-arctic__thumb__67fb11750b5d451d70374d81_graham-bell-eva-liv-islands-russian-arctic-1962-declassified-satellite--Thumb-.jpeg",
+        "entity_id": "DS009043003AA028",
+        "dataset": "corona2",
+        "slug": "franz-josef-land-arctic",
+        "date": "1962-09-18",
+        "country": "RU"
       }
     },
     {
@@ -46194,6 +46394,46 @@
         "coordinates": [
           [
             [
+              101.65,
+              17.533
+            ],
+            [
+              104.066,
+              17.883
+            ],
+            [
+              104.083,
+              18.033
+            ],
+            [
+              101.6,
+              17.683
+            ],
+            [
+              101.65,
+              17.533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Udon Thani, Thailand",
+        "url": "https://spacefromspace.com/declassified-satellite-images/udon-thani-thailand-19670116-ds1038-1022da112/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/udon-thani-thailand-19670116-ds1038-1022da112__thumb__6993b1df8d74b23d14587d32_udon-thani-thailand-1967-declassified-spy-satellite-kh4a-corona-thumb.jpg",
+        "entity_id": "DS1038-1022DA112",
+        "dataset": "corona2",
+        "slug": "udon-thani-thailand-19670116-ds1038-1022da112",
+        "date": "1967-01-16",
+        "country": "TH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -77.906,
               37.355
             ],
@@ -46314,277 +46554,37 @@
         "coordinates": [
           [
             [
-              66.257,
-              24.877
+              57.666,
+              44.8
             ],
             [
-              67.172,
-              24.786
+              60.8,
+              45.3
             ],
             [
-              67.201,
-              24.95
+              60.716,
+              45.433
             ],
             [
-              66.268,
-              25.043
+              57.666,
+              44.95
             ],
             [
-              66.257,
-              24.877
+              57.666,
+              44.8
             ]
           ]
         ]
       },
       "properties": {
-        "title": "Karachi, Pakistan",
-        "url": "https://spacefromspace.com/declassified-satellite-images/karachi-pakistan/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/karachi-pakistan-1978-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
-        "entity_id": "D3C1214-200573A022",
-        "dataset": "DECLASSIII",
-        "slug": "karachi-pakistan",
-        "date": "1978-05-20",
-        "country": "PK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              161.799,
-              11.541
-            ],
-            [
-              162.667,
-              11.432
-            ],
-            [
-              162.68,
-              11.599
-            ],
-            [
-              161.829,
-              11.707
-            ],
-            [
-              161.799,
-              11.541
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": " Enewetak Atoll, Marshall Islands",
-        "url": "https://spacefromspace.com/declassified-satellite-images/enewetak-atoll-marshall-islands/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/enewetak-atoll-runit-island-1984-declassified-spy-satellite-kh9-hexagon.jpg",
-        "entity_id": "D3C1218-401571F005",
-        "dataset": "DECLASSIII",
-        "slug": "enewetak-atoll-marshall-islands",
-        "date": "1984-02-05",
-        "country": "MH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              24.582,
-              59.332
-            ],
-            [
-              24.832,
-              59.265
-            ],
-            [
-              25.132,
-              59.565
-            ],
-            [
-              24.882,
-              59.632
-            ],
-            [
-              24.582,
-              59.332
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Tallinn, Estonia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/tallinn-estonia-1/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/tallinn-estonia-1967-declassified-spy-satellite-kh7-gambit.jpg",
-        "entity_id": "DZB00403600091H007001",
-        "dataset": "DECLASSII",
-        "slug": "tallinn-estonia-1",
-        "date": "1967-02-08",
-        "country": "EE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25.168,
-              58.438
-            ],
-            [
-              27.358,
-              58.192
-            ],
-            [
-              28.438,
-              60.475
-            ],
-            [
-              26.109,
-              60.742
-            ],
-            [
-              25.168,
-              58.438
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Northeast Estonia & the Gulf of Finland",
-        "url": "https://spacefromspace.com/declassified-satellite-images/northeast-estonia-the-gulf-of-finland/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/estonia-finland-gulf-1980-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
-        "entity_id": "DZB1216-500222L013001",
-        "dataset": "DECLASSII",
-        "slug": "northeast-estonia-the-gulf-of-finland",
-        "date": "1980-07-28",
-        "country": "EE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -7.05,
-              33.832
-            ],
-            [
-              -6.9,
-              33.75
-            ],
-            [
-              -6.565,
-              34.132
-            ],
-            [
-              -6.715,
-              34.232
-            ],
-            [
-              -7.05,
-              33.832
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Rabat, Morocco",
-        "url": "https://spacefromspace.com/declassified-satellite-images/rabat-morocco/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/rabat-morocco-1966-declassified-spy-satellite-kh7-gambit.jpg",
-        "entity_id": "DZB00402700011H022001",
-        "dataset": "DECLASSII",
-        "slug": "rabat-morocco",
-        "date": "1966-04-20",
-        "country": "MA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              167.071,
-              -47.385
-            ],
-            [
-              174.04,
-              -47.158
-            ],
-            [
-              173.34,
-              -41.308
-            ],
-            [
-              167.032,
-              -41.513
-            ],
-            [
-              167.071,
-              -47.385
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "South Island, New Zealand",
-        "url": "https://spacefromspace.com/declassified-satellite-images/ds09059a066mc065/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/new-zealand-south-island-1963-declassified-spy-satellite-kh5-argon.jpg",
-        "entity_id": "DS09059A066MC065",
+        "title": "Vozrozhdeniya Island",
+        "url": "https://spacefromspace.com/declassified-satellite-images/vozrozhdeniya-island/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/vozrozhdeniya-island__thumb__67fb335c8fc388fc158e47a9_vozrozhdeniya-island-1964-declassified-satellite--Thumb-.jpg",
+        "entity_id": "DS1006-2071DF096",
         "dataset": "corona2",
-        "slug": "ds09059a066mc065",
-        "date": "1963-10-29",
-        "country": "NZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              44.75,
-              51.616
-            ],
-            [
-              50.033,
-              52.166
-            ],
-            [
-              49.983,
-              52.416
-            ],
-            [
-              44.666,
-              51.866
-            ],
-            [
-              44.75,
-              51.616
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Balakovo, Russia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/ds009017024dv108/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/balakovo-russia-1961-declassified-spy-satellite-kh3-corona.jpg",
-        "entity_id": "DS009017024DV108",
-        "dataset": "corona2",
-        "slug": "ds009017024dv108",
-        "date": "1961-06-16",
-        "country": "RU"
+        "slug": "vozrozhdeniya-island",
+        "date": "1964-06-09",
+        "country": "UZ"
       }
     }
   ]
