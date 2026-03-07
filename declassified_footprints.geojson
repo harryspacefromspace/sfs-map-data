@@ -7191,12 +7191,12 @@
         ]
       },
       "properties": {
-        "title": "Ulaanbaatar, Mongolia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/ulaanbaatar-mongolia-19670524-dzb00403700022h004001/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/ulaanbaatar-mongolia-19670524-dzb00403700022h004001__thumb__695c5fce93c2f499c8e79b1b_ulaanbaatar-mongolia-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "title": "Kazan, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kazan-russia-19670527-dzb00403700073h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kazan-russia-19670527-dzb00403700073h009001__thumb__695c5e9f5a8d54dfa54476ed_kazan-russia-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
         "entity_id": "DZB00403700073H009001",
         "dataset": "DECLASSII",
-        "slug": "ulaanbaatar-mongolia-19670524-dzb00403700022h004001",
+        "slug": "kazan-russia-19670527-dzb00403700073h009001",
         "date": "1967-05-27",
         "country": "RU"
       }
@@ -14176,46 +14176,6 @@
         "coordinates": [
           [
             [
-              48.85,
-              55.615
-            ],
-            [
-              49.2,
-              55.6
-            ],
-            [
-              49.25,
-              56.065
-            ],
-            [
-              48.882,
-              56.082
-            ],
-            [
-              48.85,
-              55.615
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Ulaanbaatar, Mongolia",
-        "url": "https://spacefromspace.com/declassified-satellite-images/ulaanbaatar-mongolia-19670524-dzb00403700022h004001/",
-        "thumbnail": "https://media.spacefromspace.com/images/uploads/ulaanbaatar-mongolia-19670524-dzb00403700022h004001__thumb__695c5fce93c2f499c8e79b1b_ulaanbaatar-mongolia-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
-        "entity_id": "DZB00403700073H009001",
-        "dataset": "DECLASSII",
-        "slug": "ulaanbaatar-mongolia-19670524-dzb00403700022h004001",
-        "date": "1967-05-27",
-        "country": "RU"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               46.3,
               40.665
             ],
@@ -15407,6 +15367,46 @@
         "slug": "tyumen-russia",
         "date": "1964-08-15",
         "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.665,
+              47.632
+            ],
+            [
+              107.015,
+              47.615
+            ],
+            [
+              107.065,
+              48.065
+            ],
+            [
+              106.7,
+              48.082
+            ],
+            [
+              106.665,
+              47.632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ulaanbaatar, Mongolia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ulaanbaatar-mongolia-19670524-dzb00403700022h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ulaanbaatar-mongolia-19670524-dzb00403700022h004001__thumb__695c5fce93c2f499c8e79b1b_ulaanbaatar-mongolia-1965-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00403700022H004001",
+        "dataset": "DECLASSII",
+        "slug": "ulaanbaatar-mongolia-19670524-dzb00403700022h004001",
+        "date": "1967-05-24",
+        "country": "MN"
       }
     },
     {
