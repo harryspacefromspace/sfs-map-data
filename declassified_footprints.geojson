@@ -46546,6 +46546,46 @@
         "date": "1963-10-29",
         "country": "NZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.75,
+              51.616
+            ],
+            [
+              50.033,
+              52.166
+            ],
+            [
+              49.983,
+              52.416
+            ],
+            [
+              44.666,
+              51.866
+            ],
+            [
+              44.75,
+              51.616
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Balakovo, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds009017024dv108/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/balakovo-russia-1961-declassified-spy-satellite-kh3-corona.jpg",
+        "entity_id": "DS009017024DV108",
+        "dataset": "corona2",
+        "slug": "ds009017024dv108",
+        "date": "1961-06-16",
+        "country": "RU"
+      }
     }
   ]
 }
