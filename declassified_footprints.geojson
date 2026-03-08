@@ -46586,6 +46586,46 @@
         "date": "1964-06-09",
         "country": "UZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.75,
+              8.765
+            ],
+            [
+              -79.565,
+              8.732
+            ],
+            [
+              -79.45,
+              9.182
+            ],
+            [
+              -79.632,
+              9.215
+            ],
+            [
+              -79.75,
+              8.765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Panama City, Panama",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402600014h007001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/panama-city-canal-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402600014H007001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402600014h007001",
+        "date": "1966-03-19",
+        "country": "PA"
+      }
     }
   ]
 }
