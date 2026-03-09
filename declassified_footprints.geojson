@@ -46786,6 +46786,46 @@
         "date": "1967-06-08",
         "country": "UZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              152.9,
+              -27.665
+            ],
+            [
+              153.15,
+              -27.665
+            ],
+            [
+              153.15,
+              -27.182
+            ],
+            [
+              152.9,
+              -27.2
+            ],
+            [
+              152.9,
+              -27.665
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Brisbane, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402900020h006001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/brisbane-queensland-australia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402900020H006001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402900020h006001",
+        "date": "1966-06-05",
+        "country": "AU"
+      }
     }
   ]
 }
