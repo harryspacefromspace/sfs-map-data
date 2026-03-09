@@ -46626,6 +46626,166 @@
         "date": "1966-03-19",
         "country": "PA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.182,
+              27.815
+            ],
+            [
+              34.5,
+              27.715
+            ],
+            [
+              34.665,
+              28.15
+            ],
+            [
+              34.35,
+              28.25
+            ],
+            [
+              34.182,
+              27.815
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sharm El-Sheikh, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403800009h020001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sharm-el-sheiketh-egypt-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403800009H020001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403800009h020001",
+        "date": "1967-06-05",
+        "country": "EG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              169.6,
+              69.632
+            ],
+            [
+              170.932,
+              69.565
+            ],
+            [
+              170.982,
+              69.75
+            ],
+            [
+              169.65,
+              69.815
+            ],
+            [
+              169.6,
+              69.632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Pevek, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402800007h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/pevek-russia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402800007H003001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402800007h003001",
+        "date": "1966-05-15",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.982,
+              37.882
+            ],
+            [
+              58.365,
+              37.815
+            ],
+            [
+              58.415,
+              38.065
+            ],
+            [
+              58.032,
+              38.132
+            ],
+            [
+              57.982,
+              37.882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ashgabat, Turkmenistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403000057h017001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ashgabat-turkmenistan-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403000057H017001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403000057h017001",
+        "date": "1966-07-16",
+        "country": "TM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67.082,
+              37.165
+            ],
+            [
+              67.265,
+              37.1
+            ],
+            [
+              67.415,
+              37.4
+            ],
+            [
+              67.232,
+              37.465
+            ],
+            [
+              67.082,
+              37.165
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Termiz, Uzbekistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403800056h011001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/termiz-uzbekistan-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403800056H011001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403800056h011001",
+        "date": "1967-06-08",
+        "country": "UZ"
+      }
     }
   ]
 }
