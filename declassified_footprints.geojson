@@ -46826,6 +46826,46 @@
         "date": "1966-06-05",
         "country": "AU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.15,
+              41.3
+            ],
+            [
+              46.432,
+              41.215
+            ],
+            [
+              46.565,
+              41.45
+            ],
+            [
+              46.282,
+              41.532
+            ],
+            [
+              46.15,
+              41.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Shiraki Plain, Georgia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403800025h014001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/shiraki-plain-georgia-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403800025H014001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403800025h014001",
+        "date": "1967-06-06",
+        "country": "AZ"
+      }
     }
   ]
 }
