@@ -46946,6 +46946,46 @@
         "date": "1966-04-22",
         "country": "TR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.9,
+              30.482
+            ],
+            [
+              32.082,
+              30.382
+            ],
+            [
+              32.315,
+              30.682
+            ],
+            [
+              32.15,
+              30.782
+            ],
+            [
+              31.9,
+              30.482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ismailia, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402700090h023001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ismailia-egypt-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402700090H023001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402700090h023001",
+        "date": "1966-04-25",
+        "country": "EG"
+      }
     }
   ]
 }
