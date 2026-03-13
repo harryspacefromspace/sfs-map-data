@@ -46986,6 +46986,46 @@
         "date": "1966-04-25",
         "country": "EG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.715,
+              29.982
+            ],
+            [
+              30.982,
+              29.95
+            ],
+            [
+              31.032,
+              30.265
+            ],
+            [
+              30.765,
+              30.3
+            ],
+            [
+              30.715,
+              29.982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Cairo, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403200090h016001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/cairo-egypt-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403200090H016001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403200090h016001",
+        "date": "1966-09-22",
+        "country": "EG"
+      }
     }
   ]
 }
