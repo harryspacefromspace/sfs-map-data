@@ -47026,6 +47026,46 @@
         "date": "1966-09-22",
         "country": "EG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.532,
+              -36.595
+            ],
+            [
+              142.507,
+              -36.333
+            ],
+            [
+              141.937,
+              -30.375
+            ],
+            [
+              136.357,
+              -30.62
+            ],
+            [
+              136.532,
+              -36.595
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "South Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds09059a020mc059/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/south-australia-1963-declassified-spy-satellite-kh5-argon.jpg",
+        "entity_id": "DS09059A020MC059",
+        "dataset": "corona2",
+        "slug": "ds09059a020mc059",
+        "date": "1963-10-29",
+        "country": "AU"
+      }
     }
   ]
 }
