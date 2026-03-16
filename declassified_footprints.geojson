@@ -47066,6 +47066,46 @@
         "date": "1963-10-29",
         "country": "AU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.4,
+              41.65
+            ],
+            [
+              19.632,
+              41.615
+            ],
+            [
+              19.75,
+              42.032
+            ],
+            [
+              19.515,
+              42.065
+            ],
+            [
+              19.4,
+              41.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lezhe, Albania",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402500010h020001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/lezhe-albania-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402500010H020001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402500010h020001",
+        "date": "1966-02-16",
+        "country": "AL"
+      }
     }
   ]
 }
