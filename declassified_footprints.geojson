@@ -47186,6 +47186,46 @@
         "date": "1965-10-01",
         "country": "AL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.927,
+              55.281
+            ],
+            [
+              24.889,
+              55.174
+            ],
+            [
+              24.941,
+              55.329
+            ],
+            [
+              23.041,
+              55.493
+            ],
+            [
+              22.927,
+              55.281
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kedainiai, Lithuania",
+        "url": "https://spacefromspace.com/declassified-satellite-images/d3c1208-200345f010/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kedainiai-lithuania-1974-declassified-spy-satellite-kh9-hexagon-thumb.jpg",
+        "entity_id": "D3C1208-200345F010",
+        "dataset": "DECLASSIII",
+        "slug": "d3c1208-200345f010",
+        "date": "1974-05-20",
+        "country": "LT"
+      }
     }
   ]
 }
