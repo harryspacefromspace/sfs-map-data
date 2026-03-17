@@ -47226,6 +47226,46 @@
         "date": "1974-05-20",
         "country": "LT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.91,
+              36.3
+            ],
+            [
+              32.207,
+              36.159
+            ],
+            [
+              32.584,
+              38.248
+            ],
+            [
+              31.252,
+              38.393
+            ],
+            [
+              30.91,
+              36.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Antalya & Konya Provences, Türkiye",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb1206-500011l009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/antalya-province-turkey-1973-declassified-spy-satellite-kh9-hexagon-mapping-thumb.jpg",
+        "entity_id": "DZB1206-500011L009001",
+        "dataset": "DECLASSII",
+        "slug": "dzb1206-500011l009001",
+        "date": "1973-07-17",
+        "country": "TR"
+      }
     }
   ]
 }
