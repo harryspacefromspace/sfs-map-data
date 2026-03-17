@@ -47146,6 +47146,46 @@
         "date": "1965-10-02",
         "country": "UY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.282,
+              41.115
+            ],
+            [
+              19.515,
+              41.082
+            ],
+            [
+              19.632,
+              41.515
+            ],
+            [
+              19.382,
+              41.55
+            ],
+            [
+              19.282,
+              41.115
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Durres, Albania",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402200010h027001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/durres-albania-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402200010H027001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402200010h027001",
+        "date": "1965-10-01",
+        "country": "AL"
+      }
     }
   ]
 }
