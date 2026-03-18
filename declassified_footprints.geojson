@@ -47266,6 +47266,46 @@
         "date": "1973-07-17",
         "country": "TR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -14.486,
+              9.491
+            ],
+            [
+              -13.551,
+              9.414
+            ],
+            [
+              -13.535,
+              9.578
+            ],
+            [
+              -14.488,
+              9.684
+            ],
+            [
+              -14.486,
+              9.491
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Conakry, Guinea",
+        "url": "https://spacefromspace.com/declassified-satellite-images/d3c1211-300487a005/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/conakry-guinea-1976-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1211-300487A005",
+        "dataset": "DECLASSIII",
+        "slug": "d3c1211-300487a005",
+        "date": "1976-02-18",
+        "country": "GN"
+      }
     }
   ]
 }
