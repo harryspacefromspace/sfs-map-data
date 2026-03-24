@@ -47426,6 +47426,46 @@
         "date": "1967-05-30",
         "country": "IN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.232,
+              30.065
+            ],
+            [
+              9.55,
+              29.982
+            ],
+            [
+              9.65,
+              30.232
+            ],
+            [
+              9.315,
+              30.315
+            ],
+            [
+              9.232,
+              30.065
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ghadamis, Libya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403600091h029001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ghadamis-libya-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403600091H029001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403600091h029001",
+        "date": "1967-02-08",
+        "country": "LY"
+      }
     }
   ]
 }
