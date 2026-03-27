@@ -47466,6 +47466,86 @@
         "date": "1967-02-08",
         "country": "LY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.91236690854498,
+              -29.728354194564137
+            ],
+            [
+              131.35293171133907,
+              -29.87855219484324
+            ],
+            [
+              131.42893574322338,
+              -30.091319820091144
+            ],
+            [
+              131.9883709404284,
+              -29.94144257383515
+            ],
+            [
+              131.91236690854498,
+              -29.728354194564137
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Maralinga Range, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds1025-1069da082-1/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/maralinga-test-range-australia-1965-declassified-spy-satellite-kh4a-corona.jpg",
+        "entity_id": "DS1025-1069DA082",
+        "dataset": "corona2",
+        "slug": "ds1025-1069da082-1",
+        "date": "1965-10-10",
+        "country": "AU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.015,
+              -29.975
+            ],
+            [
+              134.871,
+              -30.413
+            ],
+            [
+              135.072,
+              -30.022
+            ],
+            [
+              131.041,
+              -29.784
+            ],
+            [
+              131.015,
+              -29.975
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Maralinga Range, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds1025-1069da082/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/maralinga-range-australia-1972-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1204-300314A002",
+        "dataset": "DECLASSIII",
+        "slug": "ds1025-1069da082",
+        "date": "1972-11-06",
+        "country": "AU"
+      }
     }
   ]
 }
