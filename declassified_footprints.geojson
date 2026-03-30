@@ -47546,6 +47546,46 @@
         "date": "1972-11-06",
         "country": "AU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.6,
+              -32.265
+            ],
+            [
+              115.865,
+              -32.25
+            ],
+            [
+              115.865,
+              -31.832
+            ],
+            [
+              115.6,
+              -31.832
+            ],
+            [
+              115.6,
+              -32.265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Perth, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402900054h018001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/perth-australia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402900054H018001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402900054h018001",
+        "date": "1966-06-07",
+        "country": "AU"
+      }
     }
   ]
 }
