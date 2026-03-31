@@ -47586,6 +47586,46 @@
         "date": "1966-06-07",
         "country": "AU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.095,
+              25.236
+            ],
+            [
+              61.345,
+              25.116
+            ],
+            [
+              61.379,
+              25.272
+            ],
+            [
+              60.173,
+              25.449
+            ],
+            [
+              60.095,
+              25.236
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chabahar, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/d3c1212-300584f002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chabahar-iran-1976-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1212-300584F002",
+        "dataset": "DECLASSIII",
+        "slug": "d3c1212-300584f002",
+        "date": "1976-09-18",
+        "country": "IR"
+      }
     }
   ]
 }
