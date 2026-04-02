@@ -47506,6 +47506,86 @@
         "date": "1964-06-09",
         "country": "UZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.766,
+              -20.566
+            ],
+            [
+              119.233,
+              -20.3
+            ],
+            [
+              119.183,
+              -20.15
+            ],
+            [
+              116.783,
+              -20.4
+            ],
+            [
+              116.766,
+              -20.566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Port Hedland, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds1102-1038df004/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/port-hedland-australia-1967-declassified-spy-satellite-kh4b-corona.jpg",
+        "entity_id": "DS1102-1038DF004",
+        "dataset": "corona2",
+        "slug": "ds1102-1038df004",
+        "date": "1967-12-12",
+        "country": "AU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.632,
+              -1.4
+            ],
+            [
+              36.9,
+              -1.432
+            ],
+            [
+              36.915,
+              -1.165
+            ],
+            [
+              36.665,
+              -1.132
+            ],
+            [
+              36.632,
+              -1.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Nairobi, Kenya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403100041h013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/nairobi-kenya-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403100041H013001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403100041h013001",
+        "date": "1966-08-19",
+        "country": "KE"
+      }
     }
   ]
 }
