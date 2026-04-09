@@ -47626,6 +47626,46 @@
         "date": "1965-05-02",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.115,
+              34.065
+            ],
+            [
+              117.315,
+              34.032
+            ],
+            [
+              117.4,
+              34.4
+            ],
+            [
+              117.182,
+              34.432
+            ],
+            [
+              117.115,
+              34.065
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Xuzhou, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00401800038h014001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/xuzhou-china-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00401800038H014001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00401800038h014001",
+        "date": "1965-05-30",
+        "country": "CN"
+      }
     }
   ]
 }
