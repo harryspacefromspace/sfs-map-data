@@ -2568,24 +2568,24 @@
         "coordinates": [
           [
             [
-              34.824,
-              48.933
+              35.13613395194842,
+              48.178741706111694
             ],
             [
-              35.041,
-              48.883
+              35.53708242824353,
+              48.866597871765606
             ],
             [
-              35.282,
-              49.275
+              35.319370324524634,
+              48.92185622478076
             ],
             [
-              35.058,
-              49.333
+              34.918421848229535,
+              48.23475595607586
             ],
             [
-              34.824,
-              48.933
+              35.13613395194842,
+              48.178741706111694
             ]
           ]
         ]
@@ -47665,6 +47665,46 @@
         "slug": "dzb00401800038h014001",
         "date": "1965-05-30",
         "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.665,
+              40.865
+            ],
+            [
+              28.832,
+              40.765
+            ],
+            [
+              29.232,
+              41.15
+            ],
+            [
+              29.065,
+              41.25
+            ],
+            [
+              28.665,
+              40.865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Istanbul, Türkiye",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402700042h016001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/istanbul-turkey-1966-declassified-spy-satellite-kh7-gambit-thumb.jpg",
+        "entity_id": "DZB00402700042H016001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402700042h016001",
+        "date": "1966-04-22",
+        "country": "TR"
       }
     }
   ]
