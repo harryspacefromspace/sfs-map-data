@@ -47586,6 +47586,46 @@
         "date": "1966-08-19",
         "country": "KE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.165,
+              67.232
+            ],
+            [
+              86.632,
+              67.182
+            ],
+            [
+              86.95,
+              67.582
+            ],
+            [
+              86.482,
+              67.65
+            ],
+            [
+              86.165,
+              67.232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Igarka, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00401700056h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/igarka-russia-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00401700056H004001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00401700056h004001",
+        "date": "1965-05-02",
+        "country": "RU"
+      }
     }
   ]
 }
