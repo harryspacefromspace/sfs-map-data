@@ -47746,6 +47746,86 @@
         "date": "1965-05-30",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.463,
+              46.773
+            ],
+            [
+              33.54,
+              47.165
+            ],
+            [
+              33.462,
+              47.32
+            ],
+            [
+              30.452,
+              46.937
+            ],
+            [
+              30.463,
+              46.773
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Mykolaiv, Ukraine",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds1114-2203df017/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/mykolaiv-ukraine-1971-declassified-spy-satellite-kh4b-corona.jpg",
+        "entity_id": "DS1114-2203DF017",
+        "dataset": "corona2",
+        "slug": "ds1114-2203df017",
+        "date": "1971-04-06",
+        "country": "UA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.251,
+              42.748
+            ],
+            [
+              62.979,
+              43.696
+            ],
+            [
+              61.491,
+              48.901
+            ],
+            [
+              55.24,
+              47.862
+            ],
+            [
+              57.251,
+              42.748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Aral Sea",
+        "url": "https://spacefromspace.com/declassified-satellite-images/-1/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/aral-sea-1962-declassified-spy-satellite-kh5-argon.jpg",
+        "entity_id": "DS09034A038MC042",
+        "dataset": "corona2",
+        "slug": "-1",
+        "date": "1962-05-18",
+        "country": "UZ"
+      }
     }
   ]
 }
