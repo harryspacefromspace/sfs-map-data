@@ -47826,6 +47826,46 @@
         "date": "1962-05-18",
         "country": "UZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              161.682,
+              57.85
+            ],
+            [
+              162.115,
+              57.832
+            ],
+            [
+              162.132,
+              58.05
+            ],
+            [
+              161.7,
+              58.05
+            ],
+            [
+              161.682,
+              57.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Uka, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403300052h001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/uka-kamchatka-krai-russia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403300052H001001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403300052h001001",
+        "date": "1966-10-16",
+        "country": "RU"
+      }
     }
   ]
 }
