@@ -47866,6 +47866,46 @@
         "date": "1966-10-16",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              161.315,
+              57.232
+            ],
+            [
+              161.9,
+              57.182
+            ],
+            [
+              162,
+              57.565
+            ],
+            [
+              161.415,
+              57.6
+            ],
+            [
+              161.315,
+              57.232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kura Test Range, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403700052h002001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kura-test-range-russia-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403700052H002001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403700052h002001",
+        "date": "1967-05-25",
+        "country": "RU"
+      }
     }
   ]
 }
