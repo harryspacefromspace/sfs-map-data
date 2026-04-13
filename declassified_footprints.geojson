@@ -47946,6 +47946,46 @@
         "date": "1966-02-19",
         "country": "IN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              160.628,
+              56.451
+            ],
+            [
+              162.682,
+              56.222
+            ],
+            [
+              163.626,
+              58.484
+            ],
+            [
+              161.452,
+              58.731
+            ],
+            [
+              160.628,
+              56.451
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kura Test Range, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb1216-500344l012001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kura-test-range-kamchatka-krai-russia-1980-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
+        "entity_id": "DZB1216-500344L012001",
+        "dataset": "DECLASSII",
+        "slug": "dzb1216-500344l012001",
+        "date": "1980-09-14",
+        "country": "RU"
+      }
     }
   ]
 }
