@@ -47986,6 +47986,46 @@
         "date": "1980-09-14",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.25,
+              -37.02
+            ],
+            [
+              -72.96,
+              -37.02
+            ],
+            [
+              -72.99,
+              -36.56
+            ],
+            [
+              -73.27,
+              -36.57
+            ],
+            [
+              -73.25,
+              -37.02
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Concepción, Chile",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402900014h010001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/concepcion-chile-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402900014H010001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402900014h010001",
+        "date": "1966-06-04",
+        "country": "CL"
+      }
     }
   ]
 }
