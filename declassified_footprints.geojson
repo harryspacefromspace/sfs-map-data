@@ -48066,6 +48066,86 @@
         "date": "1965-06-01",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.195,
+              66.233
+            ],
+            [
+              67.806,
+              67.503
+            ],
+            [
+              67.623,
+              67.837
+            ],
+            [
+              56.869,
+              66.554
+            ],
+            [
+              57.195,
+              66.233
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Vorkuta, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds009019007dv057-2/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/vorkuta-russia-1961-declassified-spy-satellite-kh2-corona.jpg",
+        "entity_id": "DS009019007DV057",
+        "dataset": "corona2",
+        "slug": "ds009019007dv057-2",
+        "date": "1961-07-07",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.366,
+              -11.971
+            ],
+            [
+              126.439,
+              -11.139
+            ],
+            [
+              125.386,
+              -6.177
+            ],
+            [
+              121.366,
+              -6.998
+            ],
+            [
+              122.366,
+              -11.971
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Indonesia & Timor-Leste",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds09058a021mc075/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/indonesia-timor-leste-1963-declassified-spy-satellite-kh5-argon.jpg",
+        "entity_id": "DS09058A021MC075",
+        "dataset": "corona2",
+        "slug": "ds09058a021mc075",
+        "date": "1963-08-29",
+        "country": "ID"
+      }
     }
   ]
 }
