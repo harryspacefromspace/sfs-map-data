@@ -48026,6 +48026,46 @@
         "date": "1966-06-04",
         "country": "CL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.215,
+              -1.132
+            ],
+            [
+              100.432,
+              -1.165
+            ],
+            [
+              100.5,
+              -0.715
+            ],
+            [
+              100.3,
+              -0.682
+            ],
+            [
+              100.215,
+              -1.132
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Padang, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00401800071h014001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/padang-indonesia-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00401800071H014001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00401800071h014001",
+        "date": "1965-06-01",
+        "country": "ID"
+      }
     }
   ]
 }
