@@ -48226,6 +48226,46 @@
         "date": "1963-08-29",
         "country": "TW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.515,
+              52.982
+            ],
+            [
+              140.782,
+              52.965
+            ],
+            [
+              140.865,
+              53.332
+            ],
+            [
+              140.6,
+              53.35
+            ],
+            [
+              140.515,
+              52.982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Nikolayevsk-on-Amur, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402400037h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/nikolayevsk-on-amur-russia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402400037H003001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402400037h003001",
+        "date": "1966-01-22",
+        "country": "RU"
+      }
     }
   ]
 }
