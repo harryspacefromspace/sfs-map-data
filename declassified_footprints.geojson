@@ -48146,6 +48146,86 @@
         "date": "1963-08-29",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.674,
+              -20.685
+            ],
+            [
+              47.961,
+              -19.826
+            ],
+            [
+              46.813,
+              -14.831
+            ],
+            [
+              42.638,
+              -15.667
+            ],
+            [
+              43.674,
+              -20.685
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Madagascar",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds09058a056mc081/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/madagascar-1963-declassified-spy-satellite-kh5-argon.jpg",
+        "entity_id": "DS09058A056MC081",
+        "dataset": "corona2",
+        "slug": "ds09058a056mc081",
+        "date": "1963-08-29",
+        "country": "MG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.459,
+              21.342
+            ],
+            [
+              123.753,
+              22.18
+            ],
+            [
+              122.683,
+              27.148
+            ],
+            [
+              118.228,
+              26.277
+            ],
+            [
+              119.459,
+              21.342
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Taiwan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ds09058a021mc052/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/taiwan-1963-declassified-spy-satellite-kh5-argon.jpg",
+        "entity_id": "DS09058A021MC052",
+        "dataset": "corona2",
+        "slug": "ds09058a021mc052",
+        "date": "1963-08-29",
+        "country": "TW"
+      }
     }
   ]
 }
