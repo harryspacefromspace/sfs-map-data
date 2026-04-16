@@ -48266,6 +48266,46 @@
         "date": "1966-01-22",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.436,
+              63.228
+            ],
+            [
+              76.49,
+              63.015
+            ],
+            [
+              76.584,
+              63.175
+            ],
+            [
+              74.576,
+              63.411
+            ],
+            [
+              74.436,
+              63.228
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Noyabrsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/d3c1214-401001f002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/noyabrsk-russia-1978-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1214-401001F002",
+        "dataset": "DECLASSIII",
+        "slug": "d3c1214-401001f002",
+        "date": "1978-07-23",
+        "country": "RU"
+      }
     }
   ]
 }
