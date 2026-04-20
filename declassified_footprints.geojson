@@ -48306,6 +48306,46 @@
         "date": "1978-07-23",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68.632,
+              38.482
+            ],
+            [
+              68.8,
+              38.432
+            ],
+            [
+              68.982,
+              38.85
+            ],
+            [
+              68.815,
+              38.882
+            ],
+            [
+              68.632,
+              38.482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dushanbe, Tajikistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00400700040h013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/dushanbe-tajikistan-1964-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00400700040H013001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00400700040h013001",
+        "date": "1964-04-26",
+        "country": "TJ"
+      }
     }
   ]
 }
