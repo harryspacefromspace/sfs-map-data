@@ -48346,6 +48346,166 @@
         "date": "1964-04-26",
         "country": "TJ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.311,
+              61.035
+            ],
+            [
+              76.982,
+              60.814
+            ],
+            [
+              77.059,
+              60.974
+            ],
+            [
+              75.413,
+              61.192
+            ],
+            [
+              75.311,
+              61.035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Nizhnevartovsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/d3c1213-100149f003/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/nizhnevartovsk-russia-1977-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1213-100149F003",
+        "dataset": "DECLASSIII",
+        "slug": "d3c1213-100149f003",
+        "date": "1977-07-24",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              64.965,
+              50.1
+            ],
+            [
+              65.232,
+              50.065
+            ],
+            [
+              65.332,
+              50.415
+            ],
+            [
+              65.082,
+              50.45
+            ],
+            [
+              64.965,
+              50.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Amangeldi, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00401800073h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/amangeldi-kazakhstan-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00401800073H009001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00401800073h009001",
+        "date": "1965-06-01",
+        "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.315,
+              29.5
+            ],
+            [
+              106.632,
+              29.4
+            ],
+            [
+              106.782,
+              29.765
+            ],
+            [
+              106.465,
+              29.865
+            ],
+            [
+              106.315,
+              29.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chongqing, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00403800086h012001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chongqing-china-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403800086H012001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00403800086h012001",
+        "date": "1967-06-10",
+        "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.44,
+              34.53
+            ],
+            [
+              -92.23,
+              34.49
+            ],
+            [
+              -92.16,
+              34.82
+            ],
+            [
+              -92.37,
+              34.85
+            ],
+            [
+              -92.44,
+              34.53
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Little Rock, Arkansas",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00400600015h012001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/little-rock-arkansas-1964-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00400600015H012001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00400600015h012001",
+        "date": "1964-03-12",
+        "country": "US"
+      }
     }
   ]
 }
