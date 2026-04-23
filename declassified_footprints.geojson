@@ -48506,6 +48506,46 @@
         "date": "1964-03-12",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.323,
+              1.332
+            ],
+            [
+              173.555,
+              1.2
+            ],
+            [
+              173.824,
+              3.659
+            ],
+            [
+              172.593,
+              3.796
+            ],
+            [
+              172.323,
+              1.332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Gilbert Islands, Kiribati",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb1214-500350l001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/gilbert-islands-kiribati-1978-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
+        "entity_id": "DZB1214-500350L001001",
+        "dataset": "DECLASSII",
+        "slug": "dzb1214-500350l001001",
+        "date": "1978-06-18",
+        "country": "KI"
+      }
     }
   ]
 }
