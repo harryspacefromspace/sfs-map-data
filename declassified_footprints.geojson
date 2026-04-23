@@ -48546,6 +48546,46 @@
         "date": "1978-06-18",
         "country": "KI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.798185397510644,
+              52.05506998079486
+            ],
+            [
+              -5.801828270409898,
+              55.43929689493175
+            ],
+            [
+              -7.652282895258739,
+              55.62150657273142
+            ],
+            [
+              -8.648640022359483,
+              52.25259600125097
+            ],
+            [
+              -6.798185397510644,
+              52.05506998079486
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ireland & Northern Ireland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb1208-500026l003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ireland-1974-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
+        "entity_id": "DZB1208-500026L003001",
+        "dataset": "DECLASSII",
+        "slug": "dzb1208-500026l003001",
+        "date": "1974-04-15",
+        "country": "IE"
+      }
     }
   ]
 }
