@@ -48746,6 +48746,46 @@
         "date": "1966-07-20",
         "country": "ES"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.515,
+              35
+            ],
+            [
+              36.65,
+              34.915
+            ],
+            [
+              36.932,
+              35.232
+            ],
+            [
+              36.782,
+              35.315
+            ],
+            [
+              36.515,
+              35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Hama, Syria",
+        "url": "https://spacefromspace.com/declassified-satellite-images/hama-syria-19660425-dzb00402700090h020001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/hama-syria-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402700090H020001",
+        "dataset": "DECLASSII",
+        "slug": "hama-syria-19660425-dzb00402700090h020001",
+        "date": "1966-04-25",
+        "country": "SY"
+      }
     }
   ]
 }
