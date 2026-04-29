@@ -48586,6 +48586,166 @@
         "date": "1974-04-15",
         "country": "IE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.238,
+              30.366
+            ],
+            [
+              49.568,
+              30.029
+            ],
+            [
+              49.562,
+              30.264
+            ],
+            [
+              47.274,
+              30.53
+            ],
+            [
+              47.238,
+              30.366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Abadan, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/d3c1216-401383f023/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/iran-iraq-1981-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1216-401383F023",
+        "dataset": "DECLASSIII",
+        "slug": "d3c1216-401383f023",
+        "date": "1981-02-27",
+        "country": "IR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.8,
+              48.265
+            ],
+            [
+              35.05,
+              48.232
+            ],
+            [
+              35.165,
+              48.65
+            ],
+            [
+              34.915,
+              48.682
+            ],
+            [
+              34.8,
+              48.265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dnipro, Ukraine",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb00402200058h015001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/dnipro-ukraine-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402200058H015001",
+        "dataset": "DECLASSII",
+        "slug": "dzb00402200058h015001",
+        "date": "1965-10-04",
+        "country": "UA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.753,
+              37.787
+            ],
+            [
+              -8.33,
+              37.629
+            ],
+            [
+              -7.887,
+              39.88
+            ],
+            [
+              -9.36,
+              40.047
+            ],
+            [
+              -9.753,
+              37.787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Portugal",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzb1215-500269l009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/portugal-1979-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "DZB1215-500269L009001",
+        "dataset": "DECLASSII",
+        "slug": "dzb1215-500269l009001",
+        "date": "1979-05-12",
+        "country": "PT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.982,
+              42.332
+            ],
+            [
+              -8.765,
+              42.315
+            ],
+            [
+              -8.665,
+              42.682
+            ],
+            [
+              -8.9,
+              42.715
+            ],
+            [
+              -8.982,
+              42.332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Pontevedra, Spain",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dzc00403000125h008001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/cambados-spain-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZC00403000125H008001",
+        "dataset": "DECLASSII",
+        "slug": "dzc00403000125h008001",
+        "date": "1966-07-20",
+        "country": "ES"
+      }
     }
   ]
 }
