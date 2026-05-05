@@ -48786,6 +48786,46 @@
         "date": "1966-04-25",
         "country": "SY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.385,
+              38.737
+            ],
+            [
+              9.806,
+              38.582
+            ],
+            [
+              10.242,
+              40.794
+            ],
+            [
+              8.779,
+              40.957
+            ],
+            [
+              8.385,
+              38.737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sardinia, Italy",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sardinia-italy-19801007-dzb1216500499l004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sardinia-italy-1980-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
+        "entity_id": "DZB1216-500499L004001",
+        "dataset": "DECLASSII",
+        "slug": "sardinia-italy-19801007-dzb1216500499l004001",
+        "date": "1980-10-07",
+        "country": "IT"
+      }
     }
   ]
 }
