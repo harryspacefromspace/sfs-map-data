@@ -48866,6 +48866,86 @@
         "date": "1960-08-18",
         "country": "IR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.315,
+              50.532
+            ],
+            [
+              78.715,
+              50.5
+            ],
+            [
+              78.8,
+              50.865
+            ],
+            [
+              78.415,
+              50.915
+            ],
+            [
+              78.315,
+              50.532
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kurchatov, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kurchatov-kazakhstan-19660824-dzb00403100120h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kurchatov-kazakhstan-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403100120H003001",
+        "dataset": "DECLASSII",
+        "slug": "kurchatov-kazakhstan-19660824-dzb00403100120h003001",
+        "date": "1966-08-24",
+        "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.165,
+              51.565
+            ],
+            [
+              -3.95,
+              51.5
+            ],
+            [
+              -3.8,
+              51.732
+            ],
+            [
+              -4.015,
+              51.782
+            ],
+            [
+              -4.165,
+              51.565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Swansea, Wales",
+        "url": "https://spacefromspace.com/declassified-satellite-images/swansea-wales-19670208-dzb00403600092h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/swansea-wales1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403600092H003001",
+        "dataset": "DECLASSII",
+        "slug": "swansea-wales-19670208-dzb00403600092h003001",
+        "date": "1967-02-08",
+        "country": "GB"
+      }
     }
   ]
 }
