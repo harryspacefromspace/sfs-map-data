@@ -48826,6 +48826,46 @@
         "date": "1980-10-07",
         "country": "IT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.827,
+              35.403
+            ],
+            [
+              50.06,
+              35.867
+            ],
+            [
+              50.019,
+              36.076
+            ],
+            [
+              46.778,
+              35.61
+            ],
+            [
+              46.827,
+              35.403
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/iran-19600818-ds009009008dv190/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/iran-middle-east-1960-declassified-spy-satellite-kh1-corona.jpg",
+        "entity_id": "DS009009008DV190",
+        "dataset": "corona2",
+        "slug": "iran-19600818-ds009009008dv190",
+        "date": "1960-08-18",
+        "country": "IR"
+      }
     }
   ]
 }
