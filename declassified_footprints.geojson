@@ -48946,6 +48946,46 @@
         "date": "1967-02-08",
         "country": "GB"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.803,
+              45.887
+            ],
+            [
+              63.479,
+              45.827
+            ],
+            [
+              63.498,
+              45.989
+            ],
+            [
+              62.808,
+              46.077
+            ],
+            [
+              62.803,
+              45.887
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Baikonur Cosmodrome, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/baikonur-cosmodrome-kazakhstan-19740119-d3c1207400486a006/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/baikonur-cosmodrome-kazakhstan-1974-declassified-spy-satellite-kh9-hexagon-D3C1207-400486A006.jpg",
+        "entity_id": "D3C1207-400486A006",
+        "dataset": "DECLASSIII",
+        "slug": "baikonur-cosmodrome-kazakhstan-19740119-d3c1207400486a006",
+        "date": "1974-01-19",
+        "country": "KZ"
+      }
     }
   ]
 }
