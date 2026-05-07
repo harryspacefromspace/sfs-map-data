@@ -48986,6 +48986,86 @@
         "date": "1974-01-19",
         "country": "KZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.112,
+              46.067
+            ],
+            [
+              64.781,
+              45.719
+            ],
+            [
+              64.893,
+              45.925
+            ],
+            [
+              62.136,
+              46.224
+            ],
+            [
+              62.112,
+              46.067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Baikonur Cosmodrome, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/baikonur-cosmodrome-kazakhstan-19740109-d3c1207300397a006/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/baikonur-cosmodrome-kazakhstan-1974-declassified-spy-satellite-kh9-hexagon-D3C1207-300397A006.jpg",
+        "entity_id": "D3C1207-300397A006",
+        "dataset": "DECLASSIII",
+        "slug": "baikonur-cosmodrome-kazakhstan-19740109-d3c1207300397a006",
+        "date": "1974-01-09",
+        "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.849,
+              46.067
+            ],
+            [
+              64.103,
+              45.825
+            ],
+            [
+              64.149,
+              45.985
+            ],
+            [
+              61.961,
+              46.284
+            ],
+            [
+              61.849,
+              46.067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Baikonur Cosmodrome, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/baikonur-cosmodrome-19740119-d3c1207400486f005/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/baikonur-cosmodrome-kazakhstan-1974-declassified-spy-satellite-kh9-hexagon-D3C1207-400486F005.jpg",
+        "entity_id": "D3C1207-400486F005",
+        "dataset": "DECLASSIII",
+        "slug": "baikonur-cosmodrome-19740119-d3c1207400486f005",
+        "date": "1974-01-19",
+        "country": "KZ"
+      }
     }
   ]
 }
