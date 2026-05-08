@@ -49066,6 +49066,86 @@
         "date": "1974-01-19",
         "country": "KZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.375,
+              50.221
+            ],
+            [
+              72.134,
+              50.028
+            ],
+            [
+              72.81,
+              52.273
+            ],
+            [
+              70.97,
+              52.478
+            ],
+            [
+              70.375,
+              50.221
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Astana, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/astana-kazakhstan-19790505-dzb1215500244l002001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/astana-kazakhstan-1979-declassified-spy-satellite-kh9-hexagon-mapping.jpg",
+        "entity_id": "DZB1215-500244L002001",
+        "dataset": "DECLASSII",
+        "slug": "astana-kazakhstan-19790505-dzb1215500244l002001",
+        "date": "1979-05-05",
+        "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.278,
+              28.105
+            ],
+            [
+              31.241,
+              28.005
+            ],
+            [
+              31.264,
+              28.153
+            ],
+            [
+              30.323,
+              28.275
+            ],
+            [
+              30.278,
+              28.105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Minya, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/minya-egypt-19730731-d3c1206100184f012/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/al-minya-egypt-1973-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1206-100184F012",
+        "dataset": "DECLASSIII",
+        "slug": "minya-egypt-19730731-d3c1206100184f012",
+        "date": "1973-07-31",
+        "country": "EG"
+      }
     }
   ]
 }
