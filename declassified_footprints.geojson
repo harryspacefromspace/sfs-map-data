@@ -49146,6 +49146,86 @@
         "date": "1973-07-31",
         "country": "EG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.084,
+              31.084
+            ],
+            [
+              34.173,
+              30.977
+            ],
+            [
+              34.195,
+              31.126
+            ],
+            [
+              32.056,
+              31.294
+            ],
+            [
+              32.084,
+              31.084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "North Sinai, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/north-sinai-egypt-19740614-d3c1208300529a003/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/north-sinai-suez-said-egypt-1977-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1208-300529A003",
+        "dataset": "DECLASSIII",
+        "slug": "north-sinai-egypt-19740614-d3c1208300529a003",
+        "date": "1974-06-14",
+        "country": "EG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.548,
+              29.219
+            ],
+            [
+              31.806,
+              29.036
+            ],
+            [
+              31.886,
+              29.25
+            ],
+            [
+              30.581,
+              29.377
+            ],
+            [
+              30.548,
+              29.219
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Faiyum, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/faiyum-egypt-19770711-d3c1213100093a019/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/faiyum-egypt-1977-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1213-100093A019",
+        "dataset": "DECLASSIII",
+        "slug": "faiyum-egypt-19770711-d3c1213100093a019",
+        "date": "1977-07-11",
+        "country": "EG"
+      }
     }
   ]
 }
