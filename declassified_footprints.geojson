@@ -49226,6 +49226,46 @@
         "date": "1977-07-11",
         "country": "EG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.615,
+              36.982
+            ],
+            [
+              79.882,
+              36.815
+            ],
+            [
+              80.165,
+              37.115
+            ],
+            [
+              79.9,
+              37.282
+            ],
+            [
+              79.615,
+              36.982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Hotan, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/hotan-china-19660424-dzb00402700072h007001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/hotan-china-1966-declassified-spy-satellite-kh7-gambit-DZB00402700072H007001.jpg",
+        "entity_id": "DZB00402700072H007001",
+        "dataset": "DECLASSII",
+        "slug": "hotan-china-19660424-dzb00402700072h007001",
+        "date": "1966-04-24",
+        "country": "CN"
+      }
     }
   ]
 }
