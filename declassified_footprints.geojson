@@ -49266,6 +49266,86 @@
         "date": "1966-04-24",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              97.4,
+              16.4
+            ],
+            [
+              97.665,
+              16.25
+            ],
+            [
+              97.9,
+              16.632
+            ],
+            [
+              97.632,
+              16.782
+            ],
+            [
+              97.4,
+              16.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Mawlamyine, Myanmar",
+        "url": "https://spacefromspace.com/declassified-satellite-images/mawlamyine-myanmar-19660422-dzb00402700038h018001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/mawlamyine-myanmar-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402700038H018001",
+        "dataset": "DECLASSII",
+        "slug": "mawlamyine-myanmar-19660422-dzb00402700038h018001",
+        "date": "1966-04-22",
+        "country": "MM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.182,
+              41.482
+            ],
+            [
+              88.4,
+              41.415
+            ],
+            [
+              88.582,
+              41.8
+            ],
+            [
+              88.365,
+              41.865
+            ],
+            [
+              88.182,
+              41.482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lop Nur, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lop-nur-china-19670210-dzb00403600120h008001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/lop-nur-china-1967-declassified-spy-satellite-kh7-gambit-DZB00403600120H008001.jpg",
+        "entity_id": "DZB00403600120H008001",
+        "dataset": "DECLASSII",
+        "slug": "lop-nur-china-19670210-dzb00403600120h008001",
+        "date": "1967-02-10",
+        "country": "CN"
+      }
     }
   ]
 }
