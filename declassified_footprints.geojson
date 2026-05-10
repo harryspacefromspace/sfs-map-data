@@ -49346,6 +49346,46 @@
         "date": "1967-02-10",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.416,
+              70.816
+            ],
+            [
+              131.316,
+              71.516
+            ],
+            [
+              131.1,
+              71.666
+            ],
+            [
+              123.333,
+              70.983
+            ],
+            [
+              123.416,
+              70.816
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tiksi, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tiksi-russia-19640713-ds10081036df073/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tiksi-russia-1964-declassified-spy-satellite-kh4a-corona-DS1008-1036DF073.jpg",
+        "entity_id": "DS1008-1036DF073",
+        "dataset": "corona2",
+        "slug": "tiksi-russia-19640713-ds10081036df073",
+        "date": "1964-07-13",
+        "country": "RU"
+      }
     }
   ]
 }
