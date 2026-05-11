@@ -49386,6 +49386,86 @@
         "date": "1964-07-13",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95.15,
+              5.365
+            ],
+            [
+              95.332,
+              5.3
+            ],
+            [
+              95.45,
+              5.665
+            ],
+            [
+              95.265,
+              5.732
+            ],
+            [
+              95.15,
+              5.365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Banda Aceh, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/banda-aceh-indonesia-19670605-dzb00403800006h018001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/banda-aceh-indonesia-1967-declassified-spy-satellite-kh7-gambit-DZB00403800006H018001.jpg",
+        "entity_id": "DZB00403800006H018001",
+        "dataset": "DECLASSII",
+        "slug": "banda-aceh-indonesia-19670605-dzb00403800006h018001",
+        "date": "1967-06-05",
+        "country": "ID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.966,
+              41.607
+            ],
+            [
+              89.03,
+              41.472
+            ],
+            [
+              89.061,
+              41.623
+            ],
+            [
+              88.017,
+              41.765
+            ],
+            [
+              87.966,
+              41.607
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lop Nur, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lop-nur-china-19761020-d3c1212400759f001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/lop-nur-china-1976-declassified-spy-satellite-kh9-hexagon-D3C1212-400759F001.jpg",
+        "entity_id": "D3C1212-400759F001",
+        "dataset": "DECLASSIII",
+        "slug": "lop-nur-china-19761020-d3c1212400759f001",
+        "date": "1976-10-20",
+        "country": "CN"
+      }
     }
   ]
 }
