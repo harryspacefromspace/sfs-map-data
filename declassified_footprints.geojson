@@ -49466,6 +49466,46 @@
         "date": "1976-10-20",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.132,
+              71.882
+            ],
+            [
+              102.815,
+              71.8
+            ],
+            [
+              103.182,
+              72.065
+            ],
+            [
+              102.482,
+              72.15
+            ],
+            [
+              102.132,
+              71.882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chatanga, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/chatanga-russia-19660713-dzb00403000007h001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chatanga-russia-1966-declassified-spy-satellite-kh7-gambit-DZB00403000007H001001.jpg",
+        "entity_id": "DZB00403000007H001001",
+        "dataset": "DECLASSII",
+        "slug": "chatanga-russia-19660713-dzb00403000007h001001",
+        "date": "1966-07-13",
+        "country": "RU"
+      }
     }
   ]
 }
