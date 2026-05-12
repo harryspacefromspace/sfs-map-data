@@ -49586,6 +49586,46 @@
         "date": "1978-05-17",
         "country": "EG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.566,
+              52.75
+            ],
+            [
+              52.616,
+              53.233
+            ],
+            [
+              52.566,
+              53.483
+            ],
+            [
+              47.483,
+              52.983
+            ],
+            [
+              47.566,
+              52.75
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Samara, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/samara-russia-19610912-ds009022008dv084/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/samara-russia-1961-declassified-spy-satellite-kh3-corona-DS009022008DV084.jpg",
+        "entity_id": "DS009022008DV084",
+        "dataset": "corona2",
+        "slug": "samara-russia-19610912-ds009022008dv084",
+        "date": "1961-09-12",
+        "country": "RU"
+      }
     }
   ]
 }
