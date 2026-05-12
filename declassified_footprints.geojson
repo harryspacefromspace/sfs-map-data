@@ -49506,6 +49506,46 @@
         "date": "1966-07-13",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.532,
+              -10.282
+            ],
+            [
+              123.732,
+              -10.3
+            ],
+            [
+              123.765,
+              -10.032
+            ],
+            [
+              123.565,
+              -10.015
+            ],
+            [
+              123.532,
+              -10.282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kupang, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kupang-indonesia-19660819-dzb00403100037h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kupang-indonesia-1966-declassified-spy-satellite-kh9-hexagon-DZB00403100037H009001.jpg",
+        "entity_id": "DZB00403100037H009001",
+        "dataset": "DECLASSII",
+        "slug": "kupang-indonesia-19660819-dzb00403100037h009001",
+        "date": "1966-08-19",
+        "country": "ID"
+      }
     }
   ]
 }
