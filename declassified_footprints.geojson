@@ -49546,6 +49546,46 @@
         "date": "1966-08-19",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.366,
+              31.161
+            ],
+            [
+              30.408,
+              31.071
+            ],
+            [
+              30.429,
+              31.229
+            ],
+            [
+              29.367,
+              31.347
+            ],
+            [
+              29.366,
+              31.161
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Alexandria, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/alexandria-egypt-19780517-d3c1214200550a002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/alexandria-egypt-1978-declassified-spy-satellite-kh9-hexagon-D3C1214-200550A002.jpg",
+        "entity_id": "D3C1214-200550A002",
+        "dataset": "DECLASSIII",
+        "slug": "alexandria-egypt-19780517-d3c1214200550a002",
+        "date": "1978-05-17",
+        "country": "EG"
+      }
     }
   ]
 }
