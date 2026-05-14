@@ -49626,6 +49626,46 @@
         "date": "1961-09-12",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.032,
+              -8.9
+            ],
+            [
+              115.215,
+              -8.932
+            ],
+            [
+              115.265,
+              -8.632
+            ],
+            [
+              115.082,
+              -8.6
+            ],
+            [
+              115.032,
+              -8.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bali, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bali-indonesia-19660715-dzb00403000054h024001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bali-indonesia-1966-declassified-spy-satellite-kh7-gambit-DZB00403000054H024001.jpg",
+        "entity_id": "DZB00403000054H024001",
+        "dataset": "DECLASSII",
+        "slug": "bali-indonesia-19660715-dzb00403000054h024001",
+        "date": "1966-07-15",
+        "country": "ID"
+      }
     }
   ]
 }
