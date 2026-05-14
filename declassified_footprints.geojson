@@ -49810,6 +49810,86 @@
         "date": "1966-07-15",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.517,
+              -23.755
+            ],
+            [
+              134.627,
+              -23.888
+            ],
+            [
+              134.676,
+              -23.68
+            ],
+            [
+              133.541,
+              -23.574
+            ],
+            [
+              133.517,
+              -23.755
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Alice Springs, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/alice-springs-australia-19770726-d3c1213100155a005/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/alice-springs-australia-1977-declassified-spy-satellite-kh9-hexagon-D3C1213-100155A005.jpg",
+        "entity_id": "D3C1213-100155A005",
+        "dataset": "DECLASSIII",
+        "slug": "alice-springs-australia-19770726-d3c1213100155a005",
+        "date": "1977-07-26",
+        "country": "AU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.665,
+              -19.415
+            ],
+            [
+              146.9,
+              -19.415
+            ],
+            [
+              146.9,
+              -18.965
+            ],
+            [
+              146.682,
+              -18.95
+            ],
+            [
+              146.665,
+              -19.415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Townsville, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/townsville-australia-19660609-dzb00402900085h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/townsville-australia-1966-declassified-spy-satellite-kh7-gambit-DZB00402900085H004001.jpg",
+        "entity_id": "DZB00402900085H004001",
+        "dataset": "DECLASSII",
+        "slug": "townsville-australia-19660609-dzb00402900085h004001",
+        "date": "1966-06-09",
+        "country": "AU"
+      }
     }
   ]
 }
