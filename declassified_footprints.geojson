@@ -49890,6 +49890,46 @@
         "date": "1966-06-09",
         "country": "AU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.878553957183518,
+              23.94196519652664
+            ],
+            [
+              5.202142952056001,
+              23.9716253241646
+            ],
+            [
+              5.186729436774725,
+              24.11196712928738
+            ],
+            [
+              4.86314044190225,
+              24.082339374716383
+            ],
+            [
+              4.878553957183518,
+              23.94196519652664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "CEMO Nuclear Test Site, In Ekker, Algeria",
+        "url": "https://spacefromspace.com/declassified-satellite-images/cemo-nuclear-test-site-in-ekker-algeria-19681108-ds11051075df010/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/cemo-in-ekker-algeria-1968-declassified-spy-satellite-kh4b-corona-DS1105-1075DF010.jpg",
+        "entity_id": "DS1105-1075DF010",
+        "dataset": "corona2",
+        "slug": "cemo-nuclear-test-site-in-ekker-algeria-19681108-ds11051075df010",
+        "date": "1968-11-08",
+        "country": "DZ"
+      }
     }
   ]
 }
