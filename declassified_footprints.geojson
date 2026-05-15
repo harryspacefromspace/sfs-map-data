@@ -49930,6 +49930,46 @@
         "date": "1968-11-08",
         "country": "DZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.565,
+              -17
+            ],
+            [
+              145.782,
+              -17.032
+            ],
+            [
+              145.865,
+              -16.6
+            ],
+            [
+              145.632,
+              -16.565
+            ],
+            [
+              145.565,
+              -17
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Cairns, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/cairns-australia-19660217-dzb00402500020h011001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/cairns-australia-1966-declassified-spy-satellite-kh7-gambit-DZB00402500020H011001.jpg",
+        "entity_id": "DZB00402500020H011001",
+        "dataset": "DECLASSII",
+        "slug": "cairns-australia-19660217-dzb00402500020h011001",
+        "date": "1966-02-17",
+        "country": "AU"
+      }
     }
   ]
 }
