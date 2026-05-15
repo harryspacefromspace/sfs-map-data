@@ -49970,6 +49970,46 @@
         "date": "1966-02-17",
         "country": "AU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              147.16,
+              -43.09
+            ],
+            [
+              147.5,
+              -43.08
+            ],
+            [
+              147.47,
+              -42.66
+            ],
+            [
+              147.13,
+              -42.68
+            ],
+            [
+              147.16,
+              -43.09
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Hobart, Australia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/hobart-australia-19660609-dzb00402900085h006001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/hobart-australia-1966-declassified-spy-satellite-kh7-gambit-DZB00402900085H006001.jpg",
+        "entity_id": "DZB00402900085H006001",
+        "dataset": "DECLASSII",
+        "slug": "hobart-australia-19660609-dzb00402900085h006001",
+        "date": "1966-06-09",
+        "country": "AU"
+      }
     }
   ]
 }
