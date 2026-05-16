@@ -50050,6 +50050,46 @@
         "date": "1980-11-16",
         "country": "AU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.432,
+              53.182
+            ],
+            [
+              -9.115,
+              53.032
+            ],
+            [
+              -8.615,
+              53.382
+            ],
+            [
+              -8.932,
+              53.55
+            ],
+            [
+              -9.432,
+              53.182
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Galway, Ireland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/galway-ireland-19660515-dzb00402800012h011001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/galway-ireland-1966-declassified-spy-satellite-kh7-gambit-DZB00402800012H011001.jpg",
+        "entity_id": "DZB00402800012H011001",
+        "dataset": "DECLASSII",
+        "slug": "galway-ireland-19660515-dzb00402800012h011001",
+        "date": "1966-05-15",
+        "country": "IE"
+      }
     }
   ]
 }
