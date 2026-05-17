@@ -50102,6 +50102,46 @@
         "date": "1974-12-28",
         "country": "IL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.905,
+              72.615
+            ],
+            [
+              63.239,
+              74.572
+            ],
+            [
+              62.814,
+              74.933
+            ],
+            [
+              47.248,
+              72.93
+            ],
+            [
+              47.905,
+              72.615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Novaya Zemlya, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/novaya-zemlya-russia-19610707-ds009019007dv022/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/novaya-zemlya-russia-1961-declassified-spy-satellite-kh2-corona-DS009019007DV022.jpg",
+        "entity_id": "DS009019007DV022",
+        "dataset": "corona2",
+        "slug": "novaya-zemlya-russia-19610707-ds009019007dv022",
+        "date": "1961-07-07",
+        "country": "RU"
+      }
     }
   ]
 }
