@@ -50182,6 +50182,46 @@
         "date": "1965-10-01",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.865,
+              36.132
+            ],
+            [
+              113.25,
+              36
+            ],
+            [
+              113.4,
+              36.3
+            ],
+            [
+              113.015,
+              36.432
+            ],
+            [
+              112.865,
+              36.132
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Changzhi, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/changzhi-china-19670612-dzb00403800118h008001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/changzhi-china-1967-declassified-spy-satellite-kh7-gambit-DZB00403800118H008001.jpg",
+        "entity_id": "DZB00403800118H008001",
+        "dataset": "DECLASSII",
+        "slug": "changzhi-china-19670612-dzb00403800118h008001",
+        "date": "1967-06-12",
+        "country": "CN"
+      }
     }
   ]
 }
