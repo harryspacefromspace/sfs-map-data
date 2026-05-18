@@ -50142,6 +50142,46 @@
         "date": "1961-07-07",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.215,
+              36.982
+            ],
+            [
+              -115.982,
+              36.95
+            ],
+            [
+              -115.865,
+              37.465
+            ],
+            [
+              -116.115,
+              37.482
+            ],
+            [
+              -116.215,
+              36.982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Nevada Test Site, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/nevada-test-site-usa-19651001-dzb00402200016h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/nevada-test-site-1965-declassified-spy-satellite-kh7-gambit-DZB00402200016H004001.jpg",
+        "entity_id": "DZB00402200016H004001",
+        "dataset": "DECLASSII",
+        "slug": "nevada-test-site-usa-19651001-dzb00402200016h004001",
+        "date": "1965-10-01",
+        "country": "US"
+      }
     }
   ]
 }
