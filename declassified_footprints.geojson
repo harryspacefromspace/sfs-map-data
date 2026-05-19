@@ -50262,6 +50262,46 @@
         "date": "1966-02-18",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.541,
+              35.695
+            ],
+            [
+              25.514,
+              36.599
+            ],
+            [
+              24.211,
+              41.604
+            ],
+            [
+              18.901,
+              40.636
+            ],
+            [
+              20.541,
+              35.695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Greece",
+        "url": "https://spacefromspace.com/declassified-satellite-images/greece-19630829-ds09058a041mc042/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/greece-1963-declassified-spy-satellite-kh5-argon-DS09058A041MC042.jpg",
+        "entity_id": "DS09058A041MC042",
+        "dataset": "corona2",
+        "slug": "greece-19630829-ds09058a041mc042",
+        "date": "1963-08-29",
+        "country": "GR"
+      }
     }
   ]
 }
