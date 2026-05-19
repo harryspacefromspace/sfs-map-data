@@ -50222,6 +50222,46 @@
         "date": "1967-06-12",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.282,
+              36.915
+            ],
+            [
+              114.582,
+              36.865
+            ],
+            [
+              114.665,
+              37.232
+            ],
+            [
+              114.35,
+              37.282
+            ],
+            [
+              114.282,
+              36.915
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Xingtai, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/xingtai-china-19660218-dzb00402500038h015001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/xingtai-china-1966-declassified-spy-satellite-kh7-gambit-DZB00402500038H015001.jpg",
+        "entity_id": "DZB00402500038H015001",
+        "dataset": "DECLASSII",
+        "slug": "xingtai-china-19660218-dzb00402500038h015001",
+        "date": "1966-02-18",
+        "country": "CN"
+      }
     }
   ]
 }
