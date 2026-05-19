@@ -50302,6 +50302,46 @@
         "date": "1963-08-29",
         "country": "GR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.7,
+              39.682
+            ],
+            [
+              125.865,
+              39.582
+            ],
+            [
+              126.165,
+              39.865
+            ],
+            [
+              126,
+              39.965
+            ],
+            [
+              125.7,
+              39.682
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kaechon, North Korea",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kaechon-north-korea-19660424-dzb00402700070h013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kaechon-north-korea-1966-declassified-spy-satellite-kh7-gambit-DZB00402700070H013001.jpg",
+        "entity_id": "DZB00402700070H013001",
+        "dataset": "DECLASSII",
+        "slug": "kaechon-north-korea-19660424-dzb00402700070h013001",
+        "date": "1966-04-24",
+        "country": "KP"
+      }
     }
   ]
 }
