@@ -50342,6 +50342,46 @@
         "date": "1966-04-24",
         "country": "KP"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.015,
+              39.55
+            ],
+            [
+              -104.815,
+              39.515
+            ],
+            [
+              -104.7,
+              40
+            ],
+            [
+              -104.9,
+              40.032
+            ],
+            [
+              -105.015,
+              39.55
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Denver, Colorado",
+        "url": "https://spacefromspace.com/declassified-satellite-images/denver-colorado-19651003-dzb00402200048h011001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/denver-colorado-1965-declassified-spy-satellite-kh7-gambitDZB00402200048H011001.jpg",
+        "entity_id": "DZB00402200048H011001",
+        "dataset": "DECLASSII",
+        "slug": "denver-colorado-19651003-dzb00402200048h011001",
+        "date": "1965-10-03",
+        "country": "US"
+      }
     }
   ]
 }
