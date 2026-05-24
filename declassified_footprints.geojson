@@ -50382,6 +50382,146 @@
         "date": "1965-10-03",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.97,
+              32.76
+            ],
+            [
+              -111.79,
+              32.74
+            ],
+            [
+              -111.72,
+              33.06
+            ],
+            [
+              -111.9,
+              33.08
+            ],
+            [
+              -111.97,
+              32.76
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Casa Grande, Arizona, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/casa-grande-arizona-usa-19660217-dzb00402500032h002001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/casa-grande-arizona-usa-1966-declassified-spy-satellite-kh7-gambit-DZB00402500032H002001.jpg",
+        "entity_id": "DZB00402500032H002001",
+        "dataset": "DECLASSII",
+        "slug": "casa-grande-arizona-usa-19660217-dzb00402500032h002001",
+        "date": "1966-02-17",
+        "country": "US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.17942981028351,
+              32.49095551023323
+            ],
+            [
+              51.1731908511682,
+              32.58154175565816
+            ],
+            [
+              51.132741818120046,
+              32.58574199206114
+            ],
+            [
+              51.132741818120046,
+              32.70886131648632
+            ],
+            [
+              51.13385001080626,
+              32.727035022678095
+            ],
+            [
+              51.135512299835625,
+              32.74753424457469
+            ],
+            [
+              51.137728685208145,
+              32.7657000669191
+            ],
+            [
+              51.16764988773696,
+              32.914147947406676
+            ],
+            [
+              51.17873181459944,
+              32.914147947406676
+            ],
+            [
+              51.188705548775715,
+              32.91321801331328
+            ],
+            [
+              51.20200386101071,
+              32.91182309385586
+            ],
+            [
+              52.21378378355727,
+              32.800158361860746
+            ],
+            [
+              52.24038040802735,
+              32.796899365011484
+            ],
+            [
+              52.24038040802735,
+              32.788984161068655
+            ],
+            [
+              52.239272215341046,
+              32.781068252675816
+            ],
+            [
+              52.23040667385108,
+              32.71864761845913
+            ],
+            [
+              52.22320342139047,
+              32.66830663034154
+            ],
+            [
+              52.2193247469886,
+              32.64219272262945
+            ],
+            [
+              52.18884944811663,
+              32.49095551023323
+            ],
+            [
+              52.17942981028351,
+              32.49095551023323
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Isfahan, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/isfahan-iran-19780504-d3c1214200420a026/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/isfahan-iran-1978-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1214-200420A026",
+        "dataset": "DECLASSIII",
+        "slug": "isfahan-iran-19780504-d3c1214200420a026",
+        "date": "1978-05-04",
+        "country": "IR"
+      }
     }
   ]
 }
