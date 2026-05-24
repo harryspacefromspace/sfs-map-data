@@ -50522,6 +50522,46 @@
         "date": "1978-05-04",
         "country": "IR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -139.11,
+              -22.028
+            ],
+            [
+              -137.576,
+              -22.183
+            ],
+            [
+              -137.536,
+              -21.987
+            ],
+            [
+              -139.011,
+              -21.761
+            ],
+            [
+              -139.11,
+              -22.028
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Moruroa Atoll, French Polynesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/moruroa-atoll-french-polynesia-19780720-d3c1214300983f003/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/moruroa-atoll-1978-declassified-spy-satellite-kh9-hexagon-D3C1214-300983F003.jpg",
+        "entity_id": "D3C1214-300983F003",
+        "dataset": "DECLASSIII",
+        "slug": "moruroa-atoll-french-polynesia-19780720-d3c1214300983f003",
+        "date": "1978-07-20",
+        "country": "PF"
+      }
     }
   ]
 }
