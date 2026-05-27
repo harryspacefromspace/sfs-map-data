@@ -50562,6 +50562,86 @@
         "date": "1978-07-20",
         "country": "PF"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.845,
+              32.368
+            ],
+            [
+              48.907,
+              32.277
+            ],
+            [
+              48.929,
+              32.436
+            ],
+            [
+              47.846,
+              32.556
+            ],
+            [
+              47.845,
+              32.368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dezful, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dezful-iran-19790418-d3c1215100276a006/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/dezful-iran-1979-declassified-spy-satellite-kh9-hexagon-D3C1215-100276A006.jpg",
+        "entity_id": "D3C1215-100276A006",
+        "dataset": "DECLASSIII",
+        "slug": "dezful-iran-19790418-d3c1215100276a006",
+        "date": "1979-04-18",
+        "country": "IR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.082,
+              33.3
+            ],
+            [
+              120.282,
+              33.3
+            ],
+            [
+              120.315,
+              33.615
+            ],
+            [
+              120.115,
+              33.632
+            ],
+            [
+              120.082,
+              33.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Yancheng, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/yancheng-china-19661017-dzb00403300070h011001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/yancheng-china-1966-declassified-spy-satellite-kh7-gambit-DZB00403300070H011001.jpg",
+        "entity_id": "DZB00403300070H011001",
+        "dataset": "DECLASSII",
+        "slug": "yancheng-china-19661017-dzb00403300070h011001",
+        "date": "1966-10-17",
+        "country": "CN"
+      }
     }
   ]
 }
