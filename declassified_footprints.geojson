@@ -50642,6 +50642,46 @@
         "date": "1966-10-17",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.065,
+              34.515
+            ],
+            [
+              109.365,
+              34.482
+            ],
+            [
+              109.45,
+              34.85
+            ],
+            [
+              109.15,
+              34.882
+            ],
+            [
+              109.065,
+              34.515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Yanliang, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/yanliang-china-19660217-dzb00402500022h011001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/yanliang-china-1966-declassified-spy-satellite-kh7-gambit-DZB00402500022H011001.jpg",
+        "entity_id": "DZB00402500022H011001",
+        "dataset": "DECLASSII",
+        "slug": "yanliang-china-19660217-dzb00402500022h011001",
+        "date": "1966-02-17",
+        "country": "CN"
+      }
     }
   ]
 }
