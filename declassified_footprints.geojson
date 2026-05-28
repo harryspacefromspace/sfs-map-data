@@ -50722,6 +50722,46 @@
         "date": "1966-03-21",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.717,
+              28.924
+            ],
+            [
+              50.979,
+              28.817
+            ],
+            [
+              50.992,
+              28.977
+            ],
+            [
+              49.699,
+              29.149
+            ],
+            [
+              49.717,
+              28.924
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bushehr, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bushehr-iran-19770914-d3c1213300514a006/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bushehr-iran-1977-declassified-spy-satellite-kh9-hexagon-D3C1213-300514A006.jpg",
+        "entity_id": "D3C1213-300514A006",
+        "dataset": "DECLASSIII",
+        "slug": "bushehr-iran-19770914-d3c1213300514a006",
+        "date": "1977-09-14",
+        "country": "IR"
+      }
     }
   ]
 }
