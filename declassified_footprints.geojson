@@ -50762,6 +50762,46 @@
         "date": "1977-09-14",
         "country": "IR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.024,
+              27.152
+            ],
+            [
+              58.178,
+              26.836
+            ],
+            [
+              58.171,
+              27.059
+            ],
+            [
+              56.058,
+              27.308
+            ],
+            [
+              56.024,
+              27.152
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bandar Abbas, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bandar-abbas-iran-19780320-d3c1214100039f007/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bandar-abbas-iran-1978-declassified-spy-satellite-kh9-hexagon-D3C1214-100039F007.jpg",
+        "entity_id": "D3C1214-100039F007",
+        "dataset": "DECLASSIII",
+        "slug": "bandar-abbas-iran-19780320-d3c1214100039f007",
+        "date": "1978-03-20",
+        "country": "IR"
+      }
     }
   ]
 }
