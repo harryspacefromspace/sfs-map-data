@@ -50682,6 +50682,46 @@
         "date": "1966-02-17",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.32,
+              42.01
+            ],
+            [
+              -83.1,
+              41.98
+            ],
+            [
+              -82.91,
+              42.42
+            ],
+            [
+              -83.13,
+              42.46
+            ],
+            [
+              -83.32,
+              42.01
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Detroit, Michigan, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/detroit-michigan-usa-19660321-dzb00402600047h001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/detroit-usa-1966-declassified-spy-satellite-kh7-gambit-DZB00402600047H001001.jpg",
+        "entity_id": "DZB00402600047H001001",
+        "dataset": "DECLASSII",
+        "slug": "detroit-michigan-usa-19660321-dzb00402600047h001001",
+        "date": "1966-03-21",
+        "country": "US"
+      }
     }
   ]
 }
