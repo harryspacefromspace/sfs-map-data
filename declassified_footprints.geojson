@@ -51082,6 +51082,46 @@
         "date": "1980-06-25",
         "country": "IR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.05,
+              39.8
+            ],
+            [
+              125.332,
+              39.765
+            ],
+            [
+              125.4,
+              40.132
+            ],
+            [
+              125.1,
+              40.165
+            ],
+            [
+              125.05,
+              39.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kusong, North Korea",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kusong-north-korea-19660124-dzb00402400070h013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kusong-north-korea-1966-declassified-spy-satellite-kh7-gambit-DZB00402400070H013001.jpg",
+        "entity_id": "DZB00402400070H013001",
+        "dataset": "DECLASSII",
+        "slug": "kusong-north-korea-19660124-dzb00402400070h013001",
+        "date": "1966-01-24",
+        "country": "KP"
+      }
     }
   ]
 }
