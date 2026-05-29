@@ -51122,6 +51122,166 @@
         "date": "1966-01-24",
         "country": "KP"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.2,
+              39.582
+            ],
+            [
+              116.482,
+              39.565
+            ],
+            [
+              116.532,
+              40.032
+            ],
+            [
+              116.25,
+              40.05
+            ],
+            [
+              116.2,
+              39.582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Beijing, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/beijing-china-19670527-dzb00403700070h005001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/beijing-china-1967-declassified-spy-satellite-kh7-gambit-DZB00403700070H005001.jpg",
+        "entity_id": "DZB00403700070H005001",
+        "dataset": "DECLASSII",
+        "slug": "beijing-china-19670527-dzb00403700070h005001",
+        "date": "1967-05-27",
+        "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.851,
+              38.008
+            ],
+            [
+              126.217,
+              37.847
+            ],
+            [
+              126.662,
+              39.994
+            ],
+            [
+              125.259,
+              40.164
+            ],
+            [
+              124.851,
+              38.008
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Pyongyang, North Korea",
+        "url": "https://spacefromspace.com/declassified-satellite-images/pyongyang-north-korea-19731226-dzb1207500113l022001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/pyongyang-north-korea-1973-declassified-spy-satellite-kh9-hexagon-mapping-DZB1207-500113L022001.jpg",
+        "entity_id": "DZB1207-500113L022001",
+        "dataset": "DECLASSII",
+        "slug": "pyongyang-north-korea-19731226-dzb1207500113l022001",
+        "date": "1973-12-26",
+        "country": "KP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.452,
+              29.521
+            ],
+            [
+              114.676,
+              29.39
+            ],
+            [
+              115.001,
+              31.519
+            ],
+            [
+              113.749,
+              31.657
+            ],
+            [
+              113.452,
+              29.521
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Wuhan, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/wuhan-china-19751217-dzb1211500047l005001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/wuhan-china-1975-declassified-spy-satellite-kh9-hexagon-mapping-DZB1211-500047L005001.jpg",
+        "entity_id": "DZB1211-500047L005001",
+        "dataset": "DECLASSII",
+        "slug": "wuhan-china-19751217-dzb1211500047l005001",
+        "date": "1975-12-17",
+        "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.675,
+              37.487
+            ],
+            [
+              127.721,
+              37.355
+            ],
+            [
+              127.744,
+              37.519
+            ],
+            [
+              126.716,
+              37.648
+            ],
+            [
+              126.675,
+              37.487
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Seoul, South Korea",
+        "url": "https://spacefromspace.com/declassified-satellite-images/seoul-south-korea-19780514-d3c1214200518f003/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/seoul-south-korea-1978-declassified-spy-satellite-kh9-hexagon-D3C1214-200518F003.jpg",
+        "entity_id": "D3C1214-200518F003",
+        "dataset": "DECLASSIII",
+        "slug": "seoul-south-korea-19780514-d3c1214200518f003",
+        "date": "1978-05-14",
+        "country": "KR"
+      }
     }
   ]
 }
