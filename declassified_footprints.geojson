@@ -51282,6 +51282,46 @@
         "date": "1978-05-14",
         "country": "KR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -142.726,
+              59.861
+            ],
+            [
+              -135.279,
+              59.219
+            ],
+            [
+              -135.152,
+              59.401
+            ],
+            [
+              -142.881,
+              60.224
+            ],
+            [
+              -142.726,
+              59.861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Malaspina Galcier, Alaska, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/malaspina-galcier-alaska-usa-19721019-d3c1204100125a004/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/malaspina-glacier-alaska-1972-declassified-spy-satellite-kh9-hexagon-D3C1204-100125A004.jpg",
+        "entity_id": "D3C1204-100125A004",
+        "dataset": "DECLASSIII",
+        "slug": "malaspina-galcier-alaska-usa-19721019-d3c1204100125a004",
+        "date": "1972-10-19",
+        "country": "CA"
+      }
     }
   ]
 }
