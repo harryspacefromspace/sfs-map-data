@@ -51410,6 +51410,86 @@
         "date": "1976-01-12",
         "country": "TW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.482,
+              22.2
+            ],
+            [
+              113.665,
+              22.182
+            ],
+            [
+              113.715,
+              22.5
+            ],
+            [
+              113.532,
+              22.532
+            ],
+            [
+              113.482,
+              22.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Zhuhai, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/zhuhai-china-19660921-dzb00403200070h014001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/zhuhai-china-1966-declassified-spy-satellite-kh7-gambit-DZB00403200070H014001.jpg",
+        "entity_id": "DZB00403200070H014001",
+        "dataset": "DECLASSII",
+        "slug": "zhuhai-china-19660921-dzb00403200070h014001",
+        "date": "1966-09-21",
+        "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.382,
+              18.05
+            ],
+            [
+              109.6,
+              18.015
+            ],
+            [
+              109.632,
+              18.382
+            ],
+            [
+              109.415,
+              18.4
+            ],
+            [
+              109.382,
+              18.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sanya, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sanya-china-19670526-dzb00403700054h025001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sanya-china-1967-declassified-spy-satellite-kh7-gambit-DZB00403700054H025001.jpg",
+        "entity_id": "DZB00403700054H025001",
+        "dataset": "DECLASSII",
+        "slug": "sanya-china-19670526-dzb00403700054h025001",
+        "date": "1967-05-26",
+        "country": "CN"
+      }
     }
   ]
 }
