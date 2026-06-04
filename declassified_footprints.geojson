@@ -51490,6 +51490,46 @@
         "date": "1967-05-26",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.22,
+              33.36
+            ],
+            [
+              -111.99,
+              33.31
+            ],
+            [
+              -111.86,
+              33.61
+            ],
+            [
+              -112.08,
+              33.67
+            ],
+            [
+              -112.22,
+              33.36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Phoenix, Arizona",
+        "url": "https://spacefromspace.com/declassified-satellite-images/phoenix-arizona-19670606-dzb00403800032h002001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/phoenix-arizona-usa-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403800032H002001",
+        "dataset": "DECLASSII",
+        "slug": "phoenix-arizona-19670606-dzb00403800032h002001",
+        "date": "1967-06-06",
+        "country": "US"
+      }
     }
   ]
 }
