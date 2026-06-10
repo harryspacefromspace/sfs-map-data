@@ -47890,11 +47890,11 @@
       },
       "properties": {
         "title": "Aral Sea",
-        "url": "https://spacefromspace.com/declassified-satellite-images/-1/",
+        "url": "https://spacefromspace.com/declassified-satellite-images/aral-sea-19620518-ds09034a038mc042-043/",
         "thumbnail": "https://media.spacefromspace.com/images/uploads/aral-sea-1962-declassified-spy-satellite-kh5-argon.jpg",
         "entity_id": "DS09034A038MC042",
         "dataset": "corona2",
-        "slug": "-1",
+        "slug": "aral-sea-19620518-ds09034a038mc042-043",
         "date": "1962-05-18",
         "country": "UZ"
       }
@@ -51641,6 +51641,46 @@
         "slug": "riyadh-saudi-arabia-19660424-dzb00402700073h023001",
         "date": "1966-04-24",
         "country": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.065,
+              15.282
+            ],
+            [
+              44.25,
+              15.215
+            ],
+            [
+              44.35,
+              15.465
+            ],
+            [
+              44.15,
+              15.532
+            ],
+            [
+              44.065,
+              15.282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sanaa, Yemen",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sanaa-yemen-19661211-dzb00403500089h013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sanaa-yemen-1966-declassified-spy-satellite-kh7-gambit_DZB00403500089H013001.jpg",
+        "entity_id": "DZB00403500089H013001",
+        "dataset": "DECLASSII",
+        "slug": "sanaa-yemen-19661211-dzb00403500089h013001",
+        "date": "1966-12-11",
+        "country": "YE"
       }
     }
   ]
