@@ -51602,6 +51602,46 @@
         "date": "1976-07-26",
         "country": "OM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.5,
+              24.482
+            ],
+            [
+              46.665,
+              24.382
+            ],
+            [
+              46.965,
+              24.815
+            ],
+            [
+              46.8,
+              24.915
+            ],
+            [
+              46.5,
+              24.482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Riyadh, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/riyadh-saudi-arabia-19660424-dzb00402700073h023001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/riyadh-saudi-arabia-1966-declassified-spy-satellite-kh7-gambit-DZB00402700073H023001.jpg",
+        "entity_id": "DZB00402700073H023001",
+        "dataset": "DECLASSII",
+        "slug": "riyadh-saudi-arabia-19660424-dzb00402700073h023001",
+        "date": "1966-04-24",
+        "country": "SA"
+      }
     }
   ]
 }
