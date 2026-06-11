@@ -51682,6 +51682,46 @@
         "date": "1966-12-11",
         "country": "YE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.215,
+              37.9
+            ],
+            [
+              114.565,
+              37.85
+            ],
+            [
+              114.65,
+              38.232
+            ],
+            [
+              114.3,
+              38.282
+            ],
+            [
+              114.215,
+              37.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Shijiazhuang, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/shijiazhuang-china-19660218-dzb00402500038h014001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/shijiazhuang-china-1966-declassified-spy-satellite-kh7-gambit-DZB00402500038H014001.jpg",
+        "entity_id": "DZB00402500038H014001",
+        "dataset": "DECLASSII",
+        "slug": "shijiazhuang-china-19660218-dzb00402500038h014001",
+        "date": "1966-02-18",
+        "country": "CN"
+      }
     }
   ]
 }
