@@ -51882,6 +51882,46 @@
         "date": "1967-02-05",
         "country": "SA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.15,
+              27.5
+            ],
+            [
+              85.332,
+              27.45
+            ],
+            [
+              85.45,
+              27.782
+            ],
+            [
+              85.265,
+              27.832
+            ],
+            [
+              85.15,
+              27.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kathmandu, Nepal",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kathmandu-nepal-19670205-dzb00403600039h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kathmandu-nepal-1967-declassified-spy-satellite-kh7-gambit-DZB00403600039H003001.jpg",
+        "entity_id": "DZB00403600039H003001",
+        "dataset": "DECLASSII",
+        "slug": "kathmandu-nepal-19670205-dzb00403600039h003001",
+        "date": "1967-02-05",
+        "country": "NP"
+      }
     }
   ]
 }
