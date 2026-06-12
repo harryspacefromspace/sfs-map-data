@@ -51722,6 +51722,166 @@
         "date": "1966-02-18",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.732,
+              14.65
+            ],
+            [
+              43.065,
+              14.582
+            ],
+            [
+              43.132,
+              15.015
+            ],
+            [
+              42.8,
+              15.065
+            ],
+            [
+              42.732,
+              14.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Al Hudaydah, Yemen",
+        "url": "https://spacefromspace.com/declassified-satellite-images/al-hudaydah-yemen-19650529-dzb00401800025h029001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/al-hudaydah-yemen-1965-declassified-spy-satellite-kh7-gambit-DZB00401800025H029001.jpg",
+        "entity_id": "DZB00401800025H029001",
+        "dataset": "DECLASSII",
+        "slug": "al-hudaydah-yemen-19650529-dzb00401800025h029001",
+        "date": "1965-05-29",
+        "country": "YE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.432,
+              53.215
+            ],
+            [
+              -9.115,
+              53.065
+            ],
+            [
+              -8.615,
+              53.432
+            ],
+            [
+              -8.932,
+              53.582
+            ],
+            [
+              -9.432,
+              53.215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Galway, Ireland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/galway-ireland-19660515-dzb00402800012h012001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/galway-ireland-1966-declassified-spy-satellite-kh7-gambit-dzb00402800012h012001.jpg",
+        "entity_id": "DZB00402800012H012001",
+        "dataset": "DECLASSII",
+        "slug": "galway-ireland-19660515-dzb00402800012h012001",
+        "date": "1966-05-15",
+        "country": "IE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.815,
+              30.632
+            ],
+            [
+              31.1,
+              30.6
+            ],
+            [
+              31.132,
+              30.85
+            ],
+            [
+              30.865,
+              30.882
+            ],
+            [
+              30.815,
+              30.632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tanta, Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tanta-egypt-19660922-dzb00403200090h015001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tanta-egypt-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403200090H015001",
+        "dataset": "DECLASSII",
+        "slug": "tanta-egypt-19660922-dzb00403200090h015001",
+        "date": "1966-09-22",
+        "country": "EG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.615,
+              21.3
+            ],
+            [
+              39.865,
+              21.232
+            ],
+            [
+              39.982,
+              21.565
+            ],
+            [
+              39.732,
+              21.65
+            ],
+            [
+              39.615,
+              21.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Makkah, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/makkah-saudi-arabia-19670205-dzb00403600041h015001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/makkah-saudi-arabia-1967-declassified-spy-satellite-kh7-gambit-DZB00403600041H015001.jpg",
+        "entity_id": "DZB00403600041H015001",
+        "dataset": "DECLASSII",
+        "slug": "makkah-saudi-arabia-19670205-dzb00403600041h015001",
+        "date": "1967-02-05",
+        "country": "SA"
+      }
     }
   ]
 }
