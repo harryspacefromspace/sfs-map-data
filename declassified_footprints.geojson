@@ -52018,6 +52018,46 @@
         "date": "1965-10-11",
         "country": "IN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -13.45,
+              8.4
+            ],
+            [
+              -13.15,
+              8.315
+            ],
+            [
+              -13.05,
+              8.682
+            ],
+            [
+              -13.35,
+              8.75
+            ],
+            [
+              -13.45,
+              8.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Freetown, Sierra Leone",
+        "url": "https://spacefromspace.com/declassified-satellite-images/freetown-sierra-leone-19660324-dzb00402600092h010001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/freetown-sierra-leone-1966-declassified-spy-satellite-kh7-gambit-DZB00402600092H010001.jpg",
+        "entity_id": "DZB00402600092H010001",
+        "dataset": "DECLASSII",
+        "slug": "freetown-sierra-leone-19660324-dzb00402600092h010001",
+        "date": "1966-03-24",
+        "country": "SL"
+      }
     }
   ]
 }
