@@ -52138,6 +52138,46 @@
         "date": "1965-03-15",
         "country": "SA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.674,
+              24.618
+            ],
+            [
+              51.899,
+              24.485
+            ],
+            [
+              52.211,
+              26.706
+            ],
+            [
+              50.968,
+              26.845
+            ],
+            [
+              50.674,
+              24.618
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Qatar",
+        "url": "https://spacefromspace.com/declassified-satellite-images/qatar-19780403-dzb1214500112l003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/qatar-1978-declassified-spy-satellite-kh9-hexagon-mapping-dzb1214-500112l003001.jpg",
+        "entity_id": "DZB1214-500112L003001",
+        "dataset": "DECLASSII",
+        "slug": "qatar-19780403-dzb1214500112l003001",
+        "date": "1978-04-03",
+        "country": "QA"
+      }
     }
   ]
 }
