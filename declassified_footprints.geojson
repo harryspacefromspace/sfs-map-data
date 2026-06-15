@@ -52178,6 +52178,126 @@
         "date": "1978-04-03",
         "country": "QA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.45,
+              25.132
+            ],
+            [
+              49.632,
+              25.082
+            ],
+            [
+              49.8,
+              25.615
+            ],
+            [
+              49.615,
+              25.665
+            ],
+            [
+              49.45,
+              25.132
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Al Hofuf, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/al-hofuf-saudi-arabia-19660322-dzb00402600057h016001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/al-hofuf-saudi-arabia-1966-declassified-spy-satellite-kh7-gambit-dzb00402600057h016001.jpg",
+        "entity_id": "DZB00402600057H016001",
+        "dataset": "DECLASSII",
+        "slug": "al-hofuf-saudi-arabia-19660322-dzb00402600057h016001",
+        "date": "1966-03-22",
+        "country": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.332,
+              25.165
+            ],
+            [
+              49.515,
+              25.132
+            ],
+            [
+              49.665,
+              25.665
+            ],
+            [
+              49.482,
+              25.7
+            ],
+            [
+              49.332,
+              25.165
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Al Hofuf, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/al-hofuf-saudi-arabia-19660322-dzb00402600057h017001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/al-hofuf-saudi-arabia-1966-declassified-spy-satellite-kh7-gambit-dzb00402600057h017001.jpg",
+        "entity_id": "DZB00402600057H017001",
+        "dataset": "DECLASSII",
+        "slug": "al-hofuf-saudi-arabia-19660322-dzb00402600057h017001",
+        "date": "1966-03-22",
+        "country": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.358,
+              28.203
+            ],
+            [
+              48.515,
+              28.113
+            ],
+            [
+              48.739,
+              30.147
+            ],
+            [
+              47.561,
+              30.243
+            ],
+            [
+              47.358,
+              28.203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kuwait",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kuwait-19740516-dzb1208500109l006001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kuwait-1974-declassified-spy-satellite-kh9-hexagon-mapping-dzb1208-500109l006001.jpg",
+        "entity_id": "DZB1208-500109L006001",
+        "dataset": "DECLASSII",
+        "slug": "kuwait-19740516-dzb1208500109l006001",
+        "date": "1974-05-16",
+        "country": "KW"
+      }
     }
   ]
 }
