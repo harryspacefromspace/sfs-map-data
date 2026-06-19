@@ -52298,6 +52298,46 @@
         "date": "1974-05-16",
         "country": "KW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              66.932,
+              36.615
+            ],
+            [
+              67.132,
+              36.565
+            ],
+            [
+              67.265,
+              36.815
+            ],
+            [
+              67.065,
+              36.882
+            ],
+            [
+              66.932,
+              36.615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Mazar-i-Sharif, Afghanistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/mazar-i-sharif-afghanistan-19670609-dzb00403800072h011001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/mazar-i-sharif-afghanistan-1967-declassified-spy-satellite-kh7-gambit-dzb00403800072h011001.jpg",
+        "entity_id": "DZB00403800072H011001",
+        "dataset": "DECLASSII",
+        "slug": "mazar-i-sharif-afghanistan-19670609-dzb00403800072h011001",
+        "date": "1967-06-09",
+        "country": "AF"
+      }
     }
   ]
 }
