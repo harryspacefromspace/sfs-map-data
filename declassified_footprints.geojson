@@ -52338,6 +52338,46 @@
         "date": "1967-06-09",
         "country": "AF"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              64.915,
+              36.882
+            ],
+            [
+              65.2,
+              36.782
+            ],
+            [
+              65.315,
+              37.032
+            ],
+            [
+              65.032,
+              37.115
+            ],
+            [
+              64.915,
+              36.882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Andkhoy, Afghanistan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/andkhoy-afghanistan-19670611-dzb00403800104h010001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/andkhoy-afghanistan-1967-declassified-spy-satellite-kh7-gambit-dzb00403800104h010001.jpg",
+        "entity_id": "DZB00403800104H010001",
+        "dataset": "DECLASSII",
+        "slug": "andkhoy-afghanistan-19670611-dzb00403800104h010001",
+        "date": "1967-06-11",
+        "country": "AF"
+      }
     }
   ]
 }
