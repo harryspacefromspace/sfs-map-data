@@ -52378,6 +52378,46 @@
         "date": "1967-06-11",
         "country": "AF"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.8,
+              44.282
+            ],
+            [
+              26.132,
+              44.25
+            ],
+            [
+              26.25,
+              44.65
+            ],
+            [
+              25.915,
+              44.7
+            ],
+            [
+              25.8,
+              44.282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bucharest, Romania",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bucharest-romania-19660712-dzb00403000026h017001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bucharest-romania-1966-declassified-spy-satellite-kh7-gambit-dzb00403000026h017001.jpg",
+        "entity_id": "DZB00403000026H017001",
+        "dataset": "DECLASSII",
+        "slug": "bucharest-romania-19660712-dzb00403000026h017001",
+        "date": "1966-07-12",
+        "country": "RO"
+      }
     }
   ]
 }
