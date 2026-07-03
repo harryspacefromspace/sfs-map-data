@@ -52418,6 +52418,46 @@
         "date": "1966-07-12",
         "country": "RO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.915,
+              30.7
+            ],
+            [
+              106.082,
+              30.632
+            ],
+            [
+              106.265,
+              30.932
+            ],
+            [
+              106.1,
+              31
+            ],
+            [
+              105.915,
+              30.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Nanchong, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/nanchong-china-19660520-dzb00402800087h020001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/nanchong-china-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402800087H020001",
+        "dataset": "DECLASSII",
+        "slug": "nanchong-china-19660520-dzb00402800087h020001",
+        "date": "1966-05-20",
+        "country": "CN"
+      }
     }
   ]
 }
