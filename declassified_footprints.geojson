@@ -52538,6 +52538,46 @@
         "date": "1966-07-15",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.115,
+              56.515
+            ],
+            [
+              32.415,
+              56.482
+            ],
+            [
+              32.55,
+              56.85
+            ],
+            [
+              32.232,
+              56.882
+            ],
+            [
+              32.115,
+              56.515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Andreapol, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/andreapol-russia-19651003-dzb00402200042h013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/andreapol-russia-1965-declassified-spy-satellite-kh7-gambit-dzb00402200042h013001.jpg",
+        "entity_id": "DZB00402200042H013001",
+        "dataset": "DECLASSII",
+        "slug": "andreapol-russia-19651003-dzb00402200042h013001",
+        "date": "1965-10-03",
+        "country": "RU"
+      }
     }
   ]
 }
