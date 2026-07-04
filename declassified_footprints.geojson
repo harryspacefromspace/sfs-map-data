@@ -52498,6 +52498,46 @@
         "date": "1965-08-23",
         "country": "KP"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.05,
+              -7.465
+            ],
+            [
+              108.3,
+              -7.5
+            ],
+            [
+              108.365,
+              -7.1
+            ],
+            [
+              108.115,
+              -7.065
+            ],
+            [
+              108.05,
+              -7.465
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tasikmalaya, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tasikmalaya-indonesia-19660715-dzb00403000038h019001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tasikmalaya-indonesia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403000038H019001",
+        "dataset": "DECLASSII",
+        "slug": "tasikmalaya-indonesia-19660715-dzb00403000038h019001",
+        "date": "1966-07-15",
+        "country": "ID"
+      }
     }
   ]
 }
