@@ -52618,6 +52618,46 @@
         "date": "1966-05-17",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.65,
+              33.882
+            ],
+            [
+              74.9,
+              33.85
+            ],
+            [
+              74.982,
+              34.265
+            ],
+            [
+              74.732,
+              34.3
+            ],
+            [
+              74.65,
+              33.882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Srinagar, India",
+        "url": "https://spacefromspace.com/declassified-satellite-images/srinagar-india-19650502-dzb00401700056h013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/srinagar-india-1965-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00401700056H013001",
+        "dataset": "DECLASSII",
+        "slug": "srinagar-india-19650502-dzb00401700056h013001",
+        "date": "1965-05-02",
+        "country": "IN"
+      }
     }
   ]
 }
