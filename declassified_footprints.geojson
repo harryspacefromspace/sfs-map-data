@@ -52578,6 +52578,46 @@
         "date": "1965-10-03",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.915,
+              59.815
+            ],
+            [
+              30.115,
+              59.715
+            ],
+            [
+              30.7,
+              60
+            ],
+            [
+              30.5,
+              60.1
+            ],
+            [
+              29.915,
+              59.815
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Saint Petersburg, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/saint-petersburg-russia-19660517-dzb00402800043h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/saint-petersburg-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00402800043h009001.jpg",
+        "entity_id": "DZB00402800043H009001",
+        "dataset": "DECLASSII",
+        "slug": "saint-petersburg-russia-19660517-dzb00402800043h009001",
+        "date": "1966-05-17",
+        "country": "RU"
+      }
     }
   ]
 }
