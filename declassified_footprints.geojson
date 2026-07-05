@@ -52658,6 +52658,46 @@
         "date": "1965-05-02",
         "country": "IN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.165,
+              31.682
+            ],
+            [
+              117.4,
+              31.65
+            ],
+            [
+              117.482,
+              32.032
+            ],
+            [
+              117.25,
+              32.065
+            ],
+            [
+              117.165,
+              31.682
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Hefei, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/hefei-china-19660719-dzb00403000103h012001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/hefei-china-1966-declassified-spy-satellite-kh7-gambit-dzb00403000103h012001.jpg",
+        "entity_id": "DZB00403000103H012001",
+        "dataset": "DECLASSII",
+        "slug": "hefei-china-19660719-dzb00403000103h012001",
+        "date": "1966-07-19",
+        "country": "CN"
+      }
     }
   ]
 }
