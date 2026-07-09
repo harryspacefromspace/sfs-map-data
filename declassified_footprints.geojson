@@ -52698,6 +52698,126 @@
         "date": "1966-07-19",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.933,
+              12.75
+            ],
+            [
+              80.716,
+              13.35
+            ],
+            [
+              80.7,
+              13.533
+            ],
+            [
+              77.866,
+              12.916
+            ],
+            [
+              77.933,
+              12.75
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chennai, India",
+        "url": "https://spacefromspace.com/declassified-satellite-images/chennai-india-19651009/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chennai-india-1965-declassified-spy-satellite-kh4a-corona-ds1025-1055da137_140.jpg",
+        "entity_id": "DS1025-1055DA137",
+        "dataset": "corona2",
+        "slug": "chennai-india-19651009",
+        "date": "1965-10-09",
+        "country": "IN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.95,
+              51.45
+            ],
+            [
+              14.2,
+              51.415
+            ],
+            [
+              14.315,
+              51.782
+            ],
+            [
+              14.065,
+              51.815
+            ],
+            [
+              13.95,
+              51.45
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lusatian Lake District, Germany",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lusatian-lake-district-germany-19651004-dzb00402200059h005001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/lusatian-lake-district-germany-1965-declassified-spy-satellite-kh7-gambit-dzb00402200059h005001.jpg",
+        "entity_id": "DZB00402200059H005001",
+        "dataset": "DECLASSII",
+        "slug": "lusatian-lake-district-germany-19651004-dzb00402200059h005001",
+        "date": "1965-10-04",
+        "country": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.415,
+              26.582
+            ],
+            [
+              112.8,
+              26.55
+            ],
+            [
+              112.85,
+              27.082
+            ],
+            [
+              112.482,
+              27.115
+            ],
+            [
+              112.415,
+              26.582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Hengyang, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/hengyang-china-19670526-dzb00403700054h018001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/hengyang-china-1967-declassified-spy-satellite-kh7-gambit-dzb00403700054h018001.jpg",
+        "entity_id": "DZB00403700054H018001",
+        "dataset": "DECLASSII",
+        "slug": "hengyang-china-19670526-dzb00403700054h018001",
+        "date": "1967-05-26",
+        "country": "CN"
+      }
     }
   ]
 }
