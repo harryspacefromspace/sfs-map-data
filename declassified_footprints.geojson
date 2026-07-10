@@ -52818,6 +52818,46 @@
         "date": "1967-05-26",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.693,
+              21.451
+            ],
+            [
+              35.957,
+              22.245
+            ],
+            [
+              34.947,
+              27.175
+            ],
+            [
+              30.523,
+              26.35
+            ],
+            [
+              31.693,
+              21.451
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Egypt",
+        "url": "https://spacefromspace.com/declassified-satellite-images/egypt-19620517-ds09034a024mc055/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/egypt-1962-declassified-spy-satellite-kh5-argon-ds09034a024mc055.jpg",
+        "entity_id": "DS09034A024MC055",
+        "dataset": "corona2",
+        "slug": "egypt-19620517-ds09034a024mc055",
+        "date": "1962-05-17",
+        "country": "EG"
+      }
     }
   ]
 }
