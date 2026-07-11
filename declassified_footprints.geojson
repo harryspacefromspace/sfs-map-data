@@ -52858,6 +52858,46 @@
         "date": "1962-05-17",
         "country": "EG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.968,
+              29.668
+            ],
+            [
+              122.276,
+              29.525
+            ],
+            [
+              122.629,
+              31.792
+            ],
+            [
+              121.294,
+              31.941
+            ],
+            [
+              120.968,
+              29.668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Greater Shanghai and North Zhejiang, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/greater-shanghai-and-north-zhejiang-china-19800912-dzb1216500341l003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/shanghai-zhejiang-china-1980-declassified-spy-satellite-kh9-hexagon-mapping-dzb1216-500341l003001.jpg",
+        "entity_id": "DZB1216-500341L003001",
+        "dataset": "DECLASSII",
+        "slug": "greater-shanghai-and-north-zhejiang-china-19800912-dzb1216500341l003001",
+        "date": "1980-09-12",
+        "country": "CN"
+      }
     }
   ]
 }
