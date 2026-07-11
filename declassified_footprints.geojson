@@ -52898,6 +52898,46 @@
         "date": "1980-09-12",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.725,
+              53.991
+            ],
+            [
+              62.657,
+              53.776
+            ],
+            [
+              63.482,
+              56.041
+            ],
+            [
+              61.448,
+              56.27
+            ],
+            [
+              60.725,
+              53.991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chelyabinsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/chelyabinsk-russia-19800912-dzb1216500342l002001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chelyabinsk-russia-1980-declassified-spy-satellite-kh9-hexagon-mapping-dzb1216-500342l002001.jpg",
+        "entity_id": "DZB1216-500342L002001",
+        "dataset": "DECLASSII",
+        "slug": "chelyabinsk-russia-19800912-dzb1216500342l002001",
+        "date": "1980-09-12",
+        "country": "RU"
+      }
     }
   ]
 }
