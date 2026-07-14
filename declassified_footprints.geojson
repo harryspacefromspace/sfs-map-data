@@ -53058,6 +53058,46 @@
         "date": "1966-07-16",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.581,
+              34.701
+            ],
+            [
+              135.973,
+              34.6
+            ],
+            [
+              135.986,
+              34.765
+            ],
+            [
+              134.558,
+              34.934
+            ],
+            [
+              134.581,
+              34.701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Osaka, Japan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/osaka-japan-19790422-d3c1215200297a005/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/osaka-japan-1979-declassified-spy-satellite-kh9-hexagon-d3c1215-200297a005.jpg",
+        "entity_id": "D3C1215-200297A005",
+        "dataset": "DECLASSIII",
+        "slug": "osaka-japan-19790422-d3c1215200297a005",
+        "date": "1979-04-22",
+        "country": "JP"
+      }
     }
   ]
 }
