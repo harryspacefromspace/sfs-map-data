@@ -52938,6 +52938,46 @@
         "date": "1980-09-12",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.633,
+              39.377
+            ],
+            [
+              91.081,
+              39.219
+            ],
+            [
+              91.53,
+              41.451
+            ],
+            [
+              90.038,
+              41.619
+            ],
+            [
+              89.633,
+              39.377
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lop Nur, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lop-nur-china-19790505-dzb1215500243l006001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/lop-nur-china-1979-declassified-spy-satellite-kh9-mapping-hexagon-dzb1215-500243l006001.jpg",
+        "entity_id": "DZB1215-500243L006001",
+        "dataset": "DECLASSII",
+        "slug": "lop-nur-china-19790505-dzb1215500243l006001",
+        "date": "1979-05-05",
+        "country": "CN"
+      }
     }
   ]
 }
