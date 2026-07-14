@@ -52978,6 +52978,46 @@
         "date": "1979-05-05",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.2,
+              35.35
+            ],
+            [
+              44.432,
+              35.315
+            ],
+            [
+              44.515,
+              35.682
+            ],
+            [
+              44.282,
+              35.715
+            ],
+            [
+              44.2,
+              35.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kirkuk, Iraq",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kirkuk-iraq-19650529-dzb00401800025h024001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kirkuk-iraq-1965-declassified-spy-satellite-kh7-gambit-dzb00401800025h024001.jpg",
+        "entity_id": "DZB00401800025H024001",
+        "dataset": "DECLASSII",
+        "slug": "kirkuk-iraq-19650529-dzb00401800025h024001",
+        "date": "1965-05-29",
+        "country": "IQ"
+      }
     }
   ]
 }
