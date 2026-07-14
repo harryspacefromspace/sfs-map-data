@@ -53018,6 +53018,46 @@
         "date": "1965-05-29",
         "country": "IQ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.065,
+              55.55
+            ],
+            [
+              37.482,
+              55.515
+            ],
+            [
+              37.65,
+              56.015
+            ],
+            [
+              37.232,
+              56.05
+            ],
+            [
+              37.065,
+              55.55
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Moscow, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/moscow-russia-19660716-dzb00403000058h015001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/moscow-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00403000058h015001.jpg",
+        "entity_id": "DZB00403000058H015001",
+        "dataset": "DECLASSII",
+        "slug": "moscow-russia-19660716-dzb00403000058h015001",
+        "date": "1966-07-16",
+        "country": "RU"
+      }
     }
   ]
 }
