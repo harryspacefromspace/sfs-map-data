@@ -53218,6 +53218,46 @@
         "date": "1963-10-26",
         "country": "MX"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38.292,
+              21.501
+            ],
+            [
+              40.44,
+              21.251
+            ],
+            [
+              40.513,
+              21.478
+            ],
+            [
+              38.302,
+              21.67
+            ],
+            [
+              38.292,
+              21.501
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Jeddah & Makkah, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/jeddah-makkah-saudi-arabia-19831118-d3c1218300963a043/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/jeddah-makkah-saudi-arabia-1983-declassified-spy-satellite-kh9-hexagon-d3c1218-300963a043.jpg",
+        "entity_id": "D3C1218-300963A043",
+        "dataset": "DECLASSIII",
+        "slug": "jeddah-makkah-saudi-arabia-19831118-d3c1218300963a043",
+        "date": "1983-11-18",
+        "country": "SA"
+      }
     }
   ]
 }
