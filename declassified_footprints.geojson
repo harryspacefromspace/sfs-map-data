@@ -53138,6 +53138,46 @@
         "date": "1980-07-27",
         "country": "AE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.7,
+              49.932
+            ],
+            [
+              20.015,
+              49.882
+            ],
+            [
+              20.115,
+              50.265
+            ],
+            [
+              19.782,
+              50.3
+            ],
+            [
+              19.7,
+              49.932
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kraków, Poland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/krakow-poland-19651001-dzb00402200010h020001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/krakow-poland-1965-declassified-spy-satellite-kh7-gambit-dzb00402200010h020001.jpg",
+        "entity_id": "DZB00402200010H020001",
+        "dataset": "DECLASSII",
+        "slug": "krakow-poland-19651001-dzb00402200010h020001",
+        "date": "1965-10-01",
+        "country": "PL"
+      }
     }
   ]
 }
