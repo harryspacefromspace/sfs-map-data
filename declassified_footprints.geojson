@@ -53178,6 +53178,46 @@
         "date": "1965-10-01",
         "country": "PL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.69,
+              31.6
+            ],
+            [
+              -116.48,
+              31.55
+            ],
+            [
+              -116.35,
+              31.97
+            ],
+            [
+              -116.57,
+              32.01
+            ],
+            [
+              -116.69,
+              31.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ensenada, Mexico",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ensenada-mexico-19631026-dzb00400300016h012001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ensenada-mexico-1963-declassified-spy-satellite-kh7-gambit-dzb00400300016h012001.jpg",
+        "entity_id": "DZB00400300016H012001",
+        "dataset": "DECLASSII",
+        "slug": "ensenada-mexico-19631026-dzb00400300016h012001",
+        "date": "1963-10-26",
+        "country": "MX"
+      }
     }
   ]
 }
