@@ -53098,6 +53098,46 @@
         "date": "1979-04-22",
         "country": "JP"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.46985023420107,
+              26.623610492115606
+            ],
+            [
+              54.916234224382656,
+              23.576169248794947
+            ],
+            [
+              56.22537923533617,
+              23.378662879389605
+            ],
+            [
+              56.77899524515458,
+              26.430948101338625
+            ],
+            [
+              55.46985023420107,
+              26.623610492115606
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "UAE & Oman",
+        "url": "https://spacefromspace.com/declassified-satellite-images/uae-oman-1980-07-27/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/uae-oman-1980-declassified-spy-satellite-kh9-hexagon-dzb1216-500215l011001.jpg",
+        "entity_id": "DZB1216-500215L011001",
+        "dataset": "DECLASSII",
+        "slug": "uae-oman-1980-07-27",
+        "date": "1980-07-27",
+        "country": "AE"
+      }
     }
   ]
 }
