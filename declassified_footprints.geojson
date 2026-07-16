@@ -53258,6 +53258,46 @@
         "date": "1983-11-18",
         "country": "SA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.132,
+              35.55
+            ],
+            [
+              51.35,
+              35.532
+            ],
+            [
+              51.382,
+              35.782
+            ],
+            [
+              51.165,
+              35.8
+            ],
+            [
+              51.132,
+              35.55
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tehran, Iran",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tehran-iran-19670528-dzb00403700089h012001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tehran-iran-1967-declassified-spy-satellite-kh7-gambit-dzb00403700089h012001.jpg",
+        "entity_id": "DZB00403700089H012001",
+        "dataset": "DECLASSII",
+        "slug": "tehran-iran-19670528-dzb00403700089h012001",
+        "date": "1967-05-28",
+        "country": "IR"
+      }
     }
   ]
 }
