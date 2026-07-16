@@ -53298,6 +53298,46 @@
         "date": "1967-05-28",
         "country": "IR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.95,
+              32.65
+            ],
+            [
+              13.2,
+              32.615
+            ],
+            [
+              13.3,
+              33.132
+            ],
+            [
+              13.05,
+              33.165
+            ],
+            [
+              12.95,
+              32.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tripoli, Libya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tripoli-libya-19660220-dzb00402500075h027001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tripoli-libya-1966-declassified-spy-satellite-kh7-gambit-dzb00402500075h027001.jpg",
+        "entity_id": "DZB00402500075H027001",
+        "dataset": "DECLASSII",
+        "slug": "tripoli-libya-19660220-dzb00402500075h027001",
+        "date": "1966-02-20",
+        "country": "LY"
+      }
     }
   ]
 }
