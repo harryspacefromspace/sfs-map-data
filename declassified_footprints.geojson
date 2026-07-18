@@ -53338,6 +53338,46 @@
         "date": "1966-02-20",
         "country": "LY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.99,
+              59.05
+            ],
+            [
+              49.32,
+              59.02
+            ],
+            [
+              49.49,
+              59.56
+            ],
+            [
+              49.16,
+              59.58
+            ],
+            [
+              48.99,
+              59.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Yurya, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/yurya-russia-19660121-dzb00402400025h001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/yurya-icbm-complex-russia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402400025H001001",
+        "dataset": "DECLASSII",
+        "slug": "yurya-russia-19660121-dzb00402400025h001001",
+        "date": "1966-01-21",
+        "country": "RU"
+      }
     }
   ]
 }
