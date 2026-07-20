@@ -53378,6 +53378,46 @@
         "date": "1966-01-21",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.815,
+              57.665
+            ],
+            [
+              41.9,
+              57.232
+            ],
+            [
+              42.382,
+              57.25
+            ],
+            [
+              42.315,
+              57.682
+            ],
+            [
+              41.815,
+              57.665
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kineshma, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kineshma-russia-19660606-dzb00402900041h007001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kineshma-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00402900041h007001.jpg",
+        "entity_id": "DZB00402900041H007001",
+        "dataset": "DECLASSII",
+        "slug": "kineshma-russia-19660606-dzb00402900041h007001",
+        "date": "1966-06-06",
+        "country": "RU"
+      }
     }
   ]
 }
