@@ -53418,6 +53418,46 @@
         "date": "1966-06-06",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.665,
+              69.4
+            ],
+            [
+              87.75,
+              69.25
+            ],
+            [
+              88.815,
+              69.3
+            ],
+            [
+              88.732,
+              69.465
+            ],
+            [
+              87.665,
+              69.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Norilsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/norilsk-russia-19660516-dzb00402800026h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/norilsk-russia-1966-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00402800026H003001",
+        "dataset": "DECLASSII",
+        "slug": "norilsk-russia-19660516-dzb00402800026h003001",
+        "date": "1966-05-16",
+        "country": "RU"
+      }
     }
   ]
 }
