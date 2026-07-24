@@ -53498,6 +53498,46 @@
         "date": "1966-07-19",
         "country": "DE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.72,
+              42.96
+            ],
+            [
+              132.09,
+              42.88
+            ],
+            [
+              132.42,
+              43.52
+            ],
+            [
+              132.04,
+              43.6
+            ],
+            [
+              131.72,
+              42.96
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Vladivostok, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/vladivostok-russia-19670210-dzb00403600118h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/vladivostok-russia-1967-declassified-spy-satellite-kh7-gambit-dzb00403600118h004001.jpg",
+        "entity_id": "DZB00403600118H004001",
+        "dataset": "DECLASSII",
+        "slug": "vladivostok-russia-19670210-dzb00403600118h004001",
+        "date": "1967-02-10",
+        "country": "RU"
+      }
     }
   ]
 }
