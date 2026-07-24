@@ -53458,6 +53458,46 @@
         "date": "1966-05-16",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.865,
+              53.965
+            ],
+            [
+              12.182,
+              53.915
+            ],
+            [
+              12.282,
+              54.2
+            ],
+            [
+              11.982,
+              54.25
+            ],
+            [
+              11.865,
+              53.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Rostock, Germany",
+        "url": "https://spacefromspace.com/declassified-satellite-images/rostock-germany-19660719-dzc00403000108h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/rostock-germany-1966-declassified-spy-satellite-kh7-gambit-dzc00403000108h004001.jpg",
+        "entity_id": "DZC00403000108H004001",
+        "dataset": "DECLASSII",
+        "slug": "rostock-germany-19660719-dzc00403000108h004001",
+        "date": "1966-07-19",
+        "country": "DE"
+      }
     }
   ]
 }
