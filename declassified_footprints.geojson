@@ -53538,6 +53538,46 @@
         "date": "1967-02-10",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.6,
+              48.5
+            ],
+            [
+              45.882,
+              48.5
+            ],
+            [
+              45.865,
+              48.982
+            ],
+            [
+              45.582,
+              48.982
+            ],
+            [
+              45.6,
+              48.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kapustin Yar, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kapustin-yar-russia-19660606-dzb00402900041h015001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kapustin-yar-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00402900041h015001.jpg",
+        "entity_id": "DZB00402900041H015001",
+        "dataset": "DECLASSII",
+        "slug": "kapustin-yar-russia-19660606-dzb00402900041h015001",
+        "date": "1966-06-06",
+        "country": "RU"
+      }
     }
   ]
 }
