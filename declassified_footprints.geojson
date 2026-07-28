@@ -53618,6 +53618,46 @@
         "date": "1965-03-13",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.05,
+              71.465
+            ],
+            [
+              52.732,
+              71.45
+            ],
+            [
+              52.865,
+              71.815
+            ],
+            [
+              52.165,
+              71.832
+            ],
+            [
+              52.05,
+              71.465
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Belushya Guba, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/belushya-guba-russia-19661015-dzb00403300041h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/belushya-guba-rogachevo-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00403300041h004001.jpg",
+        "entity_id": "DZB00403300041H004001",
+        "dataset": "DECLASSII",
+        "slug": "belushya-guba-russia-19661015-dzb00403300041h004001",
+        "date": "1966-10-15",
+        "country": "RU"
+      }
     }
   ]
 }
