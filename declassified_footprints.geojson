@@ -53658,6 +53658,46 @@
         "date": "1966-10-15",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5,
+              -7.11
+            ],
+            [
+              107.7,
+              -7.09
+            ],
+            [
+              107.78,
+              -6.31
+            ],
+            [
+              107.58,
+              -6.34
+            ],
+            [
+              107.5,
+              -7.11
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bandung, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bandung-indonesia-19660822-dzb00403100086h020002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bandung-indonesia-1966-declassified-spy-satellite-kh7-gambit-dzb00403100086h020002.jpg",
+        "entity_id": "DZB00403100086H020002",
+        "dataset": "DECLASSII",
+        "slug": "bandung-indonesia-19660822-dzb00403100086h020002",
+        "date": "1966-08-22",
+        "country": "ID"
+      }
     }
   ]
 }
