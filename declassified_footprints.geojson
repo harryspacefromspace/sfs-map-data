@@ -53578,6 +53578,46 @@
         "date": "1966-06-06",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.132,
+              73.732
+            ],
+            [
+              109.35,
+              73.415
+            ],
+            [
+              110.565,
+              73.482
+            ],
+            [
+              110.4,
+              73.8
+            ],
+            [
+              109.132,
+              73.732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Cape Kosisty, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/cape-kosisty-russia-19650313-dzb00401600009h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/cape-kosisty-russia-1965-declassified-spy-satellite-kh7-gambit-dzb00401600009h003001.jpg",
+        "entity_id": "DZB00401600009H003001",
+        "dataset": "DECLASSII",
+        "slug": "cape-kosisty-russia-19650313-dzb00401600009h003001",
+        "date": "1965-03-13",
+        "country": "RU"
+      }
     }
   ]
 }
