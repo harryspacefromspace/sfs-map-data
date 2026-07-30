@@ -53698,6 +53698,46 @@
         "date": "1966-08-22",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.019,
+              42.909
+            ],
+            [
+              48.345,
+              42.769
+            ],
+            [
+              48.384,
+              42.938
+            ],
+            [
+              47.088,
+              43.103
+            ],
+            [
+              47.019,
+              42.909
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Makhachkala, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/makhachkala-russia-19831028-d3c1218200818f007/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/makhachkala-russia-1983-declassified-spy-satellite-kh9-hexagon-d3c1218-200818f007.jpg",
+        "entity_id": "D3C1218-200818F007",
+        "dataset": "DECLASSIII",
+        "slug": "makhachkala-russia-19831028-d3c1218200818f007",
+        "date": "1983-10-28",
+        "country": "RU"
+      }
     }
   ]
 }
