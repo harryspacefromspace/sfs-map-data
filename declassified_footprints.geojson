@@ -53778,6 +53778,46 @@
         "date": "1967-06-07",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              160.595,
+              68.994
+            ],
+            [
+              161.858,
+              69.506
+            ],
+            [
+              161.581,
+              69.586
+            ],
+            [
+              160.342,
+              69.083
+            ],
+            [
+              160.595,
+              68.994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Aspidnoye Air Base, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/aspidnoye-air-base-russia-19630731-ds008003002dv021/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/aspidnoye-air-base-russia-1963-declassified-spy-satellite-kh6-lanyard-ds008003002dv021.jpg",
+        "entity_id": "DS008003002DV021",
+        "dataset": "corona2",
+        "slug": "aspidnoye-air-base-russia-19630731-ds008003002dv021",
+        "date": "1963-07-31",
+        "country": "RU"
+      }
     }
   ]
 }
