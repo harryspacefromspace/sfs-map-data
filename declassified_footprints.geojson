@@ -53738,6 +53738,46 @@
         "date": "1983-10-28",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.082,
+              71.65
+            ],
+            [
+              128.682,
+              71.432
+            ],
+            [
+              129.532,
+              71.665
+            ],
+            [
+              128.95,
+              71.882
+            ],
+            [
+              128.082,
+              71.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tiksi, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tiksi-russia-19670607-dzb00403800039h001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tiksi-russia-1967-declassified-spy-satellite-kh7-gambit-dzb00403800039h001001.jpg",
+        "entity_id": "DZB00403800039H001001",
+        "dataset": "DECLASSII",
+        "slug": "tiksi-russia-19670607-dzb00403800039h001001",
+        "date": "1967-06-07",
+        "country": "RU"
+      }
     }
   ]
 }
