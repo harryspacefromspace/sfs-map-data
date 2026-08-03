@@ -53858,6 +53858,86 @@
         "date": "1963-07-31",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.516,
+              71.434
+            ],
+            [
+              129.659,
+              71.994
+            ],
+            [
+              129.335,
+              72.061
+            ],
+            [
+              128.197,
+              71.499
+            ],
+            [
+              128.516,
+              71.434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tiksi, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tiksi-russia-19630731-ds008003003dv008/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tiksi-russia-1963-declassified-spy-satellite-kh6-lanyard-ds008003003dv008.jpg",
+        "entity_id": "DS008003003DV008",
+        "dataset": "corona2",
+        "slug": "tiksi-russia-19630731-ds008003003dv008",
+        "date": "1963-07-31",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.384,
+              51.868
+            ],
+            [
+              48.275,
+              52.155
+            ],
+            [
+              48.183,
+              52.256
+            ],
+            [
+              47.307,
+              51.973
+            ],
+            [
+              47.384,
+              51.868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Balakovo, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/balakovo-russia-19630731-ds008003008dv056/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/balakovo-russia-1963-declassified-spy-satellite-kh6-lanyard-ds008003008dv056.jpg",
+        "entity_id": "DS008003008DV056",
+        "dataset": "corona2",
+        "slug": "balakovo-russia-19630731-ds008003008dv056",
+        "date": "1963-07-31",
+        "country": "RU"
+      }
     }
   ]
 }
