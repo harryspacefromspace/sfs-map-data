@@ -53978,6 +53978,46 @@
         "date": "1966-05-19",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.365,
+              52.1
+            ],
+            [
+              11.665,
+              51.95
+            ],
+            [
+              12.032,
+              52.232
+            ],
+            [
+              11.715,
+              52.382
+            ],
+            [
+              11.365,
+              52.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Magdeburg, Germany",
+        "url": "https://spacefromspace.com/declassified-satellite-images/magdeburg-germany-19660515-dzb00402800011h017001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/magdeburg-germany-1966-declassified-spy-satellite-kh7-gambit-dzb00402800011h017001.jpg",
+        "entity_id": "DZB00402800011H017001",
+        "dataset": "DECLASSII",
+        "slug": "magdeburg-germany-19660515-dzb00402800011h017001",
+        "date": "1966-05-15",
+        "country": "DE"
+      }
     }
   ]
 }
