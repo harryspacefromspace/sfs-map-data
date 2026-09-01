@@ -54018,6 +54018,46 @@
         "date": "1966-05-15",
         "country": "DE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.932,
+              55.682
+            ],
+            [
+              49.232,
+              55.682
+            ],
+            [
+              49.2,
+              56.115
+            ],
+            [
+              48.9,
+              56.115
+            ],
+            [
+              48.932,
+              55.682
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kazan, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kazan-russia-19660607-dzb00402900057h004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kazan-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00402900057h004001.jpg",
+        "entity_id": "DZB00402900057H004001",
+        "dataset": "DECLASSII",
+        "slug": "kazan-russia-19660607-dzb00402900057h004001",
+        "date": "1966-06-07",
+        "country": "RU"
+      }
     }
   ]
 }
