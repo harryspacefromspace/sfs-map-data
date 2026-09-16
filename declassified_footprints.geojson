@@ -54138,6 +54138,86 @@
         "date": "1962-05-30",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.1,
+              63.919
+            ],
+            [
+              44.463,
+              61.084
+            ],
+            [
+              45.096,
+              61.34
+            ],
+            [
+              36.448,
+              64.297
+            ],
+            [
+              36.1,
+              63.919
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Plesetsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/plesetsk-russia-19620418-ds009032003af058/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/plesetsk-russia-1962-declassified-spy-satellite-kh4-corona-ds009032003af058.jpg",
+        "entity_id": "DS009032003AF058",
+        "dataset": "corona2",
+        "slug": "plesetsk-russia-19620418-ds009032003af058",
+        "date": "1962-04-18",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.85,
+              29.15
+            ],
+            [
+              49.666,
+              29.45
+            ],
+            [
+              49.683,
+              29.616
+            ],
+            [
+              46.8,
+              29.3
+            ],
+            [
+              46.85,
+              29.15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kuwait City, Kuwait",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kuwait-city-kuwait-19680205-ds10452182da085/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kuwait-city-kuwait-1968-declassified-spy-satellite-kh4a-corona-ds1045-2182da085.jpg",
+        "entity_id": "DS1045-2182DA085",
+        "dataset": "corona2",
+        "slug": "kuwait-city-kuwait-19680205-ds10452182da085",
+        "date": "1968-02-05",
+        "country": "KW"
+      }
     }
   ]
 }
