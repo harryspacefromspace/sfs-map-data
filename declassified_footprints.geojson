@@ -54058,6 +54058,86 @@
         "date": "1966-06-07",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.75,
+              62.183
+            ],
+            [
+              46.8,
+              63.833
+            ],
+            [
+              46.566,
+              64.166
+            ],
+            [
+              37.433,
+              62.483
+            ],
+            [
+              37.75,
+              62.183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Plesetsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/plesetsk-russia-19601207-ds009013008dv010/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/plesetsk-russia-1960-declassified-spy-satellite-kh2-corona-ds009013008dv010.jpg",
+        "entity_id": "DS009013008DV010",
+        "dataset": "corona2",
+        "slug": "plesetsk-russia-19601207-ds009013008dv010",
+        "date": "1960-12-07",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.472,
+              63.979
+            ],
+            [
+              44.171,
+              61.516
+            ],
+            [
+              44.756,
+              61.758
+            ],
+            [
+              36.77,
+              64.311
+            ],
+            [
+              36.472,
+              63.979
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Plesetsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/plesetsk-russia-19620530-ds009035003af019/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/plesetsk-russia-1962-declassified-spy-satellite-kh4-corona-ds009035003af019.jpg",
+        "entity_id": "DS009035003AF019",
+        "dataset": "corona2",
+        "slug": "plesetsk-russia-19620530-ds009035003af019",
+        "date": "1962-05-30",
+        "country": "RU"
+      }
     }
   ]
 }
