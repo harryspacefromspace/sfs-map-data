@@ -54218,6 +54218,46 @@
         "date": "1968-02-05",
         "country": "KW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.53,
+              12.209
+            ],
+            [
+              109.43,
+              12.11
+            ],
+            [
+              109.47,
+              12.29
+            ],
+            [
+              108.55,
+              12.366
+            ],
+            [
+              108.53,
+              12.209
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Nha Trang, Vietnam",
+        "url": "https://spacefromspace.com/declassified-satellite-images/nha-trang-vietnam-19760229-d3c1211400588a002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/nha-trang-vietnam-1976-declassified-spy-satellite-kh9-hexagon-d3c1211-400588a002.jpg",
+        "entity_id": "D3C1211-400588A002",
+        "dataset": "DECLASSIII",
+        "slug": "nha-trang-vietnam-19760229-d3c1211400588a002",
+        "date": "1976-02-29",
+        "country": "VN"
+      }
     }
   ]
 }
