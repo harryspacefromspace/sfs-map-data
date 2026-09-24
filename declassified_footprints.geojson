@@ -54258,6 +54258,46 @@
         "date": "1976-02-29",
         "country": "VN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.837,
+              51.06
+            ],
+            [
+              7.853,
+              50.76
+            ],
+            [
+              7.912,
+              50.916
+            ],
+            [
+              4.825,
+              51.286
+            ],
+            [
+              4.837,
+              51.06
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Campine Region, Northeastern Belgium",
+        "url": "https://spacefromspace.com/declassified-satellite-images/campine-region-northeastern-belgium-19760825-d3c1212200429a018/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/campine-region-northeastern-belgium-1976-declassified-spy-satellite-kh9-hexagon-d3c1212-200429a018.jpg",
+        "entity_id": "D3C1212-200429A018",
+        "dataset": "DECLASSIII",
+        "slug": "campine-region-northeastern-belgium-19760825-d3c1212200429a018",
+        "date": "1976-08-25",
+        "country": "DE"
+      }
     }
   ]
 }
