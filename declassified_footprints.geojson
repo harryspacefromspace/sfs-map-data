@@ -54338,6 +54338,46 @@
         "date": "1966-02-18",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              111.482,
+              -2.8
+            ],
+            [
+              111.682,
+              -2.832
+            ],
+            [
+              111.715,
+              -2.432
+            ],
+            [
+              111.515,
+              -2.415
+            ],
+            [
+              111.482,
+              -2.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Pangkalan Bun, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/pangkalan-bun-indonesia-19670527-dzb00403700070h023001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/pangkalan-bun-indonesia-1967-declassified-spy-satellite-kh7-gambit-dzb00403700070h023001.jpg",
+        "entity_id": "DZB00403700070H023001",
+        "dataset": "DECLASSII",
+        "slug": "pangkalan-bun-indonesia-19670527-dzb00403700070h023001",
+        "date": "1967-05-27",
+        "country": "ID"
+      }
     }
   ]
 }
