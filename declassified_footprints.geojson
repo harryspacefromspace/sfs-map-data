@@ -54378,6 +54378,46 @@
         "date": "1967-05-27",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.641,
+              40.064
+            ],
+            [
+              -82.203,
+              39.743
+            ],
+            [
+              -82.105,
+              39.952
+            ],
+            [
+              -84.622,
+              40.222
+            ],
+            [
+              -84.641,
+              40.064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Columbus, Ohio, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/columbus-ohio-usa-19760818-d3c1212200364a018/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/columbus-ohio-usa-1976-declassified-spy-satellite-kh9-hexagon-d3c1212-200364a018.jpg",
+        "entity_id": "D3C1212-200364A018",
+        "dataset": "DECLASSIII",
+        "slug": "columbus-ohio-usa-19760818-d3c1212200364a018",
+        "date": "1976-08-18",
+        "country": "US"
+      }
     }
   ]
 }
