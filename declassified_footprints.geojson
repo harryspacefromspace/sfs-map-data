@@ -54418,6 +54418,46 @@
         "date": "1976-08-18",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.732,
+              40.215
+            ],
+            [
+              107.05,
+              40.132
+            ],
+            [
+              107.182,
+              40.4
+            ],
+            [
+              106.865,
+              40.5
+            ],
+            [
+              106.732,
+              40.215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dengkou County, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dengkou-county-china-19670209-dzb00403600103h003001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/dengkou-county-china-1967-declassified-spy-satellite-kh7-gambit-dzb00403600103h003001.jpg",
+        "entity_id": "DZB00403600103H003001",
+        "dataset": "DECLASSII",
+        "slug": "dengkou-county-china-19670209-dzb00403600103h003001",
+        "date": "1967-02-09",
+        "country": "CN"
+      }
     }
   ]
 }
