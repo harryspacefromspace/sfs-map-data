@@ -54458,6 +54458,46 @@
         "date": "1967-02-09",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.765,
+              -7.782
+            ],
+            [
+              108.982,
+              -7.882
+            ],
+            [
+              109.15,
+              -7.5
+            ],
+            [
+              108.95,
+              -7.415
+            ],
+            [
+              108.765,
+              -7.782
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Cilacap, Indonesia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/cilacap-indonesia-19660520-dzb00402800086h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/cilacap-indonesia-1966-declassified-spy-satellite-kh7-gambit-dzb00402800086h009001.jpg",
+        "entity_id": "DZB00402800086H009001",
+        "dataset": "DECLASSII",
+        "slug": "cilacap-indonesia-19660520-dzb00402800086h009001",
+        "date": "1966-05-20",
+        "country": "ID"
+      }
     }
   ]
 }
