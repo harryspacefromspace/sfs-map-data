@@ -54498,6 +54498,46 @@
         "date": "1966-05-20",
         "country": "ID"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.782,
+              55.5
+            ],
+            [
+              38.1,
+              55.35
+            ],
+            [
+              38.55,
+              55.665
+            ],
+            [
+              38.215,
+              55.815
+            ],
+            [
+              37.782,
+              55.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ramenskoye, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ramenskoye-russia-19660516-dzb00402800026h008001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ramenskoye-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00402800026h008001.jpg",
+        "entity_id": "DZB00402800026H008001",
+        "dataset": "DECLASSII",
+        "slug": "ramenskoye-russia-19660516-dzb00402800026h008001",
+        "date": "1966-05-16",
+        "country": "RU"
+      }
     }
   ]
 }
