@@ -54658,6 +54658,166 @@
         "date": "1982-06-29",
         "country": "CO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              161.215,
+              69.2
+            ],
+            [
+              161.915,
+              69.182
+            ],
+            [
+              161.982,
+              69.565
+            ],
+            [
+              161.265,
+              69.582
+            ],
+            [
+              161.215,
+              69.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Aspidnoye Air Base, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/aspidnoye-air-base-russia-19670526-dzb00403700068h001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/aspidnoye-air-base-russia-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403700068H001001",
+        "dataset": "DECLASSII",
+        "slug": "aspidnoye-air-base-russia-19670526-dzb00403700068h001001",
+        "date": "1967-05-26",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              161.182,
+              69.232
+            ],
+            [
+              161.882,
+              69.215
+            ],
+            [
+              161.932,
+              69.582
+            ],
+            [
+              161.232,
+              69.6
+            ],
+            [
+              161.182,
+              69.232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Aspidnoye Air Base, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/aspidnoye-air-base-russia-19670526-dzb00403700068h002001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/aspidnoye-air-base-russia-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403700068H002001",
+        "dataset": "DECLASSII",
+        "slug": "aspidnoye-air-base-russia-19670526-dzb00403700068h002001",
+        "date": "1967-05-26",
+        "country": "RU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.42,
+              38.75
+            ],
+            [
+              121.76,
+              38.79
+            ],
+            [
+              121.82,
+              39.4
+            ],
+            [
+              121.49,
+              39.37
+            ],
+            [
+              121.42,
+              38.75
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dalian, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/dalian-china-19670529-dzb00403700102h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/dalian-china-1967-declassified-spy-satellite-kh7-gambit-dzb00403700102h009001.jpg",
+        "entity_id": "DZB00403700102H009001",
+        "dataset": "DECLASSII",
+        "slug": "dalian-china-19670529-dzb00403700102h009001",
+        "date": "1967-05-29",
+        "country": "CN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.15,
+              41.3
+            ],
+            [
+              46.432,
+              41.215
+            ],
+            [
+              46.565,
+              41.45
+            ],
+            [
+              46.282,
+              41.532
+            ],
+            [
+              46.15,
+              41.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Shiraki Plain, Georgia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/shiraki-plain-georgia-19670606-dzb00403800025h014001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/shiraki-plain-georgia-1967-declassified-spy-satellite-kh7-gambit.jpg",
+        "entity_id": "DZB00403800025H014001",
+        "dataset": "DECLASSII",
+        "slug": "shiraki-plain-georgia-19670606-dzb00403800025h014001",
+        "date": "1967-06-06",
+        "country": "AZ"
+      }
     }
   ]
 }
