@@ -54618,6 +54618,46 @@
         "date": "1984-02-11",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.093,
+              10.813
+            ],
+            [
+              -70.777,
+              10.398
+            ],
+            [
+              -70.788,
+              10.636
+            ],
+            [
+              -74.019,
+              11.042
+            ],
+            [
+              -74.093,
+              10.813
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Maracaibo, Venezuela",
+        "url": "https://spacefromspace.com/declassified-satellite-images/maracaibo-venezuela-19820629-d3c1217200511f011/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/maracaibo-venezuela-1982-declassified-spy-satellite-kh9-hexagon.jpg",
+        "entity_id": "D3C1217-200511F011",
+        "dataset": "DECLASSIII",
+        "slug": "maracaibo-venezuela-19820629-d3c1217200511f011",
+        "date": "1982-06-29",
+        "country": "CO"
+      }
     }
   ]
 }
