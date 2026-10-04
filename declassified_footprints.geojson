@@ -54538,6 +54538,46 @@
         "date": "1966-05-16",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.4,
+              54.082
+            ],
+            [
+              37.7,
+              54.05
+            ],
+            [
+              37.8,
+              54.332
+            ],
+            [
+              37.5,
+              54.365
+            ],
+            [
+              37.4,
+              54.082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tula, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tula-russia-19660716-dzb00403000058h016001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tula-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00403000058h016001.jpg",
+        "entity_id": "DZB00403000058H016001",
+        "dataset": "DECLASSII",
+        "slug": "tula-russia-19660716-dzb00403000058h016001",
+        "date": "1966-07-16",
+        "country": "RU"
+      }
     }
   ]
 }
