@@ -55294,6 +55294,46 @@
         "date": "1962-11-24",
         "country": "CU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.55,
+              32.65
+            ],
+            [
+              21.75,
+              32.582
+            ],
+            [
+              21.882,
+              32.882
+            ],
+            [
+              21.682,
+              32.95
+            ],
+            [
+              21.55,
+              32.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Al Bayda, Libya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/al-bayda-libya-19670607-dzb00403800042h024001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/al-bayda-libya-1967-declassified-spy-satellite-kh7-gambit-dzb00403800042h024001.jpg",
+        "entity_id": "DZB00403800042H024001",
+        "dataset": "DECLASSII",
+        "slug": "al-bayda-libya-19670607-dzb00403800042h024001",
+        "date": "1967-06-07",
+        "country": "LY"
+      }
     }
   ]
 }
