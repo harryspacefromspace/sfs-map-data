@@ -55214,6 +55214,46 @@
         "date": "1967-06-06",
         "country": "AZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.883,
+              22.216
+            ],
+            [
+              -81.2,
+              23.5
+            ],
+            [
+              -81.35,
+              23.683
+            ],
+            [
+              -83.95,
+              22.45
+            ],
+            [
+              -83.883,
+              22.216
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Havana, Cuba",
+        "url": "https://spacefromspace.com/declassified-satellite-images/havana-cuba-19621124-ds009048046df010/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/havana-cuba-1962-declassified-spy-satellite-kh4-corona-ds009048046df010.jpg",
+        "entity_id": "DS009048046DF010",
+        "dataset": "corona2",
+        "slug": "havana-cuba-19621124-ds009048046df010",
+        "date": "1962-11-24",
+        "country": "CU"
+      }
     }
   ]
 }
