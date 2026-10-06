@@ -55334,6 +55334,46 @@
         "date": "1967-06-07",
         "country": "LY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.982,
+              36.732
+            ],
+            [
+              10.165,
+              36.632
+            ],
+            [
+              10.432,
+              36.915
+            ],
+            [
+              10.25,
+              37.015
+            ],
+            [
+              9.982,
+              36.732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Tunis, Tunisia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/tunis-tunisia-19660424-dzb00402700075h020001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/tunis-tunisia-1966-declassified-spy-satellite-kh7-gambit-dzb00402700075h020001.jpg",
+        "entity_id": "DZB00402700075H020001",
+        "dataset": "DECLASSII",
+        "slug": "tunis-tunisia-19660424-dzb00402700075h020001",
+        "date": "1966-04-24",
+        "country": "TN"
+      }
     }
   ]
 }
