@@ -55374,6 +55374,46 @@
         "date": "1966-04-24",
         "country": "TN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.182,
+              52.1
+            ],
+            [
+              104.465,
+              52.1
+            ],
+            [
+              104.5,
+              52.5
+            ],
+            [
+              104.232,
+              52.5
+            ],
+            [
+              104.182,
+              52.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Irkutsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/irkutsk-russia-19661018-dzb00403300087h002001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/irkutsk-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00403300087h002001.jpg",
+        "entity_id": "DZB00403300087H002001",
+        "dataset": "DECLASSII",
+        "slug": "irkutsk-russia-19661018-dzb00403300087h002001",
+        "date": "1966-10-18",
+        "country": "RU"
+      }
     }
   ]
 }
