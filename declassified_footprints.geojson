@@ -68498,6 +68498,46 @@
         "date": "1976-09-15",
         "country": "UA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.62,
+              51.42
+            ],
+            [
+              113.21,
+              51.34
+            ],
+            [
+              113.75,
+              52.11
+            ],
+            [
+              113.16,
+              52.2
+            ],
+            [
+              112.62,
+              51.42
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chita, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/chita-russia-19670605-dzb00403800006h001002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chita-russia-1967-declassified-spy-satellite-kh7-gambit-dzb00403800006h001002.jpg",
+        "entity_id": "DZB00403800006H001002",
+        "dataset": "DECLASSII",
+        "slug": "chita-russia-19670605-dzb00403800006h001002",
+        "date": "1967-06-05",
+        "country": "RU"
+      }
     }
   ]
 }
