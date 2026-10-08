@@ -68538,6 +68538,46 @@
         "date": "1967-06-05",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.465,
+              -25.965
+            ],
+            [
+              32.815,
+              -26.032
+            ],
+            [
+              32.9,
+              -25.55
+            ],
+            [
+              32.565,
+              -25.5
+            ],
+            [
+              32.465,
+              -25.965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Maputo, Mozambique",
+        "url": "https://spacefromspace.com/declassified-satellite-images/maputo-mozambique-19651002-dzb00402200025h044001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/maputo-mozambique-1965-declassified-spy-satellite-kh7-gambit-dzb00402200025h044001.jpg",
+        "entity_id": "DZB00402200025H044001",
+        "dataset": "DECLASSII",
+        "slug": "maputo-mozambique-19651002-dzb00402200025h044001",
+        "date": "1965-10-02",
+        "country": "MZ"
+      }
     }
   ]
 }
