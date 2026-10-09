@@ -68578,6 +68578,46 @@
         "date": "1965-10-02",
         "country": "MZ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.35,
+              12.583
+            ],
+            [
+              43.568,
+              12.551
+            ],
+            [
+              43.603,
+              12.92
+            ],
+            [
+              43.38,
+              12.942
+            ],
+            [
+              43.35,
+              12.583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bab al-Mandab Strait",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bab-al-mandab-strait-19661020-dzb00403300122h016001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bab-al-mandab-strait-1966-declassified-spy-satellite-kh7-gambit-dzb00403300122h016001.jpg",
+        "entity_id": "DZB00403300122H016001",
+        "dataset": "DECLASSII",
+        "slug": "bab-al-mandab-strait-19661020-dzb00403300122h016001",
+        "date": "1966-10-20",
+        "country": "YE"
+      }
     }
   ]
 }
