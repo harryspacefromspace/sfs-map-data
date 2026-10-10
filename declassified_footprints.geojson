@@ -68542,6 +68542,126 @@
         "date": "1966-10-20",
         "country": "YE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.433,
+              45.916
+            ],
+            [
+              64.833,
+              46.166
+            ],
+            [
+              64.866,
+              46.333
+            ],
+            [
+              61.366,
+              46.066
+            ],
+            [
+              61.433,
+              45.916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Baikonur Cosmodrome, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/baikonur-cosmodrome-19690924-ds1052-1024da067/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/baikonur-cosmodrome-19690924-a__thumb__67fb38561746ed163356d47e_baikonur-tyuratam-cosmodrome-declassified-kh4a-corona-spy-satellite-image-n1--Thumb-.jpg",
+        "entity_id": "DS1052-1024DA067",
+        "dataset": "corona2",
+        "slug": "baikonur-cosmodrome-19690924-ds1052-1024da067",
+        "date": "1969-09-24",
+        "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.45,
+              45.783
+            ],
+            [
+              64.933,
+              46.016
+            ],
+            [
+              64.883,
+              46.183
+            ],
+            [
+              61.466,
+              45.933
+            ],
+            [
+              61.45,
+              45.783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Baikonur Cosmodrome, Kazakhstan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/baikonur-cosmodrome-19690924-ds1052-1024df067/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/baikonur-cosmodrome-19690924-f__thumb__67fb1a2da7124abc194ac43f_baikonur-tyuratam-cosmodrome-declassified-kh4a-corona-spy-satellite-image-n1--Thumb---2-.jpg",
+        "entity_id": "DS1052-1024DF067",
+        "dataset": "corona2",
+        "slug": "baikonur-cosmodrome-19690924-ds1052-1024df067",
+        "date": "1969-09-24",
+        "country": "KZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.449,
+              37.921
+            ],
+            [
+              -74.219,
+              37.738
+            ],
+            [
+              -74.198,
+              37.884
+            ],
+            [
+              -77.551,
+              38.238
+            ],
+            [
+              -77.449,
+              37.921
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Wallops Spaceport, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/wallops-spaceport-19730414-d3c1205-300393a027/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/wallops-island-mid-atlantic-regional-spaceport__thumb__67fb3f9d02d24122ba959381_wallops-island-mid-atlantic-regional-spaceport-declassified-kh9-satellite-19730414--Thumb-.jpg",
+        "entity_id": "D3C1205-300393A027",
+        "dataset": "DECLASSIII",
+        "slug": "wallops-spaceport-19730414-d3c1205-300393a027",
+        "date": "1973-04-14",
+        "country": "US"
+      }
     }
   ]
 }
