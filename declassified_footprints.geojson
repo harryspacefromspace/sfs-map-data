@@ -68818,6 +68818,46 @@
         "date": "1966-07-16",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -59.658,
+              -36.07
+            ],
+            [
+              -58.164,
+              -36.241
+            ],
+            [
+              -57.772,
+              -33.833
+            ],
+            [
+              -59.218,
+              -33.663
+            ],
+            [
+              -59.658,
+              -36.07
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Buenos Aires, Argentina",
+        "url": "https://spacefromspace.com/declassified-satellite-images/buenos-aires-argentina-19741031-dzb1209500009l014001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/buenos-aires-argentina-1974-declassified-spy-satellite-kh9-hexagon-dzb1209-500009l014001.jpg",
+        "entity_id": "DZB1209-500009L014001",
+        "dataset": "DECLASSII",
+        "slug": "buenos-aires-argentina-19741031-dzb1209500009l014001",
+        "date": "1974-10-31",
+        "country": "AR"
+      }
     }
   ]
 }
