@@ -68778,6 +68778,46 @@
         "date": "1973-04-14",
         "country": "US"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.132,
+              55.6
+            ],
+            [
+              37.55,
+              55.55
+            ],
+            [
+              37.582,
+              55.7
+            ],
+            [
+              37.165,
+              55.732
+            ],
+            [
+              37.132,
+              55.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Moscow, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/moscow-russia-19660716-dzb00403000058h014002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/moscow-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00403000058h014002.jpg",
+        "entity_id": "DZB00403000058H014002",
+        "dataset": "DECLASSII",
+        "slug": "moscow-russia-19660716-dzb00403000058h014002",
+        "date": "1966-07-16",
+        "country": "RU"
+      }
     }
   ]
 }
