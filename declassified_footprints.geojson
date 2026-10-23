@@ -69166,6 +69166,46 @@
         "date": "1979-07-28",
         "country": "BR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.088,
+              51.731
+            ],
+            [
+              31.557,
+              51.074
+            ],
+            [
+              31.576,
+              51.324
+            ],
+            [
+              26.223,
+              51.969
+            ],
+            [
+              26.088,
+              51.731
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chernobyl, Ukraine",
+        "url": "https://spacefromspace.com/declassified-satellite-images/chernobyl-ukraine-19710712-d3c1201400383f018/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chernobyl-ukraine-1971-declassified-spy-satellite-kh9-hexagon-d3c1201-400383f018.jpg",
+        "entity_id": "D3C1201-400383F018",
+        "dataset": "DECLASSIII",
+        "slug": "chernobyl-ukraine-19710712-d3c1201400383f018",
+        "date": "1971-07-12",
+        "country": "BY"
+      }
     }
   ]
 }
