@@ -69346,6 +69346,46 @@
         "date": "1983-11-15",
         "country": "PK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.29,
+              27.361
+            ],
+            [
+              23.613,
+              32.721
+            ],
+            [
+              18.396,
+              35.025
+            ],
+            [
+              15.288,
+              29.539
+            ],
+            [
+              20.29,
+              27.361
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Libya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/libya-19640617-ds09065a057mc050/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/libya-1964-declassified-spy-satellite-kh5-argon-ds09065a057mc050.jpg",
+        "entity_id": "DS09065A057MC050",
+        "dataset": "corona2",
+        "slug": "libya-19640617-ds09065a057mc050",
+        "date": "1964-06-17",
+        "country": "LY"
+      }
     }
   ]
 }
