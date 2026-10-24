@@ -69206,6 +69206,46 @@
         "date": "1971-07-12",
         "country": "BY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.536,
+              26.32
+            ],
+            [
+              82.556,
+              26.211
+            ],
+            [
+              82.581,
+              26.37
+            ],
+            [
+              81.584,
+              26.503
+            ],
+            [
+              81.536,
+              26.32
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Uttar Pradesh, India",
+        "url": "https://spacefromspace.com/declassified-satellite-images/uttar-pradesh-india-19820915-d3c1217301354f014/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/uttar-pradesh-india-1982-declassified-spy-satellite-kh9-hexagon-d3c1217-301354f014.jpg",
+        "entity_id": "D3C1217-301354F014",
+        "dataset": "DECLASSIII",
+        "slug": "uttar-pradesh-india-19820915-d3c1217301354f014",
+        "date": "1982-09-15",
+        "country": "IN"
+      }
     }
   ]
 }
