@@ -69386,6 +69386,46 @@
         "date": "1964-06-17",
         "country": "LY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.517,
+              -17.877
+            ],
+            [
+              31.55,
+              -17.978
+            ],
+            [
+              31.58,
+              -17.783
+            ],
+            [
+              30.529,
+              -17.68
+            ],
+            [
+              30.517,
+              -17.877
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Harare, Zimbabwe",
+        "url": "https://spacefromspace.com/declassified-satellite-images/harare-zimbabwe-19790628-d3c1215300860a013/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/harare-zimbabwe-1979-declassified-spy-satellite-kh9-hexagon-d3c1215-300860a013.jpg",
+        "entity_id": "D3C1215-300860A013",
+        "dataset": "DECLASSIII",
+        "slug": "harare-zimbabwe-19790628-d3c1215300860a013",
+        "date": "1979-06-28",
+        "country": "ZW"
+      }
     }
   ]
 }
