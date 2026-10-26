@@ -69426,6 +69426,62 @@
         "date": "1979-06-28",
         "country": "ZW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38.857586738516794,
+              8.88497814012217
+            ],
+            [
+              38.58702044312937,
+              8.91365667630331
+            ],
+            [
+              38.562865633055836,
+              8.916540426995306
+            ],
+            [
+              38.58539931493651,
+              9.028828713813612
+            ],
+            [
+              38.598530453298636,
+              9.0901640645557
+            ],
+            [
+              38.60663609426291,
+              9.089363409478663
+            ],
+            [
+              38.88709127162675,
+              9.051570456388639
+            ],
+            [
+              38.88676704598817,
+              9.048687779798012
+            ],
+            [
+              38.857586738516794,
+              8.88497814012217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Addis Ababa, Ethiopia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/addis-ababa-ethiopia-19790514-d3c1215200533f006/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/addis-ababa-ethiopia-1979-declassified-spy-satellite-kh9-hexagon-d3c1215-200533f006.jpg",
+        "entity_id": "D3C1215-200533F006",
+        "dataset": "DECLASSIII",
+        "slug": "addis-ababa-ethiopia-19790514-d3c1215200533f006",
+        "date": "1979-05-14",
+        "country": "ET"
+      }
     }
   ]
 }
