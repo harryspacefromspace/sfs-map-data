@@ -69482,6 +69482,46 @@
         "date": "1979-05-14",
         "country": "ET"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.461,
+              -6.874
+            ],
+            [
+              -79.154,
+              -6.997
+            ],
+            [
+              -79.122,
+              -6.817
+            ],
+            [
+              -80.382,
+              -6.628
+            ],
+            [
+              -80.461,
+              -6.874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Chiclayo, Peru",
+        "url": "https://spacefromspace.com/declassified-satellite-images/chiclayo-peru-19820815-d3c1217300980f020/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/chiclayo-peru-1982-declassified-spy-satellite-kh9-hexagon-d3c1217-300980f020.jpg",
+        "entity_id": "D3C1217-300980F020",
+        "dataset": "DECLASSIII",
+        "slug": "chiclayo-peru-19820815-d3c1217300980f020",
+        "date": "1982-08-15",
+        "country": "PE"
+      }
     }
   ]
 }
