@@ -69630,6 +69630,46 @@
         "date": "1978-04-22",
         "country": "BS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.765,
+              54.932
+            ],
+            [
+              83.1,
+              54.882
+            ],
+            [
+              83.25,
+              55.265
+            ],
+            [
+              82.9,
+              55.3
+            ],
+            [
+              82.765,
+              54.932
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Novosibirsk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/novosibirsk-russia-19651004-dzb00402200056h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/novosibirsk-russia-1965-declassified-spy-satellite-kh7-gambit-dzb00402200056h009001.jpg",
+        "entity_id": "DZB00402200056H009001",
+        "dataset": "DECLASSII",
+        "slug": "novosibirsk-russia-19651004-dzb00402200056h009001",
+        "date": "1965-10-04",
+        "country": "RU"
+      }
     }
   ]
 }
