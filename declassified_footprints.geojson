@@ -69590,6 +69590,46 @@
         "date": "1983-12-09",
         "country": "MX"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.058,
+              25.473
+            ],
+            [
+              -77.831,
+              25.339
+            ],
+            [
+              -77.514,
+              27.548
+            ],
+            [
+              -78.76,
+              27.689
+            ],
+            [
+              -79.058,
+              25.473
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Grand Bahama, The Bahamas",
+        "url": "https://spacefromspace.com/declassified-satellite-images/grand-bahama-the-bahamas-19780422-dzb1214500173l004001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/grand-bahama-the-bahamas-1978-declassified-spy-satellite-kh9-hexagon-dzb1214-500173l004001.jpg",
+        "entity_id": "DZB1214-500173L004001",
+        "dataset": "DECLASSII",
+        "slug": "grand-bahama-the-bahamas-19780422-dzb1214500173l004001",
+        "date": "1978-04-22",
+        "country": "BS"
+      }
     }
   ]
 }
