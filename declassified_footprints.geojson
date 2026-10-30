@@ -69790,6 +69790,46 @@
         "date": "1979-06-04",
         "country": "MV"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33,
+              68.83
+            ],
+            [
+              33.46,
+              68.82
+            ],
+            [
+              33.6,
+              69.46
+            ],
+            [
+              33.14,
+              69.47
+            ],
+            [
+              33,
+              68.83
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Kola Bay, Murmansk, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/kola-bay-murmansk-russia-19670528-dzb00403700090h002002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/kola-bay-murmansk-russia-1967-declassified-spy-satellite-kh7-gambit-dzb00403700090h002002.jpg",
+        "entity_id": "DZB00403700090H002002",
+        "dataset": "DECLASSII",
+        "slug": "kola-bay-murmansk-russia-19670528-dzb00403700090h002002",
+        "date": "1967-05-28",
+        "country": "RU"
+      }
     }
   ]
 }
