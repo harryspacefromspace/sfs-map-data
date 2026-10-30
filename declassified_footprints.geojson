@@ -61958,11 +61958,11 @@
       },
       "properties": {
         "title": "Pontevedra, Spain",
-        "url": "https://spacefromspace.com/declassified-satellite-images/dzc00403000125h008001/",
+        "url": "https://spacefromspace.com/declassified-satellite-images/pontevedra-spain-19660720-dzc00403000125h008001/",
         "thumbnail": "https://media.spacefromspace.com/images/uploads/cambados-spain-1965-declassified-spy-satellite-kh7-gambit.jpg",
         "entity_id": "DZC00403000125H008001",
         "dataset": "DECLASSII",
-        "slug": "dzc00403000125h008001",
+        "slug": "pontevedra-spain-19660720-dzc00403000125h008001",
         "date": "1966-07-20",
         "country": "ES"
       }
@@ -69869,6 +69869,46 @@
         "slug": "jeddah-saudi-arabia-19660423-dzb00402700057h021001",
         "date": "1966-04-23",
         "country": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.767,
+              31.053
+            ],
+            [
+              21.016,
+              30.903
+            ],
+            [
+              21.392,
+              33.039
+            ],
+            [
+              20.117,
+              33.196
+            ],
+            [
+              19.767,
+              31.053
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Benghazi, Libya",
+        "url": "https://spacefromspace.com/declassified-satellite-images/benghazi-libya-19760828-dzb1212500244l001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/benghazi-libya-1976-declassified-spy-satellite-kh9-hexagon-dzb1212-500244l001001.jpg",
+        "entity_id": "DZB1212-500244L001001",
+        "dataset": "DECLASSII",
+        "slug": "benghazi-libya-19760828-dzb1212500244l001001",
+        "date": "1976-08-28",
+        "country": "LY"
       }
     }
   ]
