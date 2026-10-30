@@ -69830,6 +69830,46 @@
         "date": "1967-05-28",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.015,
+              21.315
+            ],
+            [
+              39.165,
+              21.215
+            ],
+            [
+              39.465,
+              21.665
+            ],
+            [
+              39.315,
+              21.75
+            ],
+            [
+              39.015,
+              21.315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Jeddah, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/jeddah-saudi-arabia-19660423-dzb00402700057h021001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/jeddah-saudi-arabia-1966-declassified-spy-satellite-kh7-gambit-dzb00402700057h021001.jpg",
+        "entity_id": "DZB00402700057H021001",
+        "dataset": "DECLASSII",
+        "slug": "jeddah-saudi-arabia-19660423-dzb00402700057h021001",
+        "date": "1966-04-23",
+        "country": "SA"
+      }
     }
   ]
 }
