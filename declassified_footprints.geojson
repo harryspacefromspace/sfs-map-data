@@ -70054,6 +70054,46 @@
         "date": "1980-08-22",
         "country": "IS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.632,
+              55.765
+            ],
+            [
+              22.015,
+              55.75
+            ],
+            [
+              22.115,
+              56.232
+            ],
+            [
+              21.715,
+              56.25
+            ],
+            [
+              21.632,
+              55.765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Plunge, Lithuania",
+        "url": "https://spacefromspace.com/declassified-satellite-images/plunge-lithuania-19660820-dzb00403100058h007001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/plunge-lithuania-1966-declassified-spy-satellite-kh7-gambit-dzb00403100058h007001.jpg",
+        "entity_id": "DZB00403100058H007001",
+        "dataset": "DECLASSII",
+        "slug": "plunge-lithuania-19660820-dzb00403100058h007001",
+        "date": "1966-08-20",
+        "country": "LT"
+      }
     }
   ]
 }
