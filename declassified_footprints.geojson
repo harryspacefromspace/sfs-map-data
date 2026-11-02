@@ -70094,6 +70094,46 @@
         "date": "1966-08-20",
         "country": "LT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.928,
+              53.284
+            ],
+            [
+              -8.13,
+              53.007
+            ],
+            [
+              -8.11,
+              53.225
+            ],
+            [
+              -9.886,
+              53.438
+            ],
+            [
+              -9.928,
+              53.284
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Galway, Ireland",
+        "url": "https://spacefromspace.com/declassified-satellite-images/galway-ireland-19750625-d3c1210200149f015/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/galway-ireland-1975-declassified-spy-satellite-kh9-hexagon-d3c1210-200149f015.jpg",
+        "entity_id": "D3C1210-200149F015",
+        "dataset": "DECLASSIII",
+        "slug": "galway-ireland-19750625-d3c1210200149f015",
+        "date": "1975-06-25",
+        "country": "IE"
+      }
     }
   ]
 }
