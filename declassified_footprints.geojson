@@ -70134,6 +70134,46 @@
         "date": "1975-06-25",
         "country": "IE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.539,
+              10.379
+            ],
+            [
+              45.709,
+              10.196
+            ],
+            [
+              45.698,
+              10.426
+            ],
+            [
+              44.552,
+              10.542
+            ],
+            [
+              44.539,
+              10.379
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Berbera, Somalia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/berbera-somalia-19751217-d3c1211100085f004/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/berbera-somalia-1975-declassified-spy-satellite-kh9-hexagon-d3c1211-100085f004.jpg",
+        "entity_id": "D3C1211-100085F004",
+        "dataset": "DECLASSIII",
+        "slug": "berbera-somalia-19751217-d3c1211100085f004",
+        "date": "1975-12-17",
+        "country": "SO"
+      }
     }
   ]
 }
