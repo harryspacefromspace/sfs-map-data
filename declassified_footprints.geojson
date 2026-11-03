@@ -70174,6 +70174,46 @@
         "date": "1975-12-17",
         "country": "SO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.215,
+              52.882
+            ],
+            [
+              158.4,
+              52.75
+            ],
+            [
+              158.882,
+              52.982
+            ],
+            [
+              158.7,
+              53.115
+            ],
+            [
+              158.215,
+              52.882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Petropavlovsk-Kamchatsky, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/petropavlovsk-kamchatsky-russia-19660422-dzb00402700037h001001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/petropavlovsk-kamchatsky-russia-1966-declassified-spy-satellite-kh7-gambit-dzb00402700037h001001.jpg",
+        "entity_id": "DZB00402700037H001001",
+        "dataset": "DECLASSII",
+        "slug": "petropavlovsk-kamchatsky-russia-19660422-dzb00402700037h001001",
+        "date": "1966-04-22",
+        "country": "RU"
+      }
     }
   ]
 }
