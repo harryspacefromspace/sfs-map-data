@@ -70558,6 +70558,86 @@
         "date": "1973-09-25",
         "country": "MN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.932,
+              -13.865
+            ],
+            [
+              15.132,
+              -13.9
+            ],
+            [
+              15.2,
+              -13.482
+            ],
+            [
+              15,
+              -13.45
+            ],
+            [
+              14.932,
+              -13.865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Caconda, Angola",
+        "url": "https://spacefromspace.com/declassified-satellite-images/caconda-angola-19650529-dzb00401800026h032001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/caconda-angola-1965-declassified-spy-satellite-kh7-gambit-dzb00401800026h032001.jpg",
+        "entity_id": "DZB00401800026H032001",
+        "dataset": "DECLASSII",
+        "slug": "caconda-angola-19650529-dzb00401800026h032001",
+        "date": "1965-05-29",
+        "country": "AO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.15,
+              43.415
+            ],
+            [
+              16.382,
+              43.282
+            ],
+            [
+              16.782,
+              43.632
+            ],
+            [
+              16.55,
+              43.782
+            ],
+            [
+              16.15,
+              43.415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Split, Croatia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/split-croatia-19660424-dzb00402700075h019001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/split-croatia-1966-declassified-spy-satellite-kh7-gambit-dzb00402700075h019001.jpg",
+        "entity_id": "DZB00402700075H019001",
+        "dataset": "DECLASSII",
+        "slug": "split-croatia-19660424-dzb00402700075h019001",
+        "date": "1966-04-24",
+        "country": "HR"
+      }
     }
   ]
 }
