@@ -70446,6 +70446,118 @@
         "date": "1983-12-05",
         "country": "IN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.04,
+              20.21
+            ],
+            [
+              -77.87,
+              20.17
+            ],
+            [
+              -77.3,
+              22.13
+            ],
+            [
+              -77.46,
+              22.17
+            ],
+            [
+              -78.04,
+              20.21
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Cuba",
+        "url": "https://spacefromspace.com/declassified-satellite-images/cuba-19640521-dzb00400800014h001005/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/cuba-1964-declassified-spy-satellite-kh7-gambit-dzb00400800014h001005.jpg",
+        "entity_id": "DZB00400800014H001005",
+        "dataset": "DECLASSII",
+        "slug": "cuba-19640521-dzb00400800014h001005",
+        "date": "1964-05-21",
+        "country": "CU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.14230563215095,
+              47.82728803790281
+            ],
+            [
+              107.13670582916797,
+              47.82761504190776
+            ],
+            [
+              106.73668512042673,
+              47.86389968057691
+            ],
+            [
+              106.71160774185074,
+              47.866350429915116
+            ],
+            [
+              106.7128250903253,
+              47.87076148672584
+            ],
+            [
+              106.72378122659636,
+              47.89803634800936
+            ],
+            [
+              106.7812400745957,
+              48.03549804947924
+            ],
+            [
+              106.78659640788378,
+              48.03517235736046
+            ],
+            [
+              106.83869892259506,
+              48.02898381594751
+            ],
+            [
+              107.19854713167572,
+              47.98499119895829
+            ],
+            [
+              107.19732978320117,
+              47.98042685412212
+            ],
+            [
+              107.16519178347272,
+              47.88889188721623
+            ],
+            [
+              107.14230563215095,
+              47.82728803790281
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ulaanbaatar, Mongolia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/ulaanbaatar-mongolia-19730925-d3c1206400661f002/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/ulaanbaatar-mongolia-1973-declassified-spy-satellite-kh9-hexagon-d3c1206-400661f002.jpg",
+        "entity_id": "D3C1206-400661F002",
+        "dataset": "DECLASSIII",
+        "slug": "ulaanbaatar-mongolia-19730925-d3c1206400661f002",
+        "date": "1973-09-25",
+        "country": "MN"
+      }
     }
   ]
 }
