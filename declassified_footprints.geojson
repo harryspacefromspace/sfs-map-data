@@ -70638,6 +70638,46 @@
         "date": "1966-04-24",
         "country": "HR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38.507,
+              20.734
+            ],
+            [
+              39.63,
+              20.622
+            ],
+            [
+              39.881,
+              22.722
+            ],
+            [
+              38.742,
+              22.836
+            ],
+            [
+              38.507,
+              20.734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Jeddah, Saudi Arabia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/jeddah-saudi-arabia-19730315-dzb1205500032l013001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/jeddah-saudi-arabia-1973-declassified-spy-satellite-kh9-hexagon-dzb1205-500032l013001.jpg",
+        "entity_id": "DZB1205-500032L013001",
+        "dataset": "DECLASSII",
+        "slug": "jeddah-saudi-arabia-19730315-dzb1205500032l013001",
+        "date": "1973-03-15",
+        "country": "SA"
+      }
     }
   ]
 }
