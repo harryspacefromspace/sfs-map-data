@@ -70678,6 +70678,46 @@
         "date": "1973-03-15",
         "country": "SA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.6,
+              43.8
+            ],
+            [
+              146.815,
+              43.7
+            ],
+            [
+              147.082,
+              44.015
+            ],
+            [
+              146.85,
+              44.115
+            ],
+            [
+              146.6,
+              43.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Shikotan",
+        "url": "https://spacefromspace.com/declassified-satellite-images/shikotan-19660518-dzb00402800053h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/shikotan-1966-declassified-spy-satellite-kh7-gambit-dzb00402800053h009001.jpg",
+        "entity_id": "DZB00402800053H009001",
+        "dataset": "DECLASSII",
+        "slug": "shikotan-19660518-dzb00402800053h009001",
+        "date": "1966-05-18",
+        "country": "RU"
+      }
     }
   ]
 }
