@@ -70718,6 +70718,46 @@
         "date": "1966-05-18",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108,
+              34.132
+            ],
+            [
+              108.315,
+              34.1
+            ],
+            [
+              108.365,
+              34.45
+            ],
+            [
+              108.032,
+              34.482
+            ],
+            [
+              108,
+              34.132
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Shaanxi Province, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/shaanxi-province-china-19670524-dzb00403700022h009001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/shaanxi-province-china-1967-declassified-spy-satellite-kh7-gambit-dzb00403700022h009001.jpg",
+        "entity_id": "DZB00403700022H009001",
+        "dataset": "DECLASSII",
+        "slug": "shaanxi-province-china-19670524-dzb00403700022h009001",
+        "date": "1967-05-24",
+        "country": "CN"
+      }
     }
   ]
 }
