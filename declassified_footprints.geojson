@@ -70758,6 +70758,46 @@
         "date": "1967-05-24",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.412,
+              -38.878
+            ],
+            [
+              -61.92,
+              -39.075
+            ],
+            [
+              -61.907,
+              -38.837
+            ],
+            [
+              -63.37,
+              -38.676
+            ],
+            [
+              -63.412,
+              -38.878
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bahía Blanca and Puerto Belgrano Naval Base, Argentina",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bahia-blanca-and-puerto-belgrano-naval-base-argentina-19721112-d3c1204300392f007/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bahia-blanca-and-puerto-belgrano-naval-base-argentina-1972-declassified-spy-satellite-kh9-hexagon-d3c1204-300392f007.jpg",
+        "entity_id": "D3C1204-300392F007",
+        "dataset": "DECLASSIII",
+        "slug": "bahia-blanca-and-puerto-belgrano-naval-base-argentina-19721112-d3c1204300392f007",
+        "date": "1972-11-12",
+        "country": "AR"
+      }
     }
   ]
 }
