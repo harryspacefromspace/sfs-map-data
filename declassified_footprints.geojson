@@ -70798,6 +70798,86 @@
         "date": "1972-11-12",
         "country": "AR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.9,
+              -38.914
+            ],
+            [
+              -60.936,
+              -39.172
+            ],
+            [
+              -60.958,
+              -38.868
+            ],
+            [
+              -62.873,
+              -38.7
+            ],
+            [
+              -62.9,
+              -38.914
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bahía Blanca and Puerto Belgrano Naval Base, Argentina",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bahia-blanca-and-puerto-belgrano-naval-base-argentina-19810225-d3c1216401366f004/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bahia-blanca-and-puerto-belgrano-naval-base-argentina-1981-declassified-spy-satellite-kh9-hexagon-d3c1216-401366f004.jpg",
+        "entity_id": "D3C1216-401366F004",
+        "dataset": "DECLASSIII",
+        "slug": "bahia-blanca-and-puerto-belgrano-naval-base-argentina-19810225-d3c1216401366f004",
+        "date": "1981-02-25",
+        "country": "AR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.154,
+              -38.881
+            ],
+            [
+              -61.84,
+              -39.013
+            ],
+            [
+              -61.796,
+              -38.811
+            ],
+            [
+              -63.131,
+              -38.676
+            ],
+            [
+              -63.154,
+              -38.881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Bahía Blanca and Puerto Belgrano Naval Base, Argentina",
+        "url": "https://spacefromspace.com/declassified-satellite-images/bahia-blanca-and-puerto-belgrano-naval-base-argentina-19840927-d3c1219300880a004/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/bahia-blanca-and-puerto-belgrano-naval-base-argentina-1984-declassified-spy-satellite-kh9-hexagon-d3c1219-300880a004.jpg",
+        "entity_id": "D3C1219-300880A004",
+        "dataset": "DECLASSIII",
+        "slug": "bahia-blanca-and-puerto-belgrano-naval-base-argentina-19840927-d3c1219300880a004",
+        "date": "1984-09-27",
+        "country": "AR"
+      }
     }
   ]
 }
