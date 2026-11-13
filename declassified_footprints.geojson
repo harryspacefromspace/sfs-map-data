@@ -70878,6 +70878,46 @@
         "date": "1984-09-27",
         "country": "AR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.261,
+              11.354
+            ],
+            [
+              44.437,
+              11.558
+            ],
+            [
+              44.383,
+              11.729
+            ],
+            [
+              42.278,
+              11.53
+            ],
+            [
+              42.261,
+              11.354
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Djibouti",
+        "url": "https://spacefromspace.com/declassified-satellite-images/djibouti-19671217-ds11022122df051/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/djibouti-1967-declassified-spy-satellite-kh4b-corona-ds1102-2122df051.jpg",
+        "entity_id": "DS1102-2122DF051",
+        "dataset": "corona2",
+        "slug": "djibouti-19671217-ds11022122df051",
+        "date": "1967-12-17",
+        "country": "DJ"
+      }
     }
   ]
 }
