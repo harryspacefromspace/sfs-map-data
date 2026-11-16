@@ -70918,6 +70918,46 @@
         "date": "1967-12-17",
         "country": "DJ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.003,
+              44.594
+            ],
+            [
+              34.908,
+              44.314
+            ],
+            [
+              34.938,
+              44.48
+            ],
+            [
+              32.118,
+              44.824
+            ],
+            [
+              32.003,
+              44.594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sevastopol, Crimea",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sevastopol-crimea-19821006-d3c1217401576f013/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sevastopol-crimea-1982-declassified-spy-satellite-kh9-hexagon-d3c1217-401576f013.jpg",
+        "entity_id": "D3C1217-401576F013",
+        "dataset": "DECLASSIII",
+        "slug": "sevastopol-crimea-19821006-d3c1217401576f013",
+        "date": "1982-10-06",
+        "country": "UA"
+      }
     }
   ]
 }
