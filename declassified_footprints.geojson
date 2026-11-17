@@ -70438,11 +70438,11 @@
       },
       "properties": {
         "title": "Mumbai, India",
-        "url": "https://spacefromspace.com/declassified-satellite-images/mumbai-india-19831205-d3c1218301084f016-019/",
+        "url": "https://spacefromspace.com/declassified-satellite-images/mumbai-india-19771112-d3c1218301084f016-019/",
         "thumbnail": "https://media.spacefromspace.com/images/uploads/mumbai-india-1983-declassified-spy-satellite-kh9-hexagon-d3c1218-301084f016-019.jpg",
         "entity_id": "D3C1218-301084F016",
         "dataset": "DECLASSIII",
-        "slug": "mumbai-india-19831205-d3c1218301084f016-019",
+        "slug": "mumbai-india-19771112-d3c1218301084f016-019",
         "date": "1983-12-05",
         "country": "IN"
       }
@@ -70957,6 +70957,130 @@
         "slug": "sevastopol-crimea-19821006-d3c1217401576f013",
         "date": "1982-10-06",
         "country": "UA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.468961561527,
+              39.68831557435143
+            ],
+            [
+              -75.53626522555071,
+              39.80171135605021
+            ],
+            [
+              -75.63599586391857,
+              40.232141597385144
+            ],
+            [
+              -75.63599586391857,
+              40.24065627619425
+            ],
+            [
+              -75.63165974920692,
+              40.2676123617447
+            ],
+            [
+              -75.61245695548392,
+              40.37674548362231
+            ],
+            [
+              -75.6013069462254,
+              40.37674548362231
+            ],
+            [
+              -74.71240343033797,
+              40.29975645164376
+            ],
+            [
+              -74.6492200445397,
+              40.29361243972927
+            ],
+            [
+              -74.39710594630543,
+              40.132724581926055
+            ],
+            [
+              -74.39710594630543,
+              40.08912457646971
+            ],
+            [
+              -74.39834483622303,
+              40.050240147458325
+            ],
+            [
+              -74.40330039589348,
+              39.96575610816304
+            ],
+            [
+              -74.42993652912219,
+              39.82646205935559
+            ],
+            [
+              -74.45843099722727,
+              39.68831557435143
+            ],
+            [
+              -74.468961561527,
+              39.68831557435143
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Philadelphia, Pennsylvania, USA",
+        "url": "https://spacefromspace.com/declassified-satellite-images/philadelphia-pennsylvania-usa-19740720-d3c1208400756f001-004/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/philadelphia-pennsylvania-usa-1974-declassified-spy-satellite-kh9-hexagon-d3c1208-400756f001-004.jpg",
+        "entity_id": "D3C1208-400756F001",
+        "dataset": "DECLASSIII",
+        "slug": "philadelphia-pennsylvania-usa-19740720-d3c1208400756f001-004",
+        "date": "1974-07-20",
+        "country": "US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.444,
+              18.942
+            ],
+            [
+              73.357,
+              18.83
+            ],
+            [
+              73.399,
+              19.006
+            ],
+            [
+              72.462,
+              19.097
+            ],
+            [
+              72.444,
+              18.942
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Mumbai, India",
+        "url": "https://spacefromspace.com/declassified-satellite-images/mumbai-india-19771112-d3c1213400775a050/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/mumbai-india-1977-declassified-spy-satellite-kh9-hexagon-d3c1213-400775a050.jpg",
+        "entity_id": "D3C1213-400775A050",
+        "dataset": "DECLASSIII",
+        "slug": "mumbai-india-19771112-d3c1213400775a050",
+        "date": "1977-11-12",
+        "country": "IN"
       }
     }
   ]
