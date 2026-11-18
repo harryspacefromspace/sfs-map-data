@@ -71082,6 +71082,46 @@
         "date": "1977-11-12",
         "country": "IN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140,
+              48.882
+            ],
+            [
+              140.315,
+              48.85
+            ],
+            [
+              140.432,
+              49.315
+            ],
+            [
+              140.115,
+              49.35
+            ],
+            [
+              140,
+              48.882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sovetskaya Gavan and Vanino, Khabarovsk Krai, Russia",
+        "url": "https://spacefromspace.com/declassified-satellite-images/sovetskaya-gavan-and-vanino-khabarovsk-krai-russia-19651003-dzb00402200037h008001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/sovetskaya-gavan-and-vanino-khabarovsk-krai-russia-1965-declassified-spy-satellite-kh7-gambit-dzb00402200037h008001.jpg",
+        "entity_id": "DZB00402200037H008001",
+        "dataset": "DECLASSII",
+        "slug": "sovetskaya-gavan-and-vanino-khabarovsk-krai-russia-19651003-dzb00402200037h008001",
+        "date": "1965-10-03",
+        "country": "RU"
+      }
     }
   ]
 }
