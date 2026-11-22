@@ -71122,6 +71122,46 @@
         "date": "1965-10-03",
         "country": "RU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.082,
+              6.015
+            ],
+            [
+              1.265,
+              5.95
+            ],
+            [
+              1.365,
+              6.282
+            ],
+            [
+              1.182,
+              6.35
+            ],
+            [
+              1.082,
+              6.015
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Lomé, Togo",
+        "url": "https://spacefromspace.com/declassified-satellite-images/lome-togo-19661212-dzb00403500107h016001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/lome-togo-1966-declassified-spy-satellite-kh7-gambit-dzb00403500107h016001.jpg",
+        "entity_id": "DZB00403500107H016001",
+        "dataset": "DECLASSII",
+        "slug": "lome-togo-19661212-dzb00403500107h016001",
+        "date": "1966-12-12",
+        "country": "TG"
+      }
     }
   ]
 }
