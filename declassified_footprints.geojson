@@ -71162,6 +71162,46 @@
         "date": "1966-12-12",
         "country": "TG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.35,
+              31.05
+            ],
+            [
+              121.532,
+              31.032
+            ],
+            [
+              121.615,
+              31.432
+            ],
+            [
+              121.432,
+              31.465
+            ],
+            [
+              121.35,
+              31.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Shanghai, China",
+        "url": "https://spacefromspace.com/declassified-satellite-images/shanghai-china-19660720-dzc00403000119h016001/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/shanghai-china-1966-declassified-spy-satellite-kh7-gambit-dzc00403000119h016001.jpg",
+        "entity_id": "DZC00403000119H016001",
+        "dataset": "DECLASSII",
+        "slug": "shanghai-china-19660720-dzc00403000119h016001",
+        "date": "1966-07-20",
+        "country": "CN"
+      }
     }
   ]
 }
