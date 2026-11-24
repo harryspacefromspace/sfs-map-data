@@ -71202,6 +71202,66 @@
         "date": "1966-07-20",
         "country": "CN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              17.441417495735713,
+              40.3758418881805
+            ],
+            [
+              16.916491563746654,
+              40.415650070020554
+            ],
+            [
+              16.881648819621155,
+              40.41869453552405
+            ],
+            [
+              16.877936068197947,
+              40.55989300141695
+            ],
+            [
+              16.877936068197947,
+              40.647720245116446
+            ],
+            [
+              16.88736074488763,
+              40.64707009723672
+            ],
+            [
+              16.9230602778031,
+              40.64295234691553
+            ],
+            [
+              17.449128594845455,
+              40.58050481352412
+            ],
+            [
+              17.449128594845455,
+              40.572694768644354
+            ],
+            [
+              17.441417495735713,
+              40.3758418881805
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Taranto, Italy",
+        "url": "https://spacefromspace.com/declassified-satellite-images/taranto-italy-19710617-d3c1201100013a024/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/taranto-italy-1971-declassified-spy-satellite-kh9-hexagon-d3c1201-100013a024.jpg",
+        "entity_id": "D3C1201-100013A024",
+        "dataset": "DECLASSIII",
+        "slug": "taranto-italy-19710617-d3c1201100013a024",
+        "date": "1971-06-17",
+        "country": "IT"
+      }
     }
   ]
 }
