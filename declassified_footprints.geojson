@@ -71262,6 +71262,46 @@
         "date": "1971-06-17",
         "country": "IT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.798,
+              35.83
+            ],
+            [
+              14.895,
+              35.704
+            ],
+            [
+              14.948,
+              35.885
+            ],
+            [
+              13.821,
+              35.989
+            ],
+            [
+              13.798,
+              35.83
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Malta",
+        "url": "https://spacefromspace.com/declassified-satellite-images/malta-19790627-d3c1215300851a004/",
+        "thumbnail": "https://media.spacefromspace.com/images/uploads/malta-1979-declassified-spy-satellite-kh9-hexagon-d3c1215-300851a004.jpg",
+        "entity_id": "D3C1215-300851A004",
+        "dataset": "DECLASSIII",
+        "slug": "malta-19790627-d3c1215300851a004",
+        "date": "1979-06-27",
+        "country": "MT"
+      }
     }
   ]
 }
